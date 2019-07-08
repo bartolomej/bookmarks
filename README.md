@@ -33,3 +33,5 @@
 - ANN Differentiable Image Parameterizations (https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
 - Complex systems book archive (https://www.complex-systems.com/archives/)
 - Facebook F8 open source project and blog (https://makeitopen.com/)
+- Ethereum developer portal (https://ethereum.consensys.net/)
+- Enigma decentralized private computation network docs (https://enigma.co/discovery-documentation/)
