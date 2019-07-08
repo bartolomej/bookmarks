@@ -25,6 +25,7 @@
 - Source control using centralized VCS (https://ericsink.com/scm/source_control.html)
 - Git internals (https://git-scm.com/book/en/v1/Git-Internals)
 - GitHub flow (https://guides.github.com/introduction/flow/)
+- Git flow by Atlassian (https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - QA on orchestrating microservices (https://stackoverflow.com/questions/29117570/orchestrating-microservices)
 - Higher order thinking (https://en.wikipedia.org/wiki/Higher-order_thinking)
 - Integrative complexity - psychology (https://en.wikipedia.org/wiki/Integrative_complexity)
