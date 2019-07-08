@@ -1,8 +1,10 @@
 # Cool links
 
-### Computer science
+Links of different interesting ideas, resources, blogs, articles, books etc.
 
-##### Programming
+## Computer science
+
+#### Programming
 
 - Regex debugger with state graph visualization (https://www.debuggex.com/)
 - JavaScript dependency analyzer and visualizer (https://www.npmjs.com/package/dependency-cruiser)
@@ -11,9 +13,10 @@
 - ANN Differentiable Image Parameterizations (https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
 
 
-##### Software engineering and architecture
+#### Software engineering and architecture
 
 - QA for resources on implementing VM (https://stackoverflow.com/questions/2034422/tutorial-resource-for-implementing-vm)
+- Compiler architecture (https://cs.lmu.edu/~ray/notes/compilerarchitecture/)
 - Compiler design tutorial (https://www.geeksforgeeks.org/compiler-lexical-analysis/)
 - Cool tutorial website on writing a parser (http://lisperator.net/pltut/parser/)
 - Online book about OS development (https://littleosbook.github.io/)
@@ -29,7 +32,7 @@
 - Enigma decentralized private computation network docs (https://enigma.co/discovery-documentation/)
 
 
-##### Distributed systems
+#### Distributed systems
 
 - Blog from ethereum developer (http://frozeman.de/blog/)
 - Commit-reveal scheme on Ethereum (https://github.com/austintgriffith/commit-reveal)
@@ -41,23 +44,50 @@
 - Simplechain repo (https://github.com/olistic/simplechain/tree/master/lib)
 - Statechain blog article (https://statecharts.github.io/)
 - Awesome distributed systems list (https://github.com/theanalyst/awesome-distributed-systems)
+- Bitcoin protocol documentation (https://en.bitcoin.it/wiki/Protocol_documentation)
 
-
-### Mathematics
+## Mathematics
 
 - Chaotic equations in browser visualization (https://chaos-equations.glitch.me/?p=VNYAVO)
 
 
-### Complexity science
+## Complexity science
 
 - Complexity rising article (https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile)
 - Complex systems book archive (https://www.complex-systems.com/archives/)
 
 
-### Other
+## Datasets
+
+- Stanford Large Network Dataset Collection (http://snap.stanford.edu/data/#amazon)
+- Google Ngram dataset (http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
+- Google datasets (https://ai.google/tools/datasets/)
+
+
+## APIs
+
+- Google books api (https://developers.google.com/books/docs/v1/getting_started)
+
+## Other
 
 - Curiosity driven article page (https://curiosity-driven.org/)
 - How brain created a timeline of the past (https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/)
 - Higher order thinking (https://en.wikipedia.org/wiki/Higher-order_thinking)
 - Integrative complexity - psychology (https://en.wikipedia.org/wiki/Integrative_complexity)
 - Fluid and crystallised intelligence - psychology (https://en.wikipedia.org/wiki/Fluid_and_crystallized_intelligence)
+- Explorable explanations - hub for learning through play (https://explorabl.es/)
+- What can a technologist do about climate change (http://worrydream.com/ClimateChange/)
+
+
+## Books
+
+- The Misbehavior of Markets
+- Chaos: The Making of a New Science
+- How Nature Works: the science of self-organized criticality
+- Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets
+- Emergence: From Chaos To Order (https://www.goodreads.com/book/show/896539.Emergence)
+- Deep Simplicity: Bringing Order to Chaos and Complexity (https://www.goodreads.com/book/show/587906.Deep_Simplicity)
+- Cosmic Evolution: The Rise of Complexity in Nature (https://www.goodreads.com/book/show/497570.Cosmic_Evolution)
+- Self-Organization in Biological Systems (https://press.princeton.edu/titles/7104.html)
+- Chaos And Harmony: Perspectives On Scientific Revolutions Of The Twentieth Century (https://www.goodreads.com/book/show/1762728.Chaos_And_Harmony)
+- Thinking in Systems: A Primer (https://www.goodreads.com/book/show/3828902-thinking-in-systems)
