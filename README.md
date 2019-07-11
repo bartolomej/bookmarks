@@ -4,6 +4,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 ## Computer science
 
+
 #### Programming
 
 - Regex debugger with state graph visualization (https://www.debuggex.com/)
@@ -46,6 +47,14 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Awesome distributed systems list (https://github.com/theanalyst/awesome-distributed-systems)
 - Bitcoin protocol documentation (https://en.bitcoin.it/wiki/Protocol_documentation)
 
+## Graph theory
+
+- Interactive graph theory explanation website (https://www.data-to-viz.com/graph/network.html)
+- Internet graph map (https://internet-map.net/)
+- Visualizing bitcoin transactions (https://cambridge-intelligence.com/visualizing-bitcoin-activity/)
+- Website about networks (https://graphcommons.com/)
+
+
 ## Mathematics
 
 - Chaotic equations in browser visualization (https://chaos-equations.glitch.me/?p=VNYAVO)
@@ -55,14 +64,16 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 - Complexity rising article (https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile)
 - Complex systems book archive (https://www.complex-systems.com/archives/)
-
+- Santa Fe Institute (https://www.santafe.edu)
 
 ## Datasets
 
 - Stanford Large Network Dataset Collection (http://snap.stanford.edu/data/#amazon)
 - Google Ngram dataset (http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
 - Google datasets (https://ai.google/tools/datasets/)
-
+- US Government open datasets (https://www.data.gov/)
+- Internet live stats (https://www.internetlivestats.com/)
+- Explore IoT (https://www.shodan.io/)
 
 ## APIs
 
@@ -91,3 +102,4 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Self-Organization in Biological Systems (https://press.princeton.edu/titles/7104.html)
 - Chaos And Harmony: Perspectives On Scientific Revolutions Of The Twentieth Century (https://www.goodreads.com/book/show/1762728.Chaos_And_Harmony)
 - Thinking in Systems: A Primer (https://www.goodreads.com/book/show/3828902-thinking-in-systems)
+- The Model Thinker (https://www.goodreads.com/book/show/39088592-the-model-thinker)
