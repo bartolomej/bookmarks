@@ -47,7 +47,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Awesome distributed systems list (https://github.com/theanalyst/awesome-distributed-systems)
 - Bitcoin protocol documentation (https://en.bitcoin.it/wiki/Protocol_documentation)
 
-## Graph theory
+### Graph theory
 
 - Interactive graph theory explanation website (https://www.data-to-viz.com/graph/network.html)
 - Internet graph map (https://internet-map.net/)
@@ -58,6 +58,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 ## Mathematics
 
 - Chaotic equations in browser visualization (https://chaos-equations.glitch.me/?p=VNYAVO)
+- Math visualizations blog (https://visualizingmath.tumblr.com/)
+- Concepts visualizations (https://conceptviz.github.io/)
+- Best math related channel on yt (https://www.3blue1brown.com/)
 
 
 ## Complexity science
