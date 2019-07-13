@@ -47,12 +47,18 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Awesome distributed systems list (https://github.com/theanalyst/awesome-distributed-systems)
 - Bitcoin protocol documentation (https://en.bitcoin.it/wiki/Protocol_documentation)
 
-### Graph theory
+#### Graph theory
 
 - Interactive graph theory explanation website (https://www.data-to-viz.com/graph/network.html)
 - Internet graph map (https://internet-map.net/)
 - Visualizing bitcoin transactions (https://cambridge-intelligence.com/visualizing-bitcoin-activity/)
 - Website about networks (https://graphcommons.com/)
+
+
+#### Graphic Design
+
+- 7 Practical Tips for Cheating at Design (https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- UI / UX design guide (https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
 
 
 ## Mathematics
@@ -61,7 +67,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Math visualizations blog (https://visualizingmath.tumblr.com/)
 - Concepts visualizations (https://conceptviz.github.io/)
 - Best math related channel on yt (https://www.3blue1brown.com/)
-
+- Illustrative group theory book (http://www.coloring-book.co/)
 
 ## Complexity science
 
