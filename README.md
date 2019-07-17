@@ -12,6 +12,32 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Facebook F8 open source project and blog (https://makeitopen.com/)
 - ANN feature visualization (https://distill.pub/2017/feature-visualization/)
 - ANN Differentiable Image Parameterizations (https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
+- Cool programming articles website (https://peeke.nl/)
+- Informal History Of Programming Ideas (http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas)
+- People Projects And Patterns (http://wiki.c2.com/?PeopleProjectsAndPatterns)
+
+#### Code organisation
+
+- Good article about code structuring (https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33)
+- How to Organize React Files (https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be)
+- Structuring Redux application (https://jaysoo.ca/2016/02/28/organizing-redux-application/)
+- Evolution of React/Redux app (https://engineering.opsgenie.com/captains-journal-evolution-of-a-react-redux-app-83c025ad41bd)
+
+#### Code practises, patterns, tutorials and tips
+
+- Redux best practises (https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
+- Publish a private npm package (https://docs.npmjs.com/creating-and-publishing-private-packages)
+
+
+#### Cool frameworks and tools
+
+- Loopback API framework (https://loopback.io/)
+- GraphQL (https://graphql.org/)
+- Feathers (https://feathersjs.com)
+- HapiJS (https://hapijs.com)
+- ESLint (https://eslint.org/)
+- JS prettier (https://prettier.io/)
+- light promise based http request library (https://github.com/axios/axios)
 
 
 #### Software engineering and architecture
@@ -53,7 +79,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Internet graph map (https://internet-map.net/)
 - Visualizing bitcoin transactions (https://cambridge-intelligence.com/visualizing-bitcoin-activity/)
 - Website about networks (https://graphcommons.com/)
-
+- Visualize any text as a network (http://textexture.com)
+- Interactive data visualization (http://astrangertowords.com/)
 
 #### Graphic Design
 
@@ -68,6 +95,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Concepts visualizations (https://conceptviz.github.io/)
 - Best math related channel on yt (https://www.3blue1brown.com/)
 - Illustrative group theory book (http://www.coloring-book.co/)
+- Fourier introduction (http://www.jezzamon.com/fourier/)
 
 ## Complexity science
 
