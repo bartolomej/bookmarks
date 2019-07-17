@@ -57,7 +57,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Software engineering blog (https://softwareengineeringdaily.com/)
 - Ethereum developer portal (https://ethereum.consensys.net/)
 - Enigma decentralized private computation network docs (https://enigma.co/discovery-documentation/)
-
+- Microsoft DevOps resources (https://docs.microsoft.com/en-us/azure/devops/learn/)
+- Microsoft Azure blog (https://docs.microsoft.com/en-us/azure/devops/learn/)
+- Google AI (https://ai.google/)
 
 #### Distributed systems
 
