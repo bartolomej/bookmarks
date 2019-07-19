@@ -21,7 +21,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Good article about code structuring (https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33)
 - How to Organize React Files (https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be)
 - Structuring Redux application (https://jaysoo.ca/2016/02/28/organizing-redux-application/)
-- Evolution of React/Redux app (https://engineering.opsgenie.com/captains-journal-evolution-of-a-react-redux-app-83c025ad41bd)
+
 
 #### Code practises, patterns, tutorials and tips
 
@@ -127,6 +127,11 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Fluid and crystallised intelligence - psychology (https://en.wikipedia.org/wiki/Fluid_and_crystallized_intelligence)
 - Explorable explanations - hub for learning through play (https://explorabl.es/)
 - What can a technologist do about climate change (http://worrydream.com/ClimateChange/)
+
+
+## Projects
+
+- Gitcoin for crowdfunding (https://gitcoin.co/)
 
 
 ## Books
