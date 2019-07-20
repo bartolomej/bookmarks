@@ -132,7 +132,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 ## Projects
 
 - Gitcoin for crowdfunding (https://gitcoin.co/)
-
+- Distributed location network (https://foam.space/)
+- Distributed private computational network (https://enigma.co/)
+- Distributed ecosystem (https://www.elastos.org/)
 
 ## Books
 
