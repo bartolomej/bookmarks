@@ -135,6 +135,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Distributed location network (https://foam.space/)
 - Distributed private computational network (https://enigma.co/)
 - Distributed ecosystem (https://www.elastos.org/)
+- Center for Humane Tech (https://humanetech.com/)
 
 ## Books
 
