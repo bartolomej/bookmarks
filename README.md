@@ -137,6 +137,12 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Distributed ecosystem (https://www.elastos.org/)
 - Center for Humane Tech (https://humanetech.com/)
 
+
+## Software 
+
+- Flash OS images to SD cards & USB drives (https://www.balena.io/etcher/)
+
+
 ## Books
 
 - The Misbehavior of Markets
