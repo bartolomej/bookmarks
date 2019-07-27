@@ -15,6 +15,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Cool programming articles website (https://peeke.nl/)
 - Informal History Of Programming Ideas (http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas)
 - People Projects And Patterns (http://wiki.c2.com/?PeopleProjectsAndPatterns)
+- Dan Abramov personal blog site (https://overreacted.io/)
 
 #### Code organisation
 
