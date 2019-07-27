@@ -89,7 +89,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 - 7 Practical Tips for Cheating at Design (https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - UI / UX design guide (https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
-
+- Mobile UI design examples (https://search.muz.li/inspiration/mobile-app-design-inspiration/)
 
 ## Mathematics
 
