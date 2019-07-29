@@ -24,7 +24,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Structuring Redux application (https://jaysoo.ca/2016/02/28/organizing-redux-application/)
 
 ## AI
-- http://cs231n.github.io/convolutional-networks/
+- Convolutional ANN article (http://cs231n.github.io/convolutional-networks/)
 
 #### Code practises, patterns, tutorials and tips
 
@@ -130,7 +130,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Fluid and crystallised intelligence - psychology (https://en.wikipedia.org/wiki/Fluid_and_crystallized_intelligence)
 - Explorable explanations - hub for learning through play (https://explorabl.es/)
 - What can a technologist do about climate change (http://worrydream.com/ClimateChange/)
-
+- Heat map visualization (https://www.ventusky.com/?p=46.7;10.3;4&l=temperature-2m)
 
 ## Projects
 
