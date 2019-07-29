@@ -23,6 +23,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - How to Organize React Files (https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be)
 - Structuring Redux application (https://jaysoo.ca/2016/02/28/organizing-redux-application/)
 
+## AI
+- http://cs231n.github.io/convolutional-networks/
 
 #### Code practises, patterns, tutorials and tips
 
