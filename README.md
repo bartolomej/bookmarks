@@ -23,14 +23,18 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - How to Organize React Files (https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be)
 - Structuring Redux application (https://jaysoo.ca/2016/02/28/organizing-redux-application/)
 
-## AI
+#### AI
 - Convolutional ANN article (http://cs231n.github.io/convolutional-networks/)
 
 #### Code practises, patterns, tutorials and tips
 
 - Redux best practises (https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
 - Publish a private npm package (https://docs.npmjs.com/creating-and-publishing-private-packages)
+- Real world React Hooks + TypeScript example (https://github.com/chagweyh/react-hooks-typescript-realworld)
 
+#### Example projects
+- Guardian repos (https://github.com/guardian/support-frontend)
+- Experimental react navigation library (https://github.com/react-navigation/navigation-ex/)
 
 #### Cool frameworks and tools
 
@@ -132,13 +136,14 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - What can a technologist do about climate change (http://worrydream.com/ClimateChange/)
 - Heat map visualization (https://www.ventusky.com/?p=46.7;10.3;4&l=temperature-2m)
 
-## Projects
+## Projects and apps
 
 - Gitcoin for crowdfunding (https://gitcoin.co/)
 - Distributed location network (https://foam.space/)
 - Distributed private computational network (https://enigma.co/)
 - Distributed ecosystem (https://www.elastos.org/)
 - Center for Humane Tech (https://humanetech.com/)
+- Github notification manager (https://github.com/devhubapp/devhub)
 
 
 ## Software 
