@@ -150,9 +150,15 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 - Flash OS images to SD cards & USB drives (https://www.balena.io/etcher/)
 
+## Game Theory
+- The Evolution of Cooperation (Game Theory) (https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation)
+- The Complexity of Cooperation (https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678)
+- Emergance of Postmodern States (https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1)
+
 
 ## Books
 
+- Worlds Hidden in Plain Sight (https://www.amazon.com/Worlds-Hidden-Plain-Sight-Complexity-ebook/dp/B07RF38CFS/ref=pd_sim_351_5/147-8190525-1114933?_encoding=UTF8&pd_rd_i=B07RF38CFS&pd_rd_r=41aaaaf9-f403-4210-a25d-0fdf1e3c62d3&pd_rd_w=kQxJM&pd_rd_wg=xQHgz&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=7ATX38S8H637WASWT8QQ&psc=1&refRID=7ATX38S8H637WASWT8QQ)
 - The Misbehavior of Markets
 - Chaos: The Making of a New Science
 - How Nature Works: the science of self-organized criticality
