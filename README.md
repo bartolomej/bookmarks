@@ -24,6 +24,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Structuring Redux application (https://jaysoo.ca/2016/02/28/organizing-redux-application/)
 
 #### AI
+- Classifying text (https://www.nltk.org/book/ch06.html)
 - Convolutional ANN article (http://cs231n.github.io/convolutional-networks/)
 
 #### Code practises, patterns, tutorials and tips
@@ -151,6 +152,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Flash OS images to SD cards & USB drives (https://www.balena.io/etcher/)
 
 ## Game Theory
+- Undestanding Conflict and War (https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM)
 - The Evolution of Cooperation (Game Theory) (https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation)
 - The Complexity of Cooperation (https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678)
 - Emergance of Postmodern States (https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1)
