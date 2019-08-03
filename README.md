@@ -7,6 +7,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 #### Programming
 
+- Composing Software article (https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - Regex debugger with state graph visualization (https://www.debuggex.com/)
 - JavaScript dependency analyzer and visualizer (https://www.npmjs.com/package/dependency-cruiser)
 - Facebook F8 open source project and blog (https://makeitopen.com/)
@@ -139,6 +140,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 ## Projects and apps
 
+- Miro collaboration software (https://miro.com/app/dashboard/)
 - Gitcoin for crowdfunding (https://gitcoin.co/)
 - Distributed location network (https://foam.space/)
 - Distributed private computational network (https://enigma.co/)
@@ -147,7 +149,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Github notification manager (https://github.com/devhubapp/devhub)
 
 
-## Software 
+## Desktop apps 
 
 - Flash OS images to SD cards & USB drives (https://www.balena.io/etcher/)
 
