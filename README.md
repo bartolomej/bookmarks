@@ -35,6 +35,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Real world React Hooks + TypeScript example (https://github.com/chagweyh/react-hooks-typescript-realworld)
 
 #### Example projects
+- React Native Navigation(v2) Starter Kit with Redux, Saga, ESLint, Babel, Jest and Facebook SDK (https://github.com/atoami/react-native-navigation-redux-starter-kit)
+- A React Native starter app with Wix React Native Navigation V2, MobX and Firebase (https://github.com/alexwasner/react-native-mobx-firebase-starter)
+- Hekla for Hacker News (https://github.com/birkir/hekla)
 - Guardian repos (https://github.com/guardian/support-frontend)
 - Experimental react navigation library (https://github.com/react-navigation/navigation-ex/)
 
