@@ -43,6 +43,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 #### Cool frameworks and tools
 
+- Configuration for react-native (https://github.com/luggit/react-native-config)
+- Sentry error tracker (https://sentry.io/welcome/)
 - Loopback API framework (https://loopback.io/)
 - GraphQL (https://graphql.org/)
 - Feathers (https://feathersjs.com)
