@@ -10,13 +10,11 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Composing Software article (https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - Regex debugger with state graph visualization (https://www.debuggex.com/)
 - JavaScript dependency analyzer and visualizer (https://www.npmjs.com/package/dependency-cruiser)
-- Facebook F8 open source project and blog (https://makeitopen.com/)
 - ANN feature visualization (https://distill.pub/2017/feature-visualization/)
 - ANN Differentiable Image Parameterizations (https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
 - Cool programming articles website (https://peeke.nl/)
 - Informal History Of Programming Ideas (http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas)
 - People Projects And Patterns (http://wiki.c2.com/?PeopleProjectsAndPatterns)
-- Dan Abramov personal blog site (https://overreacted.io/)
 
 #### Code organisation
 
@@ -69,16 +67,14 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - GitHub flow (https://guides.github.com/introduction/flow/)
 - Git flow by Atlassian (https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - QA on orchestrating microservices (https://stackoverflow.com/questions/29117570/orchestrating-microservices)
-- Software engineering blog (https://softwareengineeringdaily.com/)
 - Ethereum developer portal (https://ethereum.consensys.net/)
 - Enigma decentralized private computation network docs (https://enigma.co/discovery-documentation/)
 - Microsoft DevOps resources (https://docs.microsoft.com/en-us/azure/devops/learn/)
-- Microsoft Azure blog (https://docs.microsoft.com/en-us/azure/devops/learn/)
 - Google AI (https://ai.google/)
+
 
 #### Distributed systems
 
-- Blog from ethereum developer (http://frozeman.de/blog/)
 - Commit-reveal scheme on Ethereum (https://github.com/austintgriffith/commit-reveal)
 - Quantum computing for the curious (https://quantum.country/qcvc)
 - Google Books data repository (http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
@@ -86,9 +82,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Low level bitcoin (https://curiosity-driven.org/low-level-bitcoin)
 - Using raw bitcoin protocol without ui abstraction (http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
 - Simplechain repo (https://github.com/olistic/simplechain/tree/master/lib)
-- Statechain blog article (https://statecharts.github.io/)
 - Awesome distributed systems list (https://github.com/theanalyst/awesome-distributed-systems)
 - Bitcoin protocol documentation (https://en.bitcoin.it/wiki/Protocol_documentation)
+
 
 #### Graph theory
 
@@ -99,26 +95,29 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Visualize any text as a network (http://textexture.com)
 - Interactive data visualization (http://astrangertowords.com/)
 
+
 #### Graphic Design
 
 - 7 Practical Tips for Cheating at Design (https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - UI / UX design guide (https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
 - Mobile UI design examples (https://search.muz.li/inspiration/mobile-app-design-inspiration/)
 
+
 ## Mathematics
 
 - Chaotic equations in browser visualization (https://chaos-equations.glitch.me/?p=VNYAVO)
-- Math visualizations blog (https://visualizingmath.tumblr.com/)
 - Concepts visualizations (https://conceptviz.github.io/)
 - Best math related channel on yt (https://www.3blue1brown.com/)
 - Illustrative group theory book (http://www.coloring-book.co/)
 - Fourier introduction (http://www.jezzamon.com/fourier/)
+
 
 ## Complexity science
 
 - Complexity rising article (https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile)
 - Complex systems book archive (https://www.complex-systems.com/archives/)
 - Santa Fe Institute (https://www.santafe.edu)
+
 
 ## Datasets
 
@@ -129,9 +128,11 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Internet live stats (https://www.internetlivestats.com/)
 - Explore IoT (https://www.shodan.io/)
 
+
 ## APIs
 
 - Google books api (https://developers.google.com/books/docs/v1/getting_started)
+
 
 ## Other
 
@@ -143,6 +144,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Explorable explanations - hub for learning through play (https://explorabl.es/)
 - What can a technologist do about climate change (http://worrydream.com/ClimateChange/)
 - Heat map visualization (https://www.ventusky.com/?p=46.7;10.3;4&l=temperature-2m)
+
 
 ## Projects and apps
 
@@ -159,11 +161,23 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 - Flash OS images to SD cards & USB drives (https://www.balena.io/etcher/)
 
+
 ## Game Theory
 - Undestanding Conflict and War (https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM)
 - The Evolution of Cooperation (Game Theory) (https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation)
 - The Complexity of Cooperation (https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678)
 - Emergance of Postmodern States (https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1)
+
+
+## Blogs
+- A software engineer with a passion for distributed systems, machine learning and brain-computer interfaces (https://gear.dev/blog/)
+- Math visualizations blog (https://visualizingmath.tumblr.com/)
+- Blog from ethereum developer (http://frozeman.de/blog/)
+- Statechain blog article (https://statecharts.github.io/)
+- Microsoft Azure blog (https://docs.microsoft.com/en-us/azure/devops/learn/)
+- Software engineering blog (https://softwareengineeringdaily.com/)
+- Dan Abramov personal blog site (https://overreacted.io/)
+- Facebook F8 open source project and blog (https://makeitopen.com/)
 
 
 ## Books
