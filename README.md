@@ -189,6 +189,11 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 
 ## Blogs
+- Atlassian blog (https://www.atlassian.com/blog)
+- Fun and practical web development tutorials and blogs (https://scotch.io/)
+- Tweeter engineering blog (https://blog.twitter.com/engineering/en_us.html)
+- Martin Fower microservices blog (https://martinfowler.com/articles/microservices.html)
+- Rising Stack blog (https://blog.risingstack.com/)
 - Joel on Software (https://www.joelonsoftware.com/)
 - A software engineer with a passion for distributed systems, machine learning and brain-computer interfaces (https://gear.dev/blog/)
 - Math visualizations blog (https://visualizingmath.tumblr.com/)
