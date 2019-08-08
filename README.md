@@ -48,6 +48,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 #### Cool frameworks and tools
 
+- Python network library (https://networkx.github.io/)
 - Zero depencency nodejs module that loads .env file variables to process.env (https://www.npmjs.com/package/dotenv)
 - Configuration for react-native (https://github.com/luggit/react-native-config)
 - Sentry error tracker (https://sentry.io/welcome/)
