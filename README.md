@@ -5,8 +5,15 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 ## Computer science
 
 
+#### Theories and concepts
+
+- DAO (https://gist.github.com/rzurrer/f5db72f427902300a2e030ccdfda641c)
+- Markov chains explained visualy (http://setosa.io/ev/markov-chains/)
+
 #### Programming
 
+- Introduction to reactive programming (https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- Code as design essays (http://www.developerdotstar.com/mag/articles/reeves_design_main.html)
 - Composing Software article (https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - Regex debugger with state graph visualization (https://www.debuggex.com/)
 - JavaScript dependency analyzer and visualizer (https://www.npmjs.com/package/dependency-cruiser)
@@ -148,6 +155,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 ## Projects and apps
 
+- Supply chain transparency (https://treum.io/)
+- The Universal Legal Protocol for Blockchains (https://www.openlaw.io/)
 - Miro collaboration software (https://miro.com/app/dashboard/)
 - Gitcoin for crowdfunding (https://gitcoin.co/)
 - Distributed location network (https://foam.space/)
@@ -170,6 +179,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 
 ## Blogs
+- Joel on Software (https://www.joelonsoftware.com/)
 - A software engineer with a passion for distributed systems, machine learning and brain-computer interfaces (https://gear.dev/blog/)
 - Math visualizations blog (https://visualizingmath.tumblr.com/)
 - Blog from ethereum developer (http://frozeman.de/blog/)
