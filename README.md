@@ -189,6 +189,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 
 ## Blogs
+
+- Microsoft engineering stories (https://engineering.microsoft.com/)
+- Anze Vodovnik development blog (https://www.vodovnik.com/)
 - Atlassian blog (https://www.atlassian.com/blog)
 - Fun and practical web development tutorials and blogs (https://scotch.io/)
 - Tweeter engineering blog (https://blog.twitter.com/engineering/en_us.html)
