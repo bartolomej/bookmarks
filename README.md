@@ -144,6 +144,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 ## Other
 
+- Genemania helps you predict the functions of genes (http://genemania.org/)
 - Curiosity driven article page (https://curiosity-driven.org/)
 - How brain created a timeline of the past (https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/)
 - Higher order thinking (https://en.wikipedia.org/wiki/Higher-order_thinking)
