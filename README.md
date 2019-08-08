@@ -48,6 +48,14 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 #### Cool frameworks and tools
 
+- Powerful design and animation tool (https://www.2dimensions.com/about-flare)
+- Choose suitable fonts (https://fontflipper.com/upload)
+- Website visual debugging tool (https://github.com/GoogleChromeLabs/ProjectVisBug)
+- Visualize your cloud architecture (https://cloudcraft.co/)
+- Figma (https://www.figma.com/)
+- Find the cost of adding a npm package to your bundle (https://bundlephobia.com/)
+- Simple tooltips made with css (https://kazzkiq.github.io/balloon.css/)
+- Web content creation library (https://www.createjs.com/)
 - Python network library (https://networkx.github.io/)
 - Zero depencency nodejs module that loads .env file variables to process.env (https://www.npmjs.com/package/dotenv)
 - Configuration for react-native (https://github.com/luggit/react-native-config)
