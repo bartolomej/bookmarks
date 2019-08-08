@@ -210,7 +210,13 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 ## Books
 
-- Worlds Hidden in Plain Sight (https://www.amazon.com/Worlds-Hidden-Plain-Sight-Complexity-ebook/dp/B07RF38CFS/ref=pd_sim_351_5/147-8190525-1114933?_encoding=UTF8&pd_rd_i=B07RF38CFS&pd_rd_r=41aaaaf9-f403-4210-a25d-0fdf1e3c62d3&pd_rd_w=kQxJM&pd_rd_wg=xQHgz&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=7ATX38S8H637WASWT8QQ&psc=1&refRID=7ATX38S8H637WASWT8QQ)
+- Distributed Systems: Principles and Paradigms (https://www.goodreads.com/book/show/405614.Distributed_Systems)
+- Building Evolutionary Architectures: Support Constant Change (https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)
+- Signals and Boundaries: Building Blocks for Complex Adaptive Systems (https://www.goodreads.com/book/show/15857473-signals-and-boundaries)
+- Emergence: The Connected Lives of Ants, Brains, Cities, and Software (https://www.goodreads.com/book/show/2296.Emergence)
+- The Evolution of Cooperation (https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation)
+- The Complexity of Cooperation (https://www.goodreads.com/book/show/259947.The_Complexity_of_Cooperation)
+- Worlds Hidden in Plain Sight (https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight)
 - The Misbehavior of Markets
 - Chaos: The Making of a New Science
 - How Nature Works: the science of self-organized criticality
@@ -222,3 +228,4 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 - Chaos And Harmony: Perspectives On Scientific Revolutions Of The Twentieth Century (https://www.goodreads.com/book/show/1762728.Chaos_And_Harmony)
 - Thinking in Systems: A Primer (https://www.goodreads.com/book/show/3828902-thinking-in-systems)
 - The Model Thinker (https://www.goodreads.com/book/show/39088592-the-model-thinker)
+- Be Here Now (https://www.goodreads.com/book/show/41580312-be-here-now)
