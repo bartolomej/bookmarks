@@ -7,12 +7,15 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### Theories and concepts
-
 - DAO (https://gist.github.com/rzurrer/f5db72f427902300a2e030ccdfda641c)
 - Markov chains explained visualy (http://setosa.io/ev/markov-chains/)
 
 #### Programming
-
+- GitHub learning lab (https://lab.github.com/)
+- Open source web app and book (https://github.com/builderbook/builderbook#showcase)
+- The twelve-factor app is a methodology for building software-as-a-service apps (https://12factor.net/)
+- Best practices for Node.js development (https://devcenter.heroku.com/articles/node-best-practices)
+- Examples of Now projects you can deploy yourself (https://github.com/busterbenson/now-examples)
 - Introduction to reactive programming (https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - Code as design essays (http://www.developerdotstar.com/mag/articles/reeves_design_main.html)
 - Composing Software article (https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
@@ -25,7 +28,6 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - People Projects And Patterns (http://wiki.c2.com/?PeopleProjectsAndPatterns)
 
 #### Code organisation
-
 - Good article about code structuring (https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33)
 - How to Organize React Files (https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be)
 - Structuring Redux application (https://jaysoo.ca/2016/02/28/organizing-redux-application/)
@@ -35,7 +37,6 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - Convolutional ANN article (http://cs231n.github.io/convolutional-networks/)
 
 #### Code practises, patterns, tutorials and tips
-
 - Redux best practises (https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
 - Publish a private npm package (https://docs.npmjs.com/creating-and-publishing-private-packages)
 - Real world React Hooks + TypeScript example (https://github.com/chagweyh/react-hooks-typescript-realworld)
@@ -48,7 +49,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - Experimental react navigation library (https://github.com/react-navigation/navigation-ex/)
 
 #### Cool frameworks and tools
-
+- Flynn open source PaaS (https://flynn.io/)
+- Nodemailer - send mails with nodejs (https://nodemailer.com/about/)
 - Powerful design and animation tool (https://www.2dimensions.com/about-flare)
 - Choose suitable fonts (https://fontflipper.com/upload)
 - Website visual debugging tool (https://github.com/GoogleChromeLabs/ProjectVisBug)
@@ -71,7 +73,6 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### Software engineering and architecture
-
 - QA for resources on implementing VM (https://stackoverflow.com/questions/2034422/tutorial-resource-for-implementing-vm)
 - Compiler architecture (https://cs.lmu.edu/~ray/notes/compilerarchitecture/)
 - Compiler design tutorial (https://www.geeksforgeeks.org/compiler-lexical-analysis/)
@@ -91,7 +92,6 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### Distributed systems
-
 - Commit-reveal scheme on Ethereum (https://github.com/austintgriffith/commit-reveal)
 - Quantum computing for the curious (https://quantum.country/qcvc)
 - Google Books data repository (http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
@@ -104,7 +104,6 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### Graph theory
-
 - Interactive graph theory explanation website (https://www.data-to-viz.com/graph/network.html)
 - Internet graph map (https://internet-map.net/)
 - Visualizing bitcoin transactions (https://cambridge-intelligence.com/visualizing-bitcoin-activity/)
@@ -114,7 +113,6 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### Graphic Design
-
 - 7 Practical Tips for Cheating at Design (https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - UI / UX design guide (https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
 - Mobile UI design examples (https://search.muz.li/inspiration/mobile-app-design-inspiration/)
@@ -153,6 +151,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 ## Other
 
+- Beliefs book (https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
 - Genemania helps you predict the functions of genes (http://genemania.org/)
 - Curiosity driven article page (https://curiosity-driven.org/)
 - How brain created a timeline of the past (https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/)
@@ -184,6 +183,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 ## Game Theory
+
 - Undestanding Conflict and War (https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM)
 - The Evolution of Cooperation (Game Theory) (https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation)
 - The Complexity of Cooperation (https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678)
@@ -192,6 +192,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 ## Blogs
 
+- Code with Hugo - Automation, Node.js and JavaScript Guides (https://codewithhugo.com/)
+- Buster Benson site (https://busterbenson.com/)
 - OpenAi blog (https://openai.com/blog/)
 - Microsoft engineering stories (https://engineering.microsoft.com/)
 - Anze Vodovnik development blog (https://www.vodovnik.com/)
