@@ -1,6 +1,7 @@
 # Cool links
 
-Links of different interesting ideas, resources, blogs, articles, books etc.
+Links of different interesting ideas, resources, blogs, articles, books etc.<br>
+Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - A curated list of awesome explorable explanations.
 
 ## Computer science
 
