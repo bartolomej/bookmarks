@@ -165,6 +165,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 ## Projects and apps
 
+- Elastos project developer academy (https://elastos.academy/)
 - Supply chain transparency (https://treum.io/)
 - The Universal Legal Protocol for Blockchains (https://www.openlaw.io/)
 - Miro collaboration software (https://miro.com/app/dashboard/)
@@ -190,6 +191,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.
 
 ## Blogs
 
+- OpenAi blog (https://openai.com/blog/)
 - Microsoft engineering stories (https://engineering.microsoft.com/)
 - Anze Vodovnik development blog (https://www.vodovnik.com/)
 - Atlassian blog (https://www.atlassian.com/blog)
