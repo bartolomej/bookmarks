@@ -1,5 +1,7 @@
 # Cool links
 
+[![Awesome](https://img.icons8.com/bubbles/2x/book-shelf.png)](https://github.com/sp4ke/awesome-explorables)
+
 Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - A curated list of awesome explorable explanations.
 
@@ -10,7 +12,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Computer science](#computer-science)
 	- [Theories and Concepts](#theories-and-concepts)
 	- [Programming](#programming)
-	- [Mathine Learning and AI](#ai)
+	- [AI and Machine learning](#ai)
 	- [Code practises, patterns, tutorials and tips](#practises)
 	- [Example projects](#example-projects)
 	- [Frameworks and tools](#frameworks-and-tools)
@@ -50,7 +52,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [GitHub flow](https://guides.github.com/introduction/flow/)
 - [Git flow by Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
-#### <a name="ai">AI
+#### <a name="ai">AI and Machine Learning
+- [aijs.rocks](https://aijs.rocks/) - A curated collection of inspirational AI-powered JavaScript apps
 - [ANN Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
 - [ANN feature visualization](https://distill.pub/2017/feature-visualization/)
 - [Classifying text](https://www.nltk.org/book/ch06.html)
@@ -133,6 +136,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="mathematics">Mathematics
 *[&#8593; top](#contents)*
 
+- [Visualizing quaternions](https://eater.net/quaternions)
 - [High School Mathematics Extensions](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions)
 - [Chaotic equations in browser visualization](https://chaos-equations.glitch.me/?p=VNYAVO)
 - [Concepts visualizations](https://conceptviz.github.io/)
@@ -207,6 +211,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
 
+- [Randell Degges](https://www.rdegges.com/) - Random Thoughts of a Happy Programmer
 - [Code with Hugo](https://codewithhugo.com/) - Automation, Node.js and JavaScript Guides
 - [Buster Benson](https://busterbenson.com/)
 - [OpenAi](https://openai.com/blog/)
