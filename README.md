@@ -65,6 +65,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Structuring Redux application](https://jaysoo.ca/2016/02/28/organizing-redux-application/)
 
 #### <a name="example-projects">Example projects
+- [Portfolio template app](https://blackrockdigital.github.io/startbootstrap-resume/)
 - [Open source web app and book](https://github.com/builderbook/builderbook#showcase)
 - [Examples of projects you can deploy yourself](https://github.com/busterbenson/now-examples)
 - [React Native Navigation(v2) Starter Kit](https://github.com/atoami/react-native-navigation-redux-starter-kit) - with Redux, Saga, ESLint, Babel, Jest and Facebook SDK
@@ -73,6 +74,11 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+- [ApeTools](https://apetools.webprofusion.com/#/tools/imagegorilla) - Splash screen image generator
+- [react-three-fiber](https://github.com/drcmda/react-three-fiber) - A React-renderer for Three.js
+- [Agenda](https://github.com/agenda/agenda) - Node.js lightweight task scheduler
+- [Agenda admin dashboard](https://github.com/agenda/agendash)
+- [Celebrate](https://www.npmjs.com/package/celebrate) - Node.js request validation library
 - [JavaScript dependency analyzer and visualizer](https://www.npmjs.com/package/dependency-cruiser)
 - [Lerna](https://lerna.js.org) - A tool for managing JavaScript projects with multiple packages.
 - [Flynn](https://flynn.io/) - open source PaaS
@@ -171,6 +177,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [Devhints](https://devhints.io/)
 - [Beliefs book](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
 - [Curiosity driven article page](https://curiosity-driven.org/)
 - [How brain created a timeline of the past](https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/)
@@ -186,6 +193,9 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="projects-and-apps">Projects and apps
 *[&#8593; top](#contents)*
 
+- [Mighty](https://mightyapp.com/) - Browser in the server
+- [Tracelabs](https://tracelabs.io/) - Trusted Network Applications for Business Communities
+- [Implementation of Node.js API](https://github.com/santiq/bulletproof-nodejs)
 - [Elastos project developer academy](https://elastos.academy/)
 - [Treym](https://treum.io/) - Supply chain transparency
 - [OpenLaw](https://www.openlaw.io/) - The Universal Legal Protocol for Blockchains
@@ -211,6 +221,9 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
 
+- [React in Depth](https://medium.com/react-in-depth)
+- [Advanced Node.js & DevOps articles](https://softwareontheroad.com/)
+- [DevConnected](https://devconnected.com/) - blog for developers
 - [Randell Degges](https://www.rdegges.com/) - Random Thoughts of a Happy Programmer
 - [Code with Hugo](https://codewithhugo.com/) - Automation, Node.js and JavaScript Guides
 - [Buster Benson](https://busterbenson.com/)
