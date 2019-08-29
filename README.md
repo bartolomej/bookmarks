@@ -60,6 +60,9 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
 #### <a name="practises">Code practises, patterns, tutorials and tips
+- [Coding university](https://github.com/jwasham/coding-interview-university)
+- [System Design primer](https://github.com/donnemartin/system-design-primer)
+- [Javascript testing best practises](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [Redux best practises](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
 - [Real world React Hooks + TypeScript example](https://github.com/chagweyh/react-hooks-typescript-realworld)
 - [Structuring Redux application](https://jaysoo.ca/2016/02/28/organizing-redux-application/)
@@ -74,6 +77,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+- [Onepagelove](https://onepagelove.com) - website templates and more
+- [Docusaurus](https://docusaurus.io/) - maintain Open Source documentation websites
 - [ApeTools](https://apetools.webprofusion.com/#/tools/imagegorilla) - Splash screen image generator
 - [react-three-fiber](https://github.com/drcmda/react-three-fiber) - A React-renderer for Three.js
 - [Agenda](https://github.com/agenda/agenda) - Node.js lightweight task scheduler
@@ -177,6 +182,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [MIT open courses](https://ocw.mit.edu/courses/find-by-topic)
 - [Devhints](https://devhints.io/)
 - [Beliefs book](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
 - [Curiosity driven article page](https://curiosity-driven.org/)
