@@ -60,6 +60,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
 #### <a name="practises">Code practises, patterns, tutorials and tips
+- [Nodejs best practises](https://github.com/goldbergyoni/nodebestpractices)
 - [Coding university](https://github.com/jwasham/coding-interview-university)
 - [System Design primer](https://github.com/donnemartin/system-design-primer)
 - [Javascript testing best practises](https://github.com/goldbergyoni/javascript-testing-best-practices)
@@ -77,6 +78,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+- [Docsify](https://docsify.js.org/#/?id=docsify) - A magical documentation site generator
 - [Onepagelove](https://onepagelove.com) - website templates and more
 - [Docusaurus](https://docusaurus.io/) - maintain Open Source documentation websites
 - [ApeTools](https://apetools.webprofusion.com/#/tools/imagegorilla) - Splash screen image generator
@@ -182,8 +184,11 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [Hire Me](https://fvcproductions.github.io/hire-me/#/) - A path to getting an awesome tech gig
+- [Open Source Guides](https://opensource.guide/)
 - [MIT open courses](https://ocw.mit.edu/courses/find-by-topic)
 - [Devhints](https://devhints.io/)
+- [MythBusters JS](https://mythbusters.js.org/#/) - A JavaScript Handbook exploring perfomance & readibility
 - [Beliefs book](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
 - [Curiosity driven article page](https://curiosity-driven.org/)
 - [How brain created a timeline of the past](https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/)
