@@ -1,6 +1,5 @@
-# Cool links
+# Cool links 💾📚📖
 
-[![Awesome](https://img.icons8.com/bubbles/2x/book-shelf.png)](https://github.com/sp4ke/awesome-explorables)
 
 Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - A curated list of awesome explorable explanations.
@@ -69,6 +68,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Structuring Redux application](https://jaysoo.ca/2016/02/28/organizing-redux-application/)
 
 #### <a name="example-projects">Example projects
+- [Very basic replica of stitchfix.com / krate.in](https://github.com/atulmy/crate)
+- [Opinionated project architecture for Full-Stack JavaScript Applications](https://github.com/atulmy/fullstack-javascript-architecture)
 - [Portfolio template app](https://blackrockdigital.github.io/startbootstrap-resume/)
 - [Open source web app and book](https://github.com/builderbook/builderbook#showcase)
 - [Examples of projects you can deploy yourself](https://github.com/busterbenson/now-examples)
@@ -78,6 +79,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+- [AdminBro](https://softwarebrothers.github.io/admin-bro-dev/) - An automatic admin interface which can be plugged into your application
 - [Docsify](https://docsify.js.org/#/?id=docsify) - A magical documentation site generator
 - [Onepagelove](https://onepagelove.com) - website templates and more
 - [Docusaurus](https://docusaurus.io/) - maintain Open Source documentation websites
@@ -184,6 +186,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [Mini black hole simulation in JS](http://frankforce.com/?p=6378)
 - [Hire Me](https://fvcproductions.github.io/hire-me/#/) - A path to getting an awesome tech gig
 - [Open Source Guides](https://opensource.guide/)
 - [MIT open courses](https://ocw.mit.edu/courses/find-by-topic)
