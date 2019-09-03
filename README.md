@@ -172,6 +172,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="datasets-and-apis">Datasets and APIs
 *[&#8593; top](#contents)*
 
+- [Scientific network data repository](http://networkrepository.com/)
 - [Google Books data repository](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#amazon)
 - [Google Ngram dataset](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
@@ -186,6 +187,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [Visualization of stuff in space](http://stuffin.space)
 - [Mini black hole simulation in JS](http://frankforce.com/?p=6378)
 - [Hire Me](https://fvcproductions.github.io/hire-me/#/) - A path to getting an awesome tech gig
 - [Open Source Guides](https://opensource.guide/)
