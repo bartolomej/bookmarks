@@ -20,11 +20,12 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 	- [Graph Theory](#graph-theory)
 	- [Graphic Design](#graphic-design)
 - [Mathematics](#mathematics)
+- [Game Theory](#creativity)
 - [Complexity science](#complexity-science)
 - [Datasets and APIs](#datasets-and-apis)
 - [Other websites and articles](#websites-and-articles)
 - [Projects and apps](#projects-and-apps)
-- [Game Theory](#creativity)
+- [Cool designs](#design)
 - [Blogs](#blogs)
 - [Books](#books)
 
@@ -59,6 +60,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
 #### <a name="practises">Code practises, patterns, tutorials and tips
+- [How to write a Git commit message](https://chris.beams.io/posts/git-commit/)
 - [Nodejs best practises](https://github.com/goldbergyoni/nodebestpractices)
 - [Coding university](https://github.com/jwasham/coding-interview-university)
 - [System Design primer](https://github.com/donnemartin/system-design-primer)
@@ -68,6 +70,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Structuring Redux application](https://jaysoo.ca/2016/02/28/organizing-redux-application/)
 
 #### <a name="example-projects">Example projects
+- [Oak programming language](https://repl.it/@cmihai/Oak-Programming-Language)
 - [Very basic replica of stitchfix.com / krate.in](https://github.com/atulmy/crate)
 - [Opinionated project architecture for Full-Stack JavaScript Applications](https://github.com/atulmy/fullstack-javascript-architecture)
 - [Portfolio template app](https://blackrockdigital.github.io/startbootstrap-resume/)
@@ -79,6 +82,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+- [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize JS dependencies
 - [AdminBro](https://softwarebrothers.github.io/admin-bro-dev/) - An automatic admin interface which can be plugged into your application
 - [Docsify](https://docsify.js.org/#/?id=docsify) - A magical documentation site generator
 - [Onepagelove](https://onepagelove.com) - website templates and more
@@ -161,6 +165,15 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Math visualizations](https://visualizingmath.tumblr.com/)
 
 
+## <a name="game-theory">Game Theory
+*[&#8593; top](#contents)*
+
+- [Undestanding Conflict and War](https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM)
+- [The Evolution of Cooperation](https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation)
+- [The Complexity of Cooperation](https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678)
+- [Emergance of Postmodern States](https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1)
+
+
 ## <a name="complexity-science">Complexity science
 *[&#8593; top](#contents)*
 
@@ -186,6 +199,10 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [Distill](https://distill.pub/) - Latest articles about machine learning
+- [Visualizing binary files](http://binvis.io/#/)
+- [Art of Problem Solving](https://artofproblemsolving.com) - Website with math courses
+- [Path finding algorithms visualization](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
 - [Mini black hole simulation in JS](http://frankforce.com/?p=6378)
 - [Hire Me](https://fvcproductions.github.io/hire-me/#/) - A path to getting an awesome tech gig
 - [Open Source Guides](https://opensource.guide/)
@@ -223,18 +240,14 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives
 
 
-## <a name="game-theory">Game Theory
-*[&#8593; top](#contents)*
-
-- [Undestanding Conflict and War](https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM)
-- [The Evolution of Cooperation](https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation)
-- [The Complexity of Cooperation](https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678)
-- [Emergance of Postmodern States](https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1)
-
+## <a name="design">Cool designs
+- [Mindfull Design](https://mindfuldesign.xyz/) - Book website
+- [dogstudio](https://dogstudio.co/) - Cool 3D rendering on website
 
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
 
+- [Colah blog](https://colah.github.io/) - Neural networks and visualizations
 - [React in Depth](https://medium.com/react-in-depth)
 - [Advanced Node.js & DevOps articles](https://softwareontheroad.com/)
 - [DevConnected](https://devconnected.com/) - blog for developers
