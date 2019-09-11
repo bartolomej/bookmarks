@@ -82,6 +82,11 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+
+- [LottieFiles](https://lottiefiles.com/) - Discover, test and share striking animations
+- [Lottie](https://airbnb.design/lottie/) - Easily add high-quality animation to any native app
+
+- [MarkdownToPdf](https://www.markdowntopdf.com/) - convert markdown fiels to pdf
 - [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize JS dependencies
 - [AdminBro](https://softwarebrothers.github.io/admin-bro-dev/) - An automatic admin interface which can be plugged into your application
 - [Docsify](https://docsify.js.org/#/?id=docsify) - A magical documentation site generator
@@ -224,6 +229,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="projects-and-apps">Projects and apps
 *[&#8593; top](#contents)*
 
+- [Typora](https://www.typora.io/) - Markdown editor and reader
 - [Mighty](https://mightyapp.com/) - Browser in the server
 - [Tracelabs](https://tracelabs.io/) - Trusted Network Applications for Business Communities
 - [Implementation of Node.js API](https://github.com/santiq/bulletproof-nodejs)
@@ -247,6 +253,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
 
+- [Jared Forsyth](https://jaredforsyth.com/)
+- [Peeke](https://peeke.nl/)
 - [Colah blog](https://colah.github.io/) - Neural networks and visualizations
 - [React in Depth](https://medium.com/react-in-depth)
 - [Advanced Node.js & DevOps articles](https://softwareontheroad.com/)
