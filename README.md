@@ -118,6 +118,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### <a name="software-engineering-and-architecture">Software engineering and architecture
+- [thinking in React hooks](https://wattenberger.com/blog/react-hooks)
 - [QA for resources on implementing VM](https://stackoverflow.com/questions/2034422/tutorial-resource-for-implementing-vm)
 - [Compiler architecture](https://cs.lmu.edu/~ray/notes/compilerarchitecture/)
 - [Compiler design tutorial](https://www.geeksforgeeks.org/compiler-lexical-analysis/)
@@ -152,6 +153,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### <a name="graphic-design">Graphic Design
+- [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [UI / UX design guide](https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
 - [Mobile UI design examples](https://search.muz.li/inspiration/mobile-app-design-inspiration/)
@@ -178,6 +180,11 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [The Complexity of Cooperation](https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678)
 - [Emergance of Postmodern States](https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1)
 
+
+## <a name="general-science">General science
+*[&#8593; top](#contents)*
+	
+- [Tree of Life Explorer](https://www.evogeneao.com/explore/tree-of-life-explorer)
 
 ## <a name="complexity-science">Complexity science
 *[&#8593; top](#contents)*
