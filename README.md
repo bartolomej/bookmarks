@@ -33,7 +33,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 *[&#8593; top](#contents)*
 
 #### <a name="theories-and-conceprs">Theories and concepts
-- [DAO](https://gist.github.com/rzurrer/f5db72f427902300a2e030ccdfda641c) - Decentralized Autonomous Organisation
+- [DAO](https://github.com/the-dao/whitepaper) - Decentralized Autonomous Organisation
 - [Markov chains explained visually](http://setosa.io/ev/markov-chains/)
 - [Quantum computing for the curious](https://quantum.country/qcvc)
 

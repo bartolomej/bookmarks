@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Be Vietnam'), local('Be Vietnam'), url(fonts) format('ttf');
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Be Vietnam', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+li {
+    width: 200px;
+    list-style: none;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+li a {
+    text-decoration: none;
+}
+
+li img {
+    width: 100%;
+}
