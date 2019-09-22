@@ -38,6 +38,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Quantum computing for the curious](https://quantum.country/qcvc)
 
 #### <a name="programming">Programming
+- [JavaScript style guide](https://github.com/airbnb/javascript)
 - [Useful resources](https://dev.to/sahilrajput/useful-websites-for-programmers-36k) - collection of resources for programmers
 - [GitHub learning lab](https://lab.github.com/)
 - [The twelve-factor](https://12factor.net/) - methodology for building software-as-a-service apps
@@ -83,9 +84,10 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 #### <a name="frameworks-and-tools">Frameworks and tools
 
+- [Manim](https://github.com/3b1b/manim) - Manim is an animation engine for explanatory math videos
 - [LottieFiles](https://lottiefiles.com/) - Discover, test and share striking animations
 - [Lottie](https://airbnb.design/lottie/) - Easily add high-quality animation to any native app
-
+- [Vanta.js](https://www.vantajs.com) - Animated website backgrounds in a few lines of code
 - [MarkdownToPdf](https://www.markdowntopdf.com/) - convert markdown fiels to pdf
 - [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize JS dependencies
 - [AdminBro](https://softwarebrothers.github.io/admin-bro-dev/) - An automatic admin interface which can be plugged into your application
@@ -133,6 +135,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### <a name="distributed-systems">Distributed systems
+- [DAOs, Democracy and Governance paper](http://merkle.com/papers/DAOdemocracyDraft.pdf)
 - [Commit-reveal scheme on Ethereum](https://github.com/austintgriffith/commit-reveal)
 - [Turing machines on Stanford Encyclopedia](https://plato.stanford.edu/entries/turing-machine/)
 - [Low level bitcoin](https://curiosity-driven.org/low-level-bitcoin)
@@ -190,6 +193,12 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="datasets-and-apis">Datasets and APIs
 *[&#8593; top](#contents)*
 
+- [Yelp dataset](https://www.yelp.com/dataset/challenge)
+- [Google Datasets](https://ai.google/tools/datasets/)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Google Natural Questions dataset](https://ai.google.com/research/NaturalQuestions)
+- [Google 8M YouTube video dataset](https://research.google.com/youtube8m/)
+- [Google Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html)
 - [Google Books data repository](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#amazon)
 - [Google Ngram dataset](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
@@ -199,7 +208,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Explore IoT](https://www.shodan.io/)
 - [Google books API](https://developers.google.com/books/docs/v1/getting_started)
 - [Genemania](http://genemania.org/) - helps you predict the functions of genes
-
+- [Enron email archives](http://www.enron-mail.com/email/skilling-j/)
 
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
@@ -229,6 +238,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="projects-and-apps">Projects and apps
 *[&#8593; top](#contents)*
 
+- [Gitpod](https://www.gitpod.io/) - One-Click Online IDE for GitHub
+- [Streamr](https://streamr.network/) - real-time data protocol for the decentralized web
 - [Typora](https://www.typora.io/) - Markdown editor and reader
 - [Mighty](https://mightyapp.com/) - Browser in the server
 - [Tracelabs](https://tracelabs.io/) - Trusted Network Applications for Business Communities
@@ -253,6 +264,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
 
+- [Scientific programming with Python](https://scipython.com)
 - [Jared Forsyth](https://jaredforsyth.com/)
 - [Peeke](https://peeke.nl/)
 - [Colah blog](https://colah.github.io/) - Neural networks and visualizations
