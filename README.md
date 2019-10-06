@@ -20,6 +20,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 	- [Distributed systems](#distributed-systems)
 	- [Graph Theory](#graph-theory)
 	- [Graphic Design](#graphic-design)
+	- [Reactjs](#reactjs)
 - [Mathematics](#mathematics)
 - [Game Theory](#creativity)
 - [Complexity science](#complexity-science)
@@ -167,7 +168,14 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [UI / UX design guide](https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
 - [Mobile UI design examples](https://search.muz.li/inspiration/mobile-app-design-inspiration/)
 
-
+#### <a name="reactjs">React.js
+- [styled-components](https://www.styled-components.com/)
+- [react-anime](https://github.com/hyperfuse/react-anime) - simple animation library
+- [Shards](https://designrevision.com/downloads/shards-react/) - react ui toolkit / design system
+- [react-spring](https://www.react-spring.io/)
+- [react-mde](https://github.com/andrerpena/react-mde)
+	
+	
 ## <a name="mathematics">Mathematics
 *[&#8593; top](#contents)*
 
