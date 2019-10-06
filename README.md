@@ -40,6 +40,9 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Quantum computing for the curious](https://quantum.country/qcvc)
 
 #### <a name="programming">Programming
+- [Crash Course in JIT](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
+- [How JavaScript Works](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/)
+- [Designing Programs](https://designingprograms.bitbucket.io/index.html) - Practical and pedagogical approach to programming
 - [Quine Relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [Large scale JavaScript applications article](https://addyosmani.com/largescalejavascript/)
 - [JavaScript style guide](https://github.com/airbnb/javascript)
@@ -74,6 +77,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Redux best practises](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
 - [Real world React Hooks + TypeScript example](https://github.com/chagweyh/react-hooks-typescript-realworld)
 - [Structuring Redux application](https://jaysoo.ca/2016/02/28/organizing-redux-application/)
+- [Wodking with GitHub actions](https://jeffrafter.com/working-with-github-actions/)
 
 #### <a name="example-projects">Example projects
 - [Oak programming language](https://repl.it/@cmihai/Oak-Programming-Language)
@@ -143,6 +147,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### <a name="distributed-systems">Distributed systems
+- [DaoTalk](https://daotalk.org/t/resource-list-dao-creation-design/522)
+- [Dao democracy OS](https://github.com/DemocracyOS/democracyos)
 - [DAOs, Democracy and Governance paper](http://merkle.com/papers/DAOdemocracyDraft.pdf)
 - [Commit-reveal scheme on Ethereum](https://github.com/austintgriffith/commit-reveal)
 - [Turing machines on Stanford Encyclopedia](https://plato.stanford.edu/entries/turing-machine/)
@@ -163,6 +169,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### <a name="graphic-design">Graphic Design
+- [Introduction to Design Systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
+- [Design Tips](https://mobile.twitter.com/i/moments/994601867987619840)
 - [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [UI / UX design guide](https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
@@ -236,6 +244,9 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [Detailed explanation of Abstraction in Software](https://thevaluable.dev/abstraction_software_development/)
+- [How can we develop transformative tools for thought ?](https://numinous.productions/ttft/)
+- [Nick Szabo Essays, Papers](https://archive.is/Zqi9H)
 - [Distill](https://distill.pub/) - Latest articles about machine learning
 - [Visualizing binary files](http://binvis.io/#/)
 - [Art of Problem Solving](https://artofproblemsolving.com) - Website with math courses
@@ -261,6 +272,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="projects-and-apps">Projects and apps
 *[&#8593; top](#contents)*
 
+- [The Commons Stack](https://commonsstack.org/)
 - [cruise](https://getcruise.com/) - We’re a self-driving car service designed for the cities we love
 - [Gitpod](https://www.gitpod.io/) - One-Click Online IDE for GitHub
 - [Streamr](https://streamr.network/) - real-time data protocol for the decentralized web
@@ -284,6 +296,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="design">Cool designs
 - [Mindfull Design](https://mindfuldesign.xyz/) - Book website
 - [dogstudio](https://dogstudio.co/) - Cool 3D rendering on website
+- [Liquid swipe animation](https://github.com/Cuberto/liquid-swipe)
 
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
@@ -319,6 +332,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="books">Books
 *[&#8593; top](#contents)*
 
+- [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 - [Distributed Systems: Principles and Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
 - [Building Evolutionary Architectures: Support Constant Change](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)
 - [Signals and Boundaries: Building Blocks for Complex Adaptive Systems](https://www.goodreads.com/book/show/15857473-signals-and-boundaries)
