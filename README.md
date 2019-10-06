@@ -1,5 +1,6 @@
 # Cool links 💾📚📖
 
+[comment]: <> (TODO: split topics into multiple files)
 
 Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - A curated list of awesome explorable explanations.
@@ -38,6 +39,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Quantum computing for the curious](https://quantum.country/qcvc)
 
 #### <a name="programming">Programming
+- [Quine Relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
+- [Large scale JavaScript applications article](https://addyosmani.com/largescalejavascript/)
 - [JavaScript style guide](https://github.com/airbnb/javascript)
 - [Useful resources](https://dev.to/sahilrajput/useful-websites-for-programmers-36k) - collection of resources for programmers
 - [GitHub learning lab](https://lab.github.com/)
@@ -61,6 +64,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
 #### <a name="practises">Code practises, patterns, tutorials and tips
+- [Free up Mac disk storage](https://fluffy.es/free-up-mac-storage/)
 - [How to write a Git commit message](https://chris.beams.io/posts/git-commit/)
 - [Nodejs best practises](https://github.com/goldbergyoni/nodebestpractices)
 - [Coding university](https://github.com/jwasham/coding-interview-university)
@@ -84,6 +88,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 #### <a name="frameworks-and-tools">Frameworks and tools
 
+- [React spring](https://www.react-spring.io/) - spring animation primitives
 - [Manim](https://github.com/3b1b/manim) - Manim is an animation engine for explanatory math videos
 - [LottieFiles](https://lottiefiles.com/) - Discover, test and share striking animations
 - [Lottie](https://airbnb.design/lottie/) - Easily add high-quality animation to any native app
@@ -114,13 +119,14 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Python network - graph library](https://networkx.github.io/)
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero depencency nodejs module that loads .env file variables to process.env
 - [Configuration for react-native](https://github.com/luggit/react-native-config)
-- [Sentry](https://sentry.io/welcome/) - error tracker
+- [Sentry](https://sentry.io/welcome/) - error tracking and monitoring
 - [GraphQL](https://graphql.org/) - API framework
 - [Feathers](https://feathersjs.com) - easy REST API framework
 
 
 #### <a name="software-engineering-and-architecture">Software engineering and architecture
-- [thinking in React hooks](https://wattenberger.com/blog/react-hooks)
+- [Atlassian engineering articles](https://www.atlassian.com/continuous-delivery)
+- [Thinking in React hooks](https://wattenberger.com/blog/react-hooks)
 - [QA for resources on implementing VM](https://stackoverflow.com/questions/2034422/tutorial-resource-for-implementing-vm)
 - [Compiler architecture](https://cs.lmu.edu/~ray/notes/compilerarchitecture/)
 - [Compiler design tutorial](https://www.geeksforgeeks.org/compiler-lexical-analysis/)
@@ -200,6 +206,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="datasets-and-apis">Datasets and APIs
 *[&#8593; top](#contents)*
 
+- [CodeSearchNey challange](https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/)
+- [Audi Driving Dataset](https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html)
 - [Yelp dataset](https://www.yelp.com/dataset/challenge)
 - [Google Datasets](https://ai.google/tools/datasets/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -245,6 +253,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="projects-and-apps">Projects and apps
 *[&#8593; top](#contents)*
 
+- [cruise](https://getcruise.com/) - We’re a self-driving car service designed for the cities we love
 - [Gitpod](https://www.gitpod.io/) - One-Click Online IDE for GitHub
 - [Streamr](https://streamr.network/) - real-time data protocol for the decentralized web
 - [Typora](https://www.typora.io/) - Markdown editor and reader
