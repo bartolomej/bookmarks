@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,18 +19,28 @@
     <meta property="og:type" content="article" />
 
     <title>Cool links</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:400,500,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <body>
 
-
 <div id="content" class="article">
 
 </div>
 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script src="https://github.com/Modernizr/Modernizr/raw/master/modernizr.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
+
+  $(window).load(function() {
+    // Animate loader off screen
+    $("#loader").animate({
+      top: -200
+    }, 1500);
+  });
 
   async function fetchMarkdownArticle() {
     let readme = await fetch('README.md').then(res => res.text());
@@ -45,9 +54,9 @@
         if (props === undefined) return;
         li.innerHTML = `
             <a href="${url}">
-                <img src="${props.image || props.icon}"/>
+                <img src="${props.image || props.icon}" alt="website-icon"/>
                 <h3>${props.title}</h3>
-                <p>${props.description}</p>
+                <p>${props.description ? props.description : ''}</p>
             </a>
         `;
     });
@@ -56,7 +65,6 @@
   /**
    * TODO: add search functionality
    * TODO: remove card style from contents
-   * TODO: save image to /assets for optimization
    */
 
   fetchMarkdownArticle();

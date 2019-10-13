@@ -19,44 +19,20 @@ const uuid = require('uuid').v4;
 
   let metas = await scrapeMetas(urls);
 
-  let dir = path.join('assets', 'images');
-
-  fs.readdir(dir, (err, files) => {
-    if (err) throw err;
-    for (const file of files) {
-      fs.unlink(path.join(dir, file), err => {
-        if (err) throw err;
-      });
-    }
-  });
-
-  console.log('DOWNLOADING IMAGES...');
-  let json = {};
-  metas.forEach(async ele => {
-    let obj = ele;
-    if (ele.image !== undefined) {
-      let filePath = path.join('assets', 'images', uuid() + '.png');
-      download(ele.image, filePath);
-      obj.image = filePath
-    }
-    if (ele.icon !== undefined) {
-      let filePath = path.join('assets', 'images', uuid() + '.png');
-      download(ele.icon, filePath);
-      obj.icon = filePath;
-    }
-    json[ele.url] = obj;
-  })
+  let metasObject = {};
+  metas.forEach(ele => metasObject[ele.url] = ele);
 
   console.log('WRITING TO FILE...');
 
-  fs.writeFile('meta.json', JSON.stringify(json, null, 4), err => {
+  fs.writeFile('meta.json', JSON.stringify(metasObject, null, 4), err => {
     if (err) throw err;
     console.log('DONE 😀');
+    process.exit();
   });
 })();
 
 
-async function download(url, filename) {
+async function downloadImage(url, filename) {
   return new Promise(resolve => {
     request
       .get(url)
@@ -89,7 +65,7 @@ async function scrapeMetas(urls) {
     }
   };
 
-  let metas = await Promise.all(urls.map(async url => {
+  let metas = await Promise.all(urls.map(async (url, index) => {
 
     let website;
     try {

@@ -332,6 +332,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 ## <a name="books">Books
 *[&#8593; top](#contents)*
 
+- [An Introduction to Object-Oriented Programming](http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/)
 - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 - [Distributed Systems: Principles and Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)
 - [Building Evolutionary Architectures: Support Constant Change](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)

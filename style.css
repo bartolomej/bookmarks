@@ -1,36 +1,41 @@
-@font-face {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 300;
-    src: local('Be Vietnam'), local('Be Vietnam'), url(fonts) format('ttf');
-}
-
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Be Vietnam', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
 }
 
 h1 {
     text-align: center;
+    padding: 20px;
 }
 
 h2 {
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 1.7em;
+}
+
+h4 {
+    text-align: center;
+    padding: 30px 10px 10px;
+    font-size: 1.2em;
 }
 
 ul {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 li {
     width: 200px;
     list-style: none;
-    padding: 10px;
+    padding: 15px;
+    margin: 10px;
     border: 2px solid black;
+    border-radius: 10px;
 }
 
 li a {
@@ -39,4 +44,50 @@ li a {
 
 li img {
     width: 100%;
+    box-shadow: 0 0 8px 8px white inset;
+}
+
+li a h3 {
+    font-size: 1em;
+    padding: 5px 0;
+    color: darkslateblue;
+}
+
+li a p {
+    font-size: 0.8em;
+    color: black;
+}
+
+/** GENERAL STYLES **/
+
+em {
+    display: none;
+}
+
+
+/** INDEX STYLES **/
+
+ul:first-of-type {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: none;
+    padding-bottom: 30px;
+}
+
+ul:first-of-type li {
+    border: none;
+    margin: 2px;
+    padding: 0;
+}
+
+ul:first-of-type li ul {
+    border: none;
+    margin-left: 10px;
+    padding: 0;
+}
+
+p:first-of-type {
+    line-height: 1.5;
+    margin-bottom: 40px;
 }

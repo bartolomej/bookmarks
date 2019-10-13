@@ -3,42 +3,71 @@
         "url": "https://github.com/sp4ke/awesome-explorables",
         "title": "GitHub - sp4ke/awesome-explorables: A curated list of awesome explorable explanations.",
         "description": "A curated list of awesome explorable explanations. - sp4ke/awesome-explorables",
-        "image": "assets/images/0e255be7-0118-44da-9f0a-ecf6f29e95e1.png"
+        "image": "https://avatars2.githubusercontent.com/u/210457?s=400&v=4"
     },
     "https://github.com/the-dao/whitepaper": {
         "url": "https://github.com/the-dao/whitepaper",
         "title": "GitHub - the-dao/whitepaper",
         "description": "Contribute to the-dao/whitepaper development by creating an account on GitHub.",
-        "image": "assets/images/47c1b4e1-7a14-4337-b608-a468ed7385e3.png"
+        "image": "https://avatars2.githubusercontent.com/u/53917045?s=400&v=4"
     },
     "http://setosa.io/ev/markov-chains/": {
         "url": "http://setosa.io/ev/markov-chains/",
         "title": "Markov Chains explained visually",
-        "image": "assets/images/53a66544-7cad-4e26-afdd-383ebc24eb7b.png"
+        "image": "http://setosa.io/ev/markov-chains/fb-thumb.png"
     },
     "https://quantum.country/qcvc": {
         "url": "https://quantum.country/qcvc",
         "title": "Quantum computing for the very curious",
         "description": "Presented in an experimental mnemonic medium that makes it almost effortless to remember what you read",
-        "image": "assets/images/40454ca3-ce42-4fdc-ad98-bb71c15ca265.png"
+        "image": "https://quantum.country/assets/social.png"
+    },
+    "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/": {
+        "url": "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/",
+        "title": "A crash course in just-in-time (JIT) compilers - Mozilla Hacks - the Web developer blog",
+        "description": "This is the second part in a series on WebAssembly and what makes it fast. If you haven’t read the others, we recommend starting from the beginning. JavaScript started out ...",
+        "image": "https://hacks.mozilla.org/wp-content/themes/Hax/img/hacks-meta-image.jpg"
+    },
+    "https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/": {
+        "url": "https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/",
+        "title": "How JavaScript works: Optimizing the V8 compiler for efficiency - LogRocket Blog",
+        "description": "A guide to compiler-friendly Javascript optimization methods to help front-end devs write more efficient Javascript and reduce slowdowns.",
+        "image": "https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/09/V8-Javascript-engine-nocdn.png?fit=730%2C412&ssl=1"
+    },
+    "https://designingprograms.bitbucket.io/index.html": {
+        "url": "https://designingprograms.bitbucket.io/index.html",
+        "title": "Designing Programs",
+        "description": "Designing Programs",
+        "author": "Mark Webster"
+    },
+    "https://github.com/mame/quine-relay": {
+        "url": "https://github.com/mame/quine-relay",
+        "title": "GitHub - mame/quine-relay: An uroboros program with 100+ programming languages",
+        "description": "An uroboros program with 100+ programming languages - mame/quine-relay",
+        "image": "https://avatars0.githubusercontent.com/u/21557?s=400&v=4"
+    },
+    "https://addyosmani.com/largescalejavascript/": {
+        "url": "https://addyosmani.com/largescalejavascript/",
+        "title": "Patterns For Large-Scale JavaScript Application Architecture",
+        "author": "Addy Osmani"
     },
     "https://github.com/airbnb/javascript": {
         "url": "https://github.com/airbnb/javascript",
         "title": "GitHub - airbnb/javascript: JavaScript Style Guide",
         "description": "JavaScript Style Guide. Contribute to airbnb/javascript development by creating an account on GitHub.",
-        "image": "assets/images/84c9c691-b71e-4305-a74c-0987376e2fe7.png"
+        "image": "https://avatars0.githubusercontent.com/u/698437?s=400&v=4"
     },
     "https://dev.to/sahilrajput/useful-websites-for-programmers-36k": {
         "url": "https://dev.to/sahilrajput/useful-websites-for-programmers-36k",
         "title": "Useful resources for programmers. - DEV Community 👩‍💻👨‍💻",
         "description": "List of some useful resources for programmers and developers",
-        "image": "assets/images/10ba8bbb-350b-416d-98ef-b30d3c17d468.png"
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9RdNevNt--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/rj8fisrei0754velkkpx.jpeg"
     },
     "https://lab.github.com/": {
         "url": "https://lab.github.com/",
         "title": "GitHub Learning Lab",
         "description": "Learn by doing, working with GitHub Learning Lab bot to complete tasks and level up one step at a time.",
-        "image": "assets/images/91d12ffb-1acb-4ce8-8a3f-b3e19e9da3fd.png"
+        "image": "https://lab.github.com/public/card.png"
     },
     "https://12factor.net/": {
         "url": "https://12factor.net/",
@@ -49,14 +78,14 @@
     "https://devcenter.heroku.com/articles/node-best-practices": {
         "url": "https://devcenter.heroku.com/articles/node-best-practices",
         "title": "Best Practices for Node.js Development | Heroku Dev Center",
-        "icon": "assets/images/7bdd9d88-b3b8-4625-b6e9-2ef152f444e8.png",
+        "icon": "https://www.herokucdn.com/favicons/android-icon.png",
         "description": "A list of tips and techniques to keep you and your Node apps happy."
     },
     "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754": {
         "url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
         "title": "The introduction to Reactive Programming you've been missing · GitHub",
         "description": "The introduction to Reactive Programming you've been missing - introrx.md",
-        "image": "assets/images/6ec3a137-5bdc-4df3-bde5-31efa1f3d6ac.png"
+        "image": "https://raw.githubusercontent.com/gist/staltz/868e7e9bc2a7b8c1f754/raw/925e96ffefb044788f59754cd40908692c6024e5/zclickstream.png"
     },
     "http://www.developerdotstar.com/mag/articles/reeves_design_main.html": {
         "url": "http://www.developerdotstar.com/mag/articles/reeves_design_main.html",
@@ -66,7 +95,7 @@
         "url": "https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea",
         "title": "Composing Software: An Introduction - JavaScript Scene - Medium",
         "description": "In my first high school programming class, I was told that software development is “the act of breaking a complex problem down into smaller problems, and composing simple solutions to form a…",
-        "image": "assets/images/b3d284c5-45f6-4566-963a-ca8a7d832f4e.png",
+        "image": "https://miro.medium.com/max/1200/1*uVpU7iruzXafhU2VLeH4lw.jpeg",
         "author": "Eric Elliott"
     },
     "https://www.debuggex.com/": {
@@ -78,7 +107,7 @@
     "https://peeke.nl/": {
         "url": "https://peeke.nl/",
         "title": "Peeke.nl",
-        "icon": "assets/images/9e784cd3-1582-4eb3-b04a-21ef98d1b591.png"
+        "icon": "https://peeke.nl/favicon-196x196.png"
     },
     "http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas": {
         "url": "http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas",
@@ -95,7 +124,7 @@
     "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow": {
         "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
         "title": "Gitflow Workflow | Atlassian Git Tutorial",
-        "icon": "assets/images/c495de43-33d3-4a39-a395-2ec30c3e9248.png",
+        "icon": "https://wac-cdn.atlassian.com/assets/img/favicons/gitguide/favicon.png",
         "description": "A deep dive into the Gitflow Workflow. Learn if this Git workflow is right for you and your team with this comprehensive tutorial. ",
         "author": "Atlassian"
     },
@@ -103,21 +132,21 @@
         "url": "https://aijs.rocks/",
         "title": "aijs.rocks",
         "description": "A curated collection of inspirational AI-powered JavaScript apps. Find examples of artificial intelligence and machine learning with Javascript",
-        "image": "assets/images/f20686c0-bf9f-46e2-8e7e-02f1f0b79ab0.png"
+        "image": "https://aijs.rocks/static/aijs-logo.5464795e.png"
     },
     "https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation": {
         "url": "https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation",
         "title": "Differentiable Image Parameterizations",
-        "icon": "assets/images/3d1e1b60-6dc8-4981-a51f-347d65602905.png",
+        "icon": "https://distill.pubdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA99JREFUeNrsG4t1ozDMzQSM4A2ODUonKBucN2hugtIJ6E1AboLcBiQTkJsANiAb9OCd/OpzMWBJBl5TvaeXPiiyJetry0J8wW3D3QpjRh3GjneXDq+fSQA9s2mH9x3KDhN4foJfCb8N/Jrv+2fnDn8vLRQOplWHVYdvHZYdZsBcZP1vBmh/n8DzEmhUQDPaOuP9pFuY+JwJHwHnCLQE2tnWBGEyXozY9xCUgHMhhjE2I4heVWtgIkZ83wL6Qgxj1obfWBxymPwe+b00BCCRNPbwfb60yleAkkBHGT5AEehIYz7eJrFDMF9CvH4wwhcGHiHMneFvLDQwlwvMLQq58trRcYBWfYn0A0OgHWQUSu25mE+BnoYKnnEJoeIWAifzOv7vLWd2ZKRfWAIme3tOiUaQ3UnLkb0xj1FxRIeEGKaGIHOs9nEgLaaA9i0JRYo1Ic67wJW86KSKE/ZAM8KuVMk8ITVhmxUxJ3Cl2xlm9Vtkeju1+mpCQNxaEGNCY8bs9X2YqwNoQeGjBWut/ma0QAWy/TqAsHx9wSya3I5IRxOfTC+leG+kA/4vSeEcGBtNUN6byhu3+keEZCQJUNh8MAO7HL6H8pQLnsW/Hd4T4lv93TPjfM7A46iEEqbB5EDOvwYNW6tGNZzT/o+CZ6sqZ6wUtR/wf7mi/VL8iNciT6rHih48Y55b4nKCHJCCzb4y0nwFmin3ZEMIoLfZF8F7nncFmvnWBaBj7CGAYA/WGJsUwHdYqVDwAmNsUgAx4CGgAA7GOOxADYOFWOaIKifuVYzmOpREqA21Mo7aPsgiY1PhOMAmxtR+AUbYH3Id2wc0SAFIQTsn9IUGWR8k9jx3vtXSiAacFxTAGakBk9UudkNECd6jLe+6HrshshvIuC6IlLMRy7er+JpcKma24SlE4cFZSZJDGVVrsNvitQhQrDhW0jfiOLfFd47C42eHT56D/BK0To+58Ahj+cAT8HT1UWlfLZCCd/uKawzU0Rh2EyIX/Icqth3niG8ybNroezwe6khdCNxRN+l4XGdOLVLlOOt2hTRJlr1ETIuMAltVTMz70mJrkdGAaZLSmnBEqmAE32JCMmuTlCnRgsBENtOUpHhvvsYIL0ibnBkaC6QvKcR7738GKp0AKnim7xgUSNv1bpS8QwhBt8r+EP47v/oyRK/S34yJ9nT+AN0Tkm4OdB9E4BsmXM3SnMlRFUrtp6IDpV2eKzdYvF3etm3KhQksbOLChGkSmcBdmcEwvqkrMy5BzL00NZeu3qPYJOOuCc+5NjcWKXQxFvTa3NoXJ4d8in7fiAUuTt781dkvuHX4K8AA2Usy7yNKLy0AAAAASUVORK5CYII=\n",
         "description": "A powerful, under-explored tool for neural network visualizations and art.",
-        "image": "assets/images/8e3b1348-8735-46e4-b5c0-8e78721eb5be.png"
+        "image": "https://distill.pub/2018/differentiable-parameterizations/thumbnail.jpg"
     },
     "https://distill.pub/2017/feature-visualization/": {
         "url": "https://distill.pub/2017/feature-visualization/",
         "title": "Feature Visualization",
-        "icon": "assets/images/17ae2ef4-cba6-4eb5-a2d3-a3bda4140dca.png",
+        "icon": "https://distill.pubdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA99JREFUeNrsG4t1ozDMzQSM4A2ODUonKBucN2hugtIJ6E1AboLcBiQTkJsANiAb9OCd/OpzMWBJBl5TvaeXPiiyJetry0J8wW3D3QpjRh3GjneXDq+fSQA9s2mH9x3KDhN4foJfCb8N/Jrv+2fnDn8vLRQOplWHVYdvHZYdZsBcZP1vBmh/n8DzEmhUQDPaOuP9pFuY+JwJHwHnCLQE2tnWBGEyXozY9xCUgHMhhjE2I4heVWtgIkZ83wL6Qgxj1obfWBxymPwe+b00BCCRNPbwfb60yleAkkBHGT5AEehIYz7eJrFDMF9CvH4wwhcGHiHMneFvLDQwlwvMLQq58trRcYBWfYn0A0OgHWQUSu25mE+BnoYKnnEJoeIWAifzOv7vLWd2ZKRfWAIme3tOiUaQ3UnLkb0xj1FxRIeEGKaGIHOs9nEgLaaA9i0JRYo1Ic67wJW86KSKE/ZAM8KuVMk8ITVhmxUxJ3Cl2xlm9Vtkeju1+mpCQNxaEGNCY8bs9X2YqwNoQeGjBWut/ma0QAWy/TqAsHx9wSya3I5IRxOfTC+leG+kA/4vSeEcGBtNUN6byhu3+keEZCQJUNh8MAO7HL6H8pQLnsW/Hd4T4lv93TPjfM7A46iEEqbB5EDOvwYNW6tGNZzT/o+CZ6sqZ6wUtR/wf7mi/VL8iNciT6rHih48Y55b4nKCHJCCzb4y0nwFmin3ZEMIoLfZF8F7nncFmvnWBaBj7CGAYA/WGJsUwHdYqVDwAmNsUgAx4CGgAA7GOOxADYOFWOaIKifuVYzmOpREqA21Mo7aPsgiY1PhOMAmxtR+AUbYH3Id2wc0SAFIQTsn9IUGWR8k9jx3vtXSiAacFxTAGakBk9UudkNECd6jLe+6HrshshvIuC6IlLMRy7er+JpcKma24SlE4cFZSZJDGVVrsNvitQhQrDhW0jfiOLfFd47C42eHT56D/BK0To+58Ahj+cAT8HT1UWlfLZCCd/uKawzU0Rh2EyIX/Icqth3niG8ybNroezwe6khdCNxRN+l4XGdOLVLlOOt2hTRJlr1ETIuMAltVTMz70mJrkdGAaZLSmnBEqmAE32JCMmuTlCnRgsBENtOUpHhvvsYIL0ibnBkaC6QvKcR7738GKp0AKnim7xgUSNv1bpS8QwhBt8r+EP47v/oyRK/S34yJ9nT+AN0Tkm4OdB9E4BsmXM3SnMlRFUrtp6IDpV2eKzdYvF3etm3KhQksbOLChGkSmcBdmcEwvqkrMy5BzL00NZeu3qPYJOOuCc+5NjcWKXQxFvTa3NoXJ4d8in7fiAUuTt781dkvuHX4K8AA2Usy7yNKLy0AAAAASUVORK5CYII=\n",
         "description": "How neural networks build up their understanding of images",
-        "image": "assets/images/ce0e96c1-7983-41fa-bd96-05b454e618d6.png"
+        "image": "https://distill.pub/2017/feature-visualization/thumbnail.jpg"
     },
     "https://www.nltk.org/book/ch06.html": {
         "url": "https://www.nltk.org/book/ch06.html",
@@ -128,6 +157,12 @@
         "title": "CS231n Convolutional Neural Networks for Visual Recognition",
         "description": "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition."
     },
+    "https://fluffy.es/free-up-mac-storage/": {
+        "url": "https://fluffy.es/free-up-mac-storage/",
+        "title": "Free up storage space of your Mac for iOS development",
+        "description": "It's easy to run out of disk space when you are doing iOS development on your Mac, especially if your Mac has only 128GB of storage. Ever gotten this warning when you want to update Xcode? I hope not! 😱 We will discuss what causes your mac storage to be filled",
+        "image": "https://fluffy.es/content/images/2018/11/free-up-space-mac-1.png"
+    },
     "https://chris.beams.io/posts/git-commit/": {
         "url": "https://chris.beams.io/posts/git-commit/",
         "title": "How to Write a Git Commit Message"
@@ -136,25 +171,25 @@
         "url": "https://github.com/goldbergyoni/nodebestpractices",
         "title": "GitHub - goldbergyoni/nodebestpractices: The largest Node.js best practices list (September 2019)",
         "description": ":white_check_mark: The largest Node.js best practices list (September 2019) - goldbergyoni/nodebestpractices",
-        "image": "assets/images/bafef123-7260-4df8-9fed-7ff433e3eaec.png"
+        "image": "https://avatars2.githubusercontent.com/u/8571500?s=400&v=4"
     },
     "https://github.com/jwasham/coding-interview-university": {
         "url": "https://github.com/jwasham/coding-interview-university",
         "title": "GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.",
         "description": "A complete computer science study plan to become a software engineer. - jwasham/coding-interview-university",
-        "image": "assets/images/0126f82c-de75-4592-92ea-3ec34b2e72d4.png"
+        "image": "https://avatars1.githubusercontent.com/u/3771963?s=400&v=4"
     },
     "https://github.com/donnemartin/system-design-primer": {
         "url": "https://github.com/donnemartin/system-design-primer",
         "title": "GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
         "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. - donnemartin/system-design-primer",
-        "image": "assets/images/f6046412-c20d-4eac-b459-ff3ab7d3c8e0.png"
+        "image": "https://avatars1.githubusercontent.com/u/5458997?s=400&v=4"
     },
     "https://github.com/goldbergyoni/javascript-testing-best-practices": {
         "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
         "title": "GitHub - goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)",
         "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019) - goldbergyoni/javascript-testing-best-practices",
-        "image": "assets/images/b3c4860f-c833-4072-bb86-f3a7ed665af1.png"
+        "image": "https://avatars2.githubusercontent.com/u/8571500?s=400&v=4"
     },
     "https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e": {
         "url": "https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e",
@@ -166,31 +201,37 @@
         "url": "https://github.com/chagweyh/react-hooks-typescript-realworld",
         "title": "GitHub - chagweyh/react-hooks-typescript-realworld: Exemplary real world application built with React Hooks + Typescript",
         "description": " Exemplary real world application built with React Hooks + Typescript - chagweyh/react-hooks-typescript-realworld",
-        "image": "assets/images/f767f3c7-ff75-456b-884c-569df93b6b2a.png"
+        "image": "https://avatars0.githubusercontent.com/u/23120626?s=400&v=4"
     },
     "https://jaysoo.ca/2016/02/28/organizing-redux-application/": {
         "url": "https://jaysoo.ca/2016/02/28/organizing-redux-application/",
         "title": "Three Rules For Structuring (Redux) Applications — Jack Hsu",
         "author": "Jack Hsu"
     },
+    "https://jeffrafter.com/working-with-github-actions/": {
+        "url": "https://jeffrafter.com/working-with-github-actions/",
+        "title": "Working with GitHub Actions | Jeff Rafter",
+        "description": "GitHub Actions are still in beta and are changing quickly. But if you are looking to get started the possibilities are endless.",
+        "image": "https://jeffrafter.com//static/b3f301cf766c1545df5fa5a1dfeda413/85cf5/hubot.png"
+    },
     "https://repl.it/@cmihai/Oak-Programming-Language": {
         "url": "https://repl.it/@cmihai/Oak-Programming-Language",
         "title": "Repl.it - Oak Programming Language",
         "description": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 50+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, Python, Nodejs, Enzyme, Go, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, bash, Quil, Crystal, Julia, Elixir, Nim, Reason NodeJs, Erlang, TypeScript, Pygame, Love2D, Tkinter, Java Swing, Emacs Lisp (Elisp), PHP Web Server, SQLite, Java, PHP CLI, Pyxel",
-        "image": "assets/images/2174b452-2283-443d-951c-6262fd92801a.png",
+        "image": "https://www.gravatar.com/avatar/566c4de899964c7361958054a7e1aa25?d=https://repl.it/public/images/evalbot/evalbot_24.png&s=256",
         "author": "repl.it"
     },
     "https://github.com/atulmy/crate": {
         "url": "https://github.com/atulmy/crate",
         "title": "GitHub - atulmy/crate: 👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).",
         "description": "👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories). - atulmy/crate",
-        "image": "assets/images/28df56ac-c99d-4e4e-904f-c66d20f2a3fa.png"
+        "image": "https://repository-images.githubusercontent.com/108859514/500a5780-7c25-11e9-9bc3-fb78c3cb32cc"
     },
     "https://github.com/atulmy/fullstack-javascript-architecture": {
         "url": "https://github.com/atulmy/fullstack-javascript-architecture",
         "title": "GitHub - atulmy/fullstack-javascript-architecture: ✍️ Opinionated project architecture for Full-Stack JavaScript Applications.",
         "description": "✍️ Opinionated project architecture for Full-Stack JavaScript Applications. - atulmy/fullstack-javascript-architecture",
-        "image": "assets/images/c8099425-9726-499d-acd0-886d7d477fd0.png"
+        "image": "https://repository-images.githubusercontent.com/153934270/e0956780-7c26-11e9-9dbb-3e1012f7a9a5"
     },
     "https://blackrockdigital.github.io/startbootstrap-resume/": {
         "url": "https://blackrockdigital.github.io/startbootstrap-resume/",
@@ -200,74 +241,81 @@
         "url": "https://github.com/builderbook/builderbook#showcase",
         "title": "GitHub - builderbook/builderbook: Open source web app. Built with React, Material-UI, Next, Express, Mongoose, MongoDB.",
         "description": "Open source web app. Built with React, Material-UI, Next, Express, Mongoose, MongoDB. - builderbook/builderbook",
-        "image": "assets/images/b3420a0c-c6d8-450e-b4ef-bfd7c55b597a.png"
+        "image": "https://avatars0.githubusercontent.com/u/31634975?s=400&v=4"
     },
     "https://github.com/busterbenson/now-examples": {
         "url": "https://github.com/busterbenson/now-examples",
         "title": "GitHub - busterbenson/now-examples: Examples of Now projects you can deploy yourself",
         "description": "Examples of Now projects you can deploy yourself. Contribute to busterbenson/now-examples development by creating an account on GitHub.",
-        "image": "assets/images/f69a6030-4e2a-4443-bd6e-6347cddc75d1.png"
+        "image": "https://avatars2.githubusercontent.com/u/111647?s=400&v=4"
     },
     "https://github.com/atoami/react-native-navigation-redux-starter-kit": {
         "url": "https://github.com/atoami/react-native-navigation-redux-starter-kit",
         "title": "GitHub - atoami/react-native-navigation-redux-starter-kit: React Native Navigation(v2) Starter Kit with Redux, Saga, ESLint, Babel, Jest and Facebook SDK 😎",
         "description": "React Native Navigation(v2) Starter Kit with Redux, Saga, ESLint, Babel, Jest and Facebook SDK 😎 - atoami/react-native-navigation-redux-starter-kit",
-        "image": "assets/images/25c7b786-4a25-42c8-8d8d-85d95337c0ef.png"
+        "image": "https://avatars2.githubusercontent.com/u/17483938?s=400&v=4"
     },
     "https://github.com/alexwasner/react-native-mobx-firebase-starter": {
         "url": "https://github.com/alexwasner/react-native-mobx-firebase-starter",
         "title": "GitHub - alexwasner/react-native-mobx-firebase-starter: A React Native starter app with Wix React Native Navigation V2, MobX and Firebase",
         "description": "A React Native starter app with Wix React Native Navigation V2, MobX and Firebase - alexwasner/react-native-mobx-firebase-starter",
-        "image": "assets/images/956b27fb-27f0-49b9-b65f-d5c2c50cbf65.png"
+        "image": "https://avatars3.githubusercontent.com/u/4612947?s=400&v=4"
     },
     "https://github.com/birkir/hekla": {
         "url": "https://github.com/birkir/hekla",
         "title": "GitHub - birkir/hekla: Hekla for Hacker News (open source React Native app)",
         "description": "Hekla for Hacker News (open source React Native app) - birkir/hekla",
-        "image": "assets/images/6a36f0ad-b67a-47d6-8cdf-aaf8eb306fd1.png"
+        "image": "https://avatars0.githubusercontent.com/u/180773?s=400&v=4"
     },
     "https://github.com/guardian/support-frontend": {
         "url": "https://github.com/guardian/support-frontend",
         "title": "GitHub - guardian/support-frontend: 💁‍♀️❤️📰 Frontend for the Supporter platform",
         "description": "💁‍♀️❤️📰 Frontend for the Supporter platform. Contribute to guardian/support-frontend development by creating an account on GitHub.",
-        "image": "assets/images/df1b5b04-c777-426a-8909-a10ab83de2b1.png"
+        "image": "https://avatars0.githubusercontent.com/u/164318?s=400&v=4"
+    },
+    "https://www.react-spring.io/": {
+        "url": "https://www.react-spring.io/",
+        "title": "react-spring",
+        "icon": "https://www.react-spring.io/favicon-32x32.png",
+        "description": "Bring your components to life with simple spring animation primitives for React",
+        "image": "https://www.react-spring.io/share.jpg"
     },
     "https://github.com/3b1b/manim": {
         "url": "https://github.com/3b1b/manim",
         "title": "GitHub - 3b1b/manim: Animation engine for explanatory math videos",
         "description": "Animation engine for explanatory math videos. Contribute to 3b1b/manim development by creating an account on GitHub.",
-        "image": "assets/images/e38d7d07-47a0-4566-9dac-a4d0aa2d9615.png"
+        "image": "https://avatars1.githubusercontent.com/u/11601040?s=400&v=4"
     },
     "https://lottiefiles.com/": {
         "url": "https://lottiefiles.com/",
         "title": "LottieFiles - Free animation files build for Lottie, Bodymovin",
-        "icon": "assets/images/bd829bf9-81bd-4b20-a43d-bb6cb6e4bf5b.png",
+        "icon": "https://lottiefiles.com/favicons/favicon-32x32.png",
         "description": "LottieFiles is a collection of animations designed for Lottie and Bodymovin - gone are the days of bugging your developer",
-        "image": "assets/images/9b6c7625-9f5c-4824-958a-969d0871b050.png"
+        "image": "https://static.lottiefiles.com/images/og_img.jpg"
     },
     "https://airbnb.design/lottie/": {
         "url": "https://airbnb.design/lottie/",
         "title": "Lottie",
         "description": "Easily add high-quality animation to any native app. Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images.",
-        "image": "assets/images/b1a91a31-88c6-4c75-8d08-f82a11ac6228.png"
+        "image": "http://airbnb.design/lottie/static/images/lottie.png"
     },
     "https://www.vantajs.com": {
         "url": "https://www.vantajs.com",
         "title": "Vanta.js - 3D & WebGL Background Animations For Your Website",
         "description": "3D & WebGL Background Animations For Your Website",
-        "image": "assets/images/1e5c2995-57e1-4391-9fab-cd1140810e96.png"
+        "image": "https://www.vantajs.com/gallery/fb-share-image.jpg"
     },
     "https://www.markdowntopdf.com/": {
         "url": "https://www.markdowntopdf.com/",
         "title": "Convert your markdown files to PDF with our online converter for free!",
-        "icon": "assets/images/b0d0e700-867a-4da7-b22b-568a417913f5.png",
+        "icon": "https://www.markdowntopdf.com/img/fav/android-icon-192x192.png",
         "description": "Select and upload your file containing markdown markup and we'll convert it to a PDF for you in an instant."
     },
     "https://github.com/sverweij/dependency-cruiser": {
         "url": "https://github.com/sverweij/dependency-cruiser",
         "title": "GitHub - sverweij/dependency-cruiser: Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.",
         "description": "Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. - sverweij/dependency-cruiser",
-        "image": "assets/images/a09e2db9-46d1-438d-8ac1-0fff1445b717.png"
+        "image": "https://avatars0.githubusercontent.com/u/4822597?s=400&v=4"
     },
     "https://softwarebrothers.github.io/admin-bro-dev/": {
         "url": "https://softwarebrothers.github.io/admin-bro-dev/",
@@ -281,54 +329,54 @@
     "https://onepagelove.com": {
         "url": "https://onepagelove.com",
         "title": "One Page Love - One Page Website Inspiration and Templates",
-        "icon": "assets/images/e43d1467-90e3-4953-97b2-8cd3fdc4c1fa.png",
+        "icon": "https://fbfqcvs8hx-flywheel.netdna-ssl.com/wp-content/themes/onepagelove/frontend/img/favicon/favicon-32x32.png",
         "description": "One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.",
-        "image": "assets/images/3bc949d0-266c-433c-842d-c187f49c81ce.png",
+        "image": "https://fbfqcvs8hx-flywheel.netdna-ssl.com/wp-content/themes/onepagelove/frontend/img/social/one-page-love-screenshot.jpg",
         "author": "Rob Hope, @robhope"
     },
     "https://docusaurus.io/": {
         "url": "https://docusaurus.io/",
         "title": "Docusaurus · Easy to Maintain Open Source Documentation Websites",
         "description": "Easy to Maintain Open Source Documentation Websites",
-        "image": "assets/images/3c74999f-189e-422d-8292-3a8d2ba75914.png"
+        "image": "https://docusaurus.io/img/docusaurus.png"
     },
     "https://apetools.webprofusion.com/#/tools/imagegorilla": {
         "url": "https://apetools.webprofusion.com/#/tools/imagegorilla",
         "title": "Ape Tools: Don't Go Ape - Go Ape Tools. App Icon and Splashscreen Generator. Make your app happen.",
-        "icon": "assets/images/13d828a5-86a4-4762-b6cd-75f14d05d9e2.png",
+        "icon": "https://apetools.webprofusion.comicons-5261a8d68222698122bba0837f83ab68/favicon-32x32.png",
         "description": "Ape Tools - Generate the many sizes of icons and splashscreens (launch images) your app will require in order to get your app published to all of the major app stores."
     },
     "https://github.com/drcmda/react-three-fiber": {
         "url": "https://github.com/drcmda/react-three-fiber",
-        "title": "GitHub - react-spring/react-three-fiber: ☘️ A React-renderer for Three.js (for the web and react-native)",
-        "description": "☘️ A React-renderer for Three.js (for the web and react-native) - react-spring/react-three-fiber",
-        "image": "assets/images/8d4a75a6-3a05-40d0-8e0d-6d5015edd7b5.png"
+        "title": "GitHub - react-spring/react-three-fiber: ☘️ React renderer for Threejs (web and react-native)",
+        "description": "☘️ React renderer for Threejs (web and react-native) - react-spring/react-three-fiber",
+        "image": "https://avatars3.githubusercontent.com/u/45790596?s=400&v=4"
     },
     "https://github.com/agenda/agenda": {
         "url": "https://github.com/agenda/agenda",
         "title": "GitHub - agenda/agenda: Lightweight job scheduling for Node.js",
         "description": "Lightweight job scheduling for Node.js. Contribute to agenda/agenda development by creating an account on GitHub.",
-        "image": "assets/images/ee36697a-cabd-468b-9fb6-55bad6e5c01b.png"
+        "image": "https://avatars2.githubusercontent.com/u/29439479?s=400&v=4"
     },
     "https://github.com/agenda/agendash": {
         "url": "https://github.com/agenda/agendash",
         "title": "GitHub - agenda/agendash: Agenda Dashboard",
         "description": "Agenda Dashboard. Contribute to agenda/agendash development by creating an account on GitHub.",
-        "image": "assets/images/ba229c37-78f7-440f-a680-e808ae0e117e.png"
+        "image": "https://avatars2.githubusercontent.com/u/29439479?s=400&v=4"
     },
     "https://www.npmjs.com/package/celebrate": {
         "url": "https://www.npmjs.com/package/celebrate",
         "title": "celebrate  -  npm",
-        "icon": "assets/images/e498dd0c-6743-4e36-b93c-05b2d84475b3.png",
+        "icon": "https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png",
         "description": "A joi validation middleware for Express.",
-        "image": "assets/images/9df29dc6-3294-4eb7-8070-0ddbef279b1a.png"
+        "image": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
     },
     "https://www.npmjs.com/package/dependency-cruiser": {
         "url": "https://www.npmjs.com/package/dependency-cruiser",
         "title": "dependency-cruiser  -  npm",
-        "icon": "assets/images/4a2fa142-f459-4c3a-9e95-f48aa695acc2.png",
+        "icon": "https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png",
         "description": "Validate and visualize dependencies. With your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.",
-        "image": "assets/images/56a50bbd-54bd-4d81-b125-4286a800073c.png"
+        "image": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
     },
     "https://lerna.js.org": {
         "url": "https://lerna.js.org",
@@ -337,65 +385,58 @@
     "https://flynn.io/": {
         "url": "https://flynn.io/",
         "title": "Flynn – The product that ops provides to developers",
-        "icon": "assets/images/e5c30862-a01c-4f71-93db-f9e4c0b1a8e7.png"
-    },
-    "https://nodemailer.com/about/": {
-        "url": "https://nodemailer.com/about/",
-        "title": "Nodemailer :: Nodemailer",
-        "icon": "assets/images/5ea76ddc-0a0d-417e-b78c-2a242a19b567.png",
-        "description": "Nodemailer is a module for Node.js to send emails",
-        "author": "Andris Reinman"
+        "icon": "https://flynn.io/images/favicon-32x32-86f78ec8.png"
     },
     "https://www.2dimensions.com/about-flare": {
         "url": "https://www.2dimensions.com/about-flare",
         "title": "2D - Flare by 2Dimensions. Bring your apps and games to life with real-time animation.",
-        "icon": "assets/images/346ba4cb-e40f-4c8a-a636-a82dd6198151.png",
+        "icon": "https://www.2dimensions.com/favicon-32x32.png",
         "description": "Bring your apps and games to life with real-time animation. Flare is a powerful design and animation tool, which allows designers and developers to easily add high-quality animation to Flutter, iOS, Android, Unity, OpenGL, C++, C#, OpenTK, HTML, JS, and other apps and games."
     },
     "https://fontflipper.com/upload": {
         "url": "https://fontflipper.com/upload",
         "title": "Font Flipper - Find Free Fonts",
         "description": "Preview 800+ Google Fonts on top of your own designs, without having to download the fonts first. You'll play 'Hot or Not' to collect fonts you like, and then download them for free for both personal and commercial projects.",
-        "image": "assets/images/d3748284-0853-45cb-a532-634ab5cef563.png"
+        "image": "https://firebasestorage.googleapis.com/v0/b/font-flipper.appspot.com/o/metaImg.png?alt=media&token=61a959aa-832c-47fb-a1aa-6ff96abdbf50"
     },
     "https://github.com/GoogleChromeLabs/ProjectVisBug": {
         "url": "https://github.com/GoogleChromeLabs/ProjectVisBug",
-        "title": "GitHub - GoogleChromeLabs/ProjectVisBug: FireBug for designers › Makes any webpage feel like an artboard via a little extension https://visbug.page.link/extension",
-        "description": "FireBug for designers › Makes any webpage feel like an artboard via a little extension https://visbug.page.link/extension - GoogleChromeLabs/ProjectVisBug",
-        "image": "assets/images/fe98245f-1536-424d-a953-ff94c1d81e70.png"
+        "title": "GitHub - GoogleChromeLabs/ProjectVisBug: FireBug for designers › Makes any webpage feel like an artboard via a little extension https://a.nerdy.dev/gimme-visbug",
+        "description": "FireBug for designers › Makes any webpage feel like an artboard via a little extension https://a.nerdy.dev/gimme-visbug - GoogleChromeLabs/ProjectVisBug",
+        "image": "https://repository-images.githubusercontent.com/137987910/f6f1e400-cfc7-11e9-8df7-cc0d9d7b4a04"
     },
     "https://cloudcraft.co/": {
         "url": "https://cloudcraft.co/",
         "title": "Cloudcraft – Draw AWS diagrams",
         "description": "Visualize your AWS environment as isometric architecture diagrams. Snap together blocks for EC2s, ELBs, RDS and more. Connect your live AWS environment.",
-        "image": "assets/images/4defbaf5-f101-4c5f-8853-1af98b90cad3.png"
+        "image": "https://cloudcraft.co/graphics/opengraph.png"
     },
     "https://www.figma.com/": {
         "url": "https://www.figma.com/",
         "title": "Figma: the collaborative interface design tool.",
-        "icon": "assets/images/9fe42d8b-8abd-417a-8ab0-5299b60b9203.png",
+        "icon": "https://static.figma.com/app/icon/1/favicon.png",
         "description": "A better way to design. Design, prototype, and gather feedback all in one place with Figma.",
-        "image": "assets/images/c509fc94-8ed2-4260-b439-6cf9a2bdb2f4.png"
+        "image": "https://images.ctfassets.net/1khq4uysbvty/1B1epriGpMobqHwWXfMBLv/cc7a39c43446bd0376f624db307ac487/Figma_Home_OG__1_.png"
     },
     "https://bundlephobia.com/": {
         "url": "https://bundlephobia.com/",
         "title": "BundlePhobia ❘ cost of adding a npm package",
-        "icon": "assets/images/97071547-6a8b-463a-81fe-371245a9d4d0.png",
+        "icon": "https://bundlephobia.com/favicon-32x32.png?l=4",
         "description": "Bundlephobia helps you find the performance impact of adding a npm package to your front-end bundle",
-        "image": "assets/images/e8369392-5c1f-48bf-b1b4-969cde4ef8d4.png"
+        "image": "https://s26.postimg.org/4s64v24c9/Artboard_4.png"
     },
     "https://kazzkiq.github.io/balloon.css/": {
         "url": "https://kazzkiq.github.io/balloon.css/",
         "title": "Balloon.css — CSS tooltips for HTML elements",
         "description": "Simple tooltips made of pure CSS!",
-        "image": "assets/images/9076c823-54dd-4dac-b59b-5f4c50f60682.png"
+        "image": "https://kazzkiq.github.io/balloon.css/assets/img/og.png"
     },
     "https://www.createjs.com/": {
         "url": "https://www.createjs.com/",
         "title": "CreateJS | A suite of JavaScript libraries and tools designed for working with HTML5",
-        "icon": "assets/images/c0c94dbb-78b6-4848-a0a6-173b80ecfd91.png",
+        "icon": "https://www.createjs.com/assets/favicons/favicon-192x192.png",
         "description": "A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.",
-        "image": "assets/images/6ae8790b-77da-4b31-a6ef-e95263ddf594.png",
+        "image": "https://createjs.com/assets/favicons/banner.jpg",
         "author": "gskinner.com, inc."
     },
     "https://networkx.github.io/": {
@@ -405,34 +446,41 @@
     "https://www.npmjs.com/package/dotenv": {
         "url": "https://www.npmjs.com/package/dotenv",
         "title": "dotenv  -  npm",
-        "icon": "assets/images/a9f4a0dc-0e44-4cc0-a7de-1895995253f7.png",
+        "icon": "https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png",
         "description": "Loads environment variables from .env file",
-        "image": "assets/images/703ba157-3f89-4c6d-a2da-fcf6adabb163.png"
+        "image": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png"
     },
     "https://github.com/luggit/react-native-config": {
         "url": "https://github.com/luggit/react-native-config",
         "title": "GitHub - luggit/react-native-config: Bring some 12 factor love to your mobile apps!",
         "description": "Bring some 12 factor love to your mobile apps! Contribute to luggit/react-native-config development by creating an account on GitHub.",
-        "image": "assets/images/3fe16ec2-5e8c-47e1-bb7a-ec124869ebac.png"
+        "image": "https://avatars0.githubusercontent.com/u/10248925?s=400&v=4"
     },
     "https://sentry.io/welcome/": {
         "url": "https://sentry.io/welcome/",
-        "title": "Sentry | Error Tracking Software — JavaScript, Python, PHP, Ruby, more",
-        "icon": "assets/images/7a86e8df-a8ca-41dc-b5ac-e827910a6ae8.png",
-        "description": "Open-source error tracking that helps developers monitor and fix crashes in real time. Iterate continuously. Boost workflow efficiency. Improve user experience."
+        "title": "Application Monitoring and Error Tracking Software | Sentry",
+        "description": "Open-source and hosted error monitoring that helps software teams discover, triage, and prioritize errors in real-time.",
+        "image": "https://sentry.io/_assets2/static/index-854ae3e45700d967fe7dfe04256659a5.jpg"
     },
     "https://graphql.org/": {
         "url": "https://graphql.org/",
         "title": "GraphQL | A query language for your API",
         "description": "GraphQL provides a complete description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.",
-        "image": "assets/images/4c74beab-f74f-484f-aead-eaca5e7318d0.png"
+        "image": "https://graphql.org/img/og_image.png"
     },
     "https://feathersjs.com": {
         "url": "https://feathersjs.com",
         "title": "Feathers | A framework for real-time applications and REST APIs",
         "description": "Feathers is a web-framework for creating real-time applications and REST APIs using JavaScript or TypeScript with Node.JS, React Native and the browser.",
-        "image": "assets/images/31ada440-22fd-4c7d-be50-f59eeb1573b7.png",
+        "image": "https://feathersjs.com/img/facebook-share-image.png",
         "author": "Feathers contributors"
+    },
+    "https://www.atlassian.com/continuous-delivery": {
+        "url": "https://www.atlassian.com/continuous-delivery",
+        "title": "Continuous Delivery | Get started with CI/CD | Atlassian",
+        "icon": "https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png",
+        "description": "Continuous Delivery (CD) is the practice of using automation to release software in short iterations. Learn how to get started with CD with our free guide.",
+        "author": "Atlassian"
     },
     "https://wattenberger.com/blog/react-hooks": {
         "url": "https://wattenberger.com/blog/react-hooks",
@@ -442,7 +490,7 @@
         "url": "https://stackoverflow.com/questions/2034422/tutorial-resource-for-implementing-vm",
         "title": "c - Tutorial/resource for implementing VM - Stack Overflow",
         "description": "I want self-education purpose implement a simple virtual machine for a dynamic language, prefer in C. Something like the Lua VM, or Parrot, or Python VM, but simpler. Are there any good resources/",
-        "image": "assets/images/915db710-a8c2-4543-9592-645de25e1a7e.png"
+        "image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded"
     },
     "https://cs.lmu.edu/~ray/notes/compilerarchitecture/": {
         "url": "https://cs.lmu.edu/~ray/notes/compilerarchitecture/",
@@ -452,7 +500,7 @@
         "url": "https://www.geeksforgeeks.org/compiler-lexical-analysis/",
         "title": "Compiler Design | Lexical Analysis - GeeksforGeeks",
         "description": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
-        "image": "assets/images/16f7b598-3396-469f-8bd3-e1f38901a2e4.png"
+        "image": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png"
     },
     "http://lisperator.net/pltut/parser/": {
         "url": "http://lisperator.net/pltut/parser/",
@@ -467,7 +515,7 @@
         "url": "https://github.com/sos-os/kernel",
         "title": "GitHub - sos-os/kernel: The Stupid Operating System",
         "description": "The Stupid Operating System. Contribute to sos-os/kernel development by creating an account on GitHub.",
-        "image": "assets/images/987f5636-f07c-4685-9f48-2eed7ff393c5.png"
+        "image": "https://avatars1.githubusercontent.com/u/36111461?s=400&v=4"
     },
     "https://ericsink.com/scm/source_control.html": {
         "url": "https://ericsink.com/scm/source_control.html",
@@ -481,27 +529,39 @@
         "url": "https://stackoverflow.com/questions/29117570/orchestrating-microservices",
         "title": "http - Orchestrating microservices - Stack Overflow",
         "description": "What is the standard pattern of orchestrating microservices?\n\nIf a microservice only knows about its own domain, but there is a flow of data that requires that multiple services interact in some ma...",
-        "image": "assets/images/021105e4-e6f8-422f-8bfe-afb4f053a8c2.png"
+        "image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded"
     },
     "https://ethereum.consensys.net/": {
         "url": "https://ethereum.consensys.net/",
-        "title": "Ethereum Dev Portal",
-        "description": "The world of Ethereum is full of tools/tutorials and opinions. Need a trusted guide to successfully build projects that get users? Use our resources to build on Ethereum.",
-        "image": "assets/images/c0be283f-0a55-4ad7-80a5-d349154209a5.png",
-        "author": "ConsenSys"
+        "title": "Ethereum Blockchain Developer Portal",
+        "description": "Ethereum Blockchain Developer Portal: developer tools, resources, guides, programming libraries, and more.",
+        "image": "https://i0.wp.com/content.consensys.net/wp-content/uploads/dev-portal-512@2x.png?ssl=1&resize=1200,630"
     },
     "https://docs.microsoft.com/en-us/azure/devops/learn/": {
         "url": "https://docs.microsoft.com/en-us/azure/devops/learn/",
         "title": "DevOps Resource Center - Azure DevOps | Microsoft Docs",
         "description": "Learn DevOps practices, Git version control, Agile methods, how we work with DevOps at Microsoft.",
-        "image": "assets/images/309095dd-6ad3-4d8d-a154-d29a6723ed45.png",
+        "image": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
         "author": "SamGu"
     },
     "https://ai.google/": {
         "url": "https://ai.google/",
         "title": "Google AI",
         "description": "At Google, we think that AI can meaningfully improve people’s lives and that the biggest impact will come when everyone can access it. Learn more about our projects and tools.",
-        "image": "assets/images/981a329e-1b13-4711-8a77-d7412e4ab294.png"
+        "image": "https://ai.google/static/images/share.png"
+    },
+    "https://daotalk.org/t/resource-list-dao-creation-design/522": {
+        "url": "https://daotalk.org/t/resource-list-dao-creation-design/522",
+        "title": "Resource List – DAO Creation & Design - Creation and Design - DAOstack",
+        "icon": "https://aws1.discourse-cdn.com/standard14/uploads/daostack/optimized/1X/f0fa69fdfed438643eefae8f71e6420a5b9cc754_2_32x32.png",
+        "description": "Join the DAO Creation and Design aficionados in Telegram or Discord. \nUse Cases\n\nUse Cases for Scalable DAOs\nWhat Kind of Organizations Should be DAOs?\nDAOstack DAO Use Cases Working Group Meeting Notes\nCan DAOs Save Pol&hellip;",
+        "image": "https://aws1.discourse-cdn.com/standard14/uploads/daostack/original/1X/f0fa69fdfed438643eefae8f71e6420a5b9cc754.png"
+    },
+    "https://github.com/DemocracyOS/democracyos": {
+        "url": "https://github.com/DemocracyOS/democracyos",
+        "title": "GitHub - DemocracyOS/democracyos: DemocracyOS is an online space for deliberation and voting on political proposals. The software aims to stimulate better arguments and come to better rulings.",
+        "description": "DemocracyOS is an online space for deliberation and voting on political proposals. The software aims to stimulate better arguments and come to better rulings.   - DemocracyOS/democracyos",
+        "image": "https://avatars2.githubusercontent.com/u/4107101?s=400&v=4"
     },
     "http://merkle.com/papers/DAOdemocracyDraft.pdf": {
         "url": "http://merkle.com/papers/DAOdemocracyDraft.pdf",
@@ -511,7 +571,7 @@
         "url": "https://github.com/austintgriffith/commit-reveal",
         "title": "GitHub - austintgriffith/commit-reveal: simple method for hiding votes or generating random numbers on-chain",
         "description": "simple method for hiding votes or generating random numbers on-chain - austintgriffith/commit-reveal",
-        "image": "assets/images/d63ef601-3103-4b7b-88e5-fbbad31a8ad6.png"
+        "image": "https://avatars0.githubusercontent.com/u/2653167?s=400&v=4"
     },
     "https://plato.stanford.edu/entries/turing-machine/": {
         "url": "https://plato.stanford.edu/entries/turing-machine/",
@@ -521,25 +581,25 @@
         "url": "https://curiosity-driven.org/low-level-bitcoin",
         "title": "Low-level Bitcoin — Curiosity driven",
         "description": "Exploring Bitcoin can yield interesting surprises. Block chain already contains various gems hidden inside transactions — tributes, illegal data, even pictures and a patch fixing bug in a Bitcoin client.",
-        "image": "assets/images/0da19208-a1ee-4c26-8152-0cf9602e3f6c.png"
+        "image": "https://curiosity-driven.org/assets/583bf5df/thumbnails/low-level-bitcoin.png"
     },
     "http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html": {
         "url": "http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html",
         "title": "Bitcoins the hard way: Using the raw Bitcoin protocol",
         "description": "  All the recent media attention on Bitcoin inspired me to learn how Bitcoin really works, right down to the bytes flowing through the netwo...",
-        "image": "assets/images/d70630e0-f92a-4dd7-910f-768cfa2d2eed.png"
+        "image": "https://lh3.googleusercontent.com/proxy/ibS_PB8fJVTG__AiCwwwbIt-HiWoE0ZvS0bJikAamJo9ohWytKe-m7IgoeM7CC0bab_LBZVy1XL7CkPnAOf4FD9Z-zGanHERLzpvVGD7h_ZxjTI=w1200-h630-p-k-no-nu"
     },
     "https://github.com/olistic/simplechain/tree/master/lib": {
         "url": "https://github.com/olistic/simplechain/tree/master/lib",
         "title": "simplechain/lib at master · olistic/simplechain · GitHub",
         "description": "⛓✨ Interactive blockchain built with Node.js. Contribute to olistic/simplechain development by creating an account on GitHub.",
-        "image": "assets/images/f9ed3e30-baff-413a-9f00-1394a82619c1.png"
+        "image": "https://avatars0.githubusercontent.com/u/5600126?s=400&v=4"
     },
     "https://github.com/theanalyst/awesome-distributed-systems": {
         "url": "https://github.com/theanalyst/awesome-distributed-systems",
         "title": "GitHub - theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems",
         "description": "A curated list to learn about distributed systems. Contribute to theanalyst/awesome-distributed-systems development by creating an account on GitHub.",
-        "image": "assets/images/8725d35b-cbd4-4ba8-bf81-0beb053f480b.png"
+        "image": "https://avatars3.githubusercontent.com/u/1433152?s=400&v=4"
     },
     "https://en.bitcoin.it/wiki/Protocol_documentation": {
         "url": "https://en.bitcoin.it/wiki/Protocol_documentation",
@@ -549,7 +609,7 @@
         "url": "https://www.data-to-viz.com/graph/network.html",
         "title": "Network diagram – from Data to Viz",
         "description": "An extensive description of Network diagram. Definition, examples, input data, common caveats, tool to build it and potential alternatives.",
-        "image": "assets/images/8a876c17-9073-4981-9a9d-e43a3fc50b92.png",
+        "image": "https://github.com/holtzy/data_to_viz/raw/master/img/section/NetworkSmall.png",
         "author": "Yan Holtz and Conor Healy"
     },
     "https://internet-map.net/": {
@@ -560,7 +620,7 @@
         "url": "https://cambridge-intelligence.com/visualizing-bitcoin-activity/",
         "title": "\nVisualizing Bitcoin activity - Cambridge Intelligence",
         "description": "This blog post looks at data from Bitcoin transactions, seeing how modelling transactional data as a graph can improve understanding and insight",
-        "image": "assets/images/e3e1d958-0bd1-42d1-b4ec-dfdda285aa75.png"
+        "image": "https://d13uzbxp4vxmou.cloudfront.net/wp-content/uploads/2015/03/fraud-feature.png"
     },
     "https://graphcommons.com/": {
         "url": "https://graphcommons.com/",
@@ -575,38 +635,75 @@
         "url": "http://astrangertowords.com/",
         "title": ""
     },
+    "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/": {
+        "url": "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
+        "title": "Introduction to design systems | Storybook Tutorials",
+        "description": "A guide to the latest production-ready tools for design systems",
+        "image": "https://learnstorybook.com/design-systems-for-developers/opengraph-cover.jpg"
+    },
+    "https://mobile.twitter.com/i/moments/994601867987619840": {
+        "url": "https://mobile.twitter.com/i/moments/994601867987619840",
+        "title": "Twitter"
+    },
     "http://bradfrost.com/blog/post/atomic-web-design/": {
         "url": "http://bradfrost.com/blog/post/atomic-web-design/",
         "title": "  Atomic Design",
         "description": "Hey there! I wrote a book called Atomic Design that dives into this topic in more detail, which you can buy as an ebook.\nWe’re not designing pages, we’re designing systems of components.—Stephen Hay\nAs the craft of Web design continues to evolve, we're recognizing the need to develop thoughtful de",
-        "image": "assets/images/abf14dd1-dac2-4d20-a1c5-6a7d3a1a09fb.png"
+        "image": "http://bradfrost.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-13-at-5.15.05-PM.png"
     },
     "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886": {
         "url": "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886",
         "title": "7 Practical Tips for Cheating at Design - Refactoring UI - Medium",
         "description": "Every web developer inevitably runs into situations where they need to make visual design decisions, whether they like it or not. Maybe the company you work for doesn’t have a full-time designer and…",
-        "image": "assets/images/88b20d1b-ab12-418d-ac75-b0494d3ad1b1.png",
+        "image": "https://miro.medium.com/max/1200/1*2YuCOOCjdMEJxg-Lb6G2FA.png",
         "author": "Adam Wathan & Steve Schoger"
     },
     "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914": {
         "url": "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914",
         "title": "UI/UX design guide with terms, explanations, tips and trends",
         "description": "A longread aimed to gather all the theory about UX and UI design processes for creating web and mobile application design Originally I shared this guide to Syndicode blog to describe UI and UX…",
-        "image": "assets/images/db6741f1-1cf0-45f6-a1fd-09dce34580e6.png",
+        "image": "https://miro.medium.com/max/1024/1*9iH4E4au_LpP2WXmpisiUw.png",
         "author": "Iren Korkishko"
     },
     "https://search.muz.li/inspiration/mobile-app-design-inspiration/": {
         "url": "https://search.muz.li/inspiration/mobile-app-design-inspiration/",
-        "title": "455+ Mobile app dseign inspiration, ideas and examples - Muzli Design Inspiration",
+        "title": "420+ Mobile app dseign inspiration, ideas and examples - Muzli Design Inspiration",
         "description": "Constantly-updated list of well designed mobile apps from the always-fresh Muzli inventory, to inspire you in your mobile UI/UXdesign process.",
-        "image": "assets/images/b445d39b-eea1-42f3-a094-58286202fc5b.png"
+        "image": "https://uimovement.com/media/resource_image/image_7504.gif"
+    },
+    "https://www.styled-components.com/": {
+        "url": "https://www.styled-components.com/",
+        "title": "styled-components",
+        "icon": "https://www.styled-components.com/static/favicon.png",
+        "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅",
+        "image": "https://www.styled-components.com/static/atom.png",
+        "author": "styled-components"
+    },
+    "https://github.com/hyperfuse/react-anime": {
+        "url": "https://github.com/hyperfuse/react-anime",
+        "title": "GitHub - hyperfuse/react-anime: (ﾉ´ヮ´)ﾉ*:･ﾟ✧ A super easy animation library for React!",
+        "description": "(ﾉ´ヮ´)ﾉ*:･ﾟ✧ A super easy animation library for React! - hyperfuse/react-anime",
+        "image": "https://avatars2.githubusercontent.com/u/22921410?s=400&v=4"
+    },
+    "https://designrevision.com/downloads/shards-react/": {
+        "url": "https://designrevision.com/downloads/shards-react/",
+        "title": "Shards React - Free & Modern React UI Kit – DesignRevision",
+        "icon": "https://designrevision.com/favicons/favicon-32x32.png?v=1.5.0",
+        "description": "Download Shards React a High-Quality & FREE React UI Kit based on Bootstrap 4 Featuring a Modern Design System and Dozens of Components",
+        "image": "https://designrevision.com/app/uploads/edd/shards-dashboard-pro-react-feat-img.jpg"
+    },
+    "https://github.com/andrerpena/react-mde": {
+        "url": "https://github.com/andrerpena/react-mde",
+        "title": "GitHub - andrerpena/react-mde: 📝 React Markdown Editor",
+        "description": "📝 React Markdown Editor. Contribute to andrerpena/react-mde development by creating an account on GitHub.",
+        "image": "https://avatars1.githubusercontent.com/u/1581429?s=400&v=4"
     },
     "https://eater.net/quaternions": {
         "url": "https://eater.net/quaternions",
         "title": "Visualizing quaternions, an explorable video series",
-        "icon": "assets/images/a864ca77-cddd-428e-b8fa-e047ed5ecb5f.png",
+        "icon": "https://eater.net/favicon/favicon-32x32.png",
         "description": "Explaining how quaternions, a four-dimensional number system, describe 3d rotation.",
-        "image": "assets/images/26822002-c8be-4edf-873c-cde785adb77d.png"
+        "image": "https://eater.net/media/intro.jpg"
     },
     "https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions": {
         "url": "https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions",
@@ -615,9 +712,9 @@
     "https://chaos-equations.glitch.me/?p=VNYAVO": {
         "url": "https://chaos-equations.glitch.me/?p=VNYAVO",
         "title": "c h a o s - e q u a t i o n s",
-        "icon": "assets/images/edc23c8b-c2e1-452d-bc38-6460c2e5fe89.png",
+        "icon": "https://cdn.glitch.com/eaf94e93-186e-4a8d-83c9-13ead0effa8f%2Ffavicon-32x32.png?1555525173039",
         "description": "Real time visualization and animation of dynamic chaos equations",
-        "image": "assets/images/c99b1335-ef0e-4e1c-9fa7-dc35135c5841.png"
+        "image": "https://cdn.glitch.com/eaf94e93-186e-4a8d-83c9-13ead0effa8f%2Fog-image.jpg?1555525344870"
     },
     "https://conceptviz.github.io/": {
         "url": "https://conceptviz.github.io/",
@@ -626,27 +723,27 @@
     "https://www.3blue1brown.com/": {
         "url": "https://www.3blue1brown.com/",
         "title": "3Blue1Brown",
-        "image": "assets/images/04df5376-25fa-4b4f-9be9-1a9a9a1fe6c6.png"
+        "image": "http://static1.squarespace.com/static/54f63048e4b0a47e92eb5234/t/5b6090ddf950b7af56866cc5/1533055200668/3b1b_logo_transparent_background.png?format=1500w"
     },
     "http://www.coloring-book.co/": {
         "url": "http://www.coloring-book.co/",
         "title": "Beautiful Symmetry: A Coloring Book About Math",
         "description": "Math is about more than just numbers. In this 'book' the language of math is visual, shown in shapes and patterns. This is a coloring book about group theory.",
-        "image": "assets/images/789101ec-5339-4d51-901c-0cf2c1545891.png",
+        "image": "https://aberke.github.io/coloring-book/src/assets/img/dn/dihedral-shapes-d3-d4-d5-d6-d7-d8.gif",
         "author": "Alex Berke | aberke"
     },
     "http://www.jezzamon.com/fourier/": {
         "url": "http://www.jezzamon.com/fourier/",
         "title": "An Interactive Introduction to Fourier Transforms",
-        "icon": "assets/images/167196f3-78bb-443a-ad53-6eefd29d4a79.png",
+        "icon": "http://www.jezzamon.com/favicon-32x32.png",
         "description": "Fourier transforms are a tool used in a whole bunch of different things. This is a explanation of what a Fourier transform does, and some different ways it can be useful.",
-        "image": "assets/images/631556f7-d574-4994-abf4-a734fc8c6492.png"
+        "image": "http://www.jezzamon.com/fourier/preview.png"
     },
     "https://visualizingmath.tumblr.com/": {
         "url": "https://visualizingmath.tumblr.com/",
         "title": "Visualizing Math",
         "description": "A blog dedicated to mathematics.",
-        "image": "assets/images/ee5d1ddb-a89d-4462-a630-53711056fe3b.png"
+        "image": "https://66.media.tumblr.com/avatar_1c7ef7c9144c_128.pnj"
     },
     "https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM": {
         "url": "https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM",
@@ -656,7 +753,7 @@
         "url": "https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation",
         "title": "The Evolution of Cooperation by Robert Axelrod",
         "description": "The Evolution of Cooperation book. Read 114 reviews from the world's largest community for readers. The Evolution of Cooperation provides valuable insigh...",
-        "image": "assets/images/dd9224f1-a196-4944-a2c5-a34979e29d42.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388197031i/366821._UY630_SR1200,630_.jpg"
     },
     "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678": {
         "url": "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678",
@@ -669,7 +766,13 @@
     "https://www.evogeneao.com/explore/tree-of-life-explorer": {
         "url": "https://www.evogeneao.com/explore/tree-of-life-explorer",
         "title": "Evogeneao: The Tree of Life",
-        "image": "assets/images/5a59fb96-e0a0-4a5a-a781-eff2fd1ff296.png"
+        "image": "https://www.evogeneao.com/assets/frog-011bd85c380111f017bd6c38c520e50a3008bbabfa3ac665c39c10a3add1036d.gif"
+    },
+    "https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile": {
+        "url": "https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile",
+        "title": "Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile — New England Complex Systems Institute",
+        "description": "Since time immemorial humans have complained that life is becoming more \ncomplex, but it is only now that we have a hope to analyze formally and \nverify this lament.",
+        "image": "http://static1.squarespace.com/static/5b68a4e4a2772c2a206180a1/t/5c34d40b0e2e72a82d34e717/1546966029271/CompRising.jpg?format=1500w"
     },
     "https://www.complex-systems.com/archives/": {
         "url": "https://www.complex-systems.com/archives/",
@@ -680,7 +783,18 @@
         "url": "https://www.santafe.edu",
         "title": "Home | Santa Fe Institute",
         "description": "Welcome to Santa Fe Institute.",
-        "image": "assets/images/6ca5f8f3-3f1c-403a-9bfb-90e0970181e6.png"
+        "image": "https://s3.amazonaws.com/sfi-edu/sfi-edu/production/static/sfi-share-default.jpg"
+    },
+    "https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/": {
+        "url": "https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/",
+        "title": "Introducing the CodeSearchNet challenge - The GitHub Blog",
+        "description": "We’re announcing the CodeSearchNet Challenge and releasing a large dataset for natural language processing and machine learning.",
+        "image": "https://github.blog/wp-content/uploads/2019/03/engineering-social.png?fit=1201%2C630"
+    },
+    "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html": {
+        "url": "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
+        "title": "Driving Dataset > Audi Electronics Venture",
+        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20190930065204/cms4i-nemo/assets/icons/favicon/favicon.png"
     },
     "https://www.yelp.com/dataset/challenge": {
         "url": "https://www.yelp.com/dataset/challenge",
@@ -689,7 +803,7 @@
     "https://ai.google/tools/datasets/": {
         "url": "https://ai.google/tools/datasets/",
         "title": "Datasets – Google AI",
-        "image": "assets/images/5e510ac7-9eba-4311-947e-a87eb5cafea7.png"
+        "image": "https://ai.google/static/images/share.png"
     },
     "https://www.kaggle.com/datasets": {
         "url": "https://www.kaggle.com/datasets",
@@ -719,15 +833,15 @@
     "https://www.data.gov/": {
         "url": "https://www.data.gov/",
         "title": "Data.gov",
-        "icon": "assets/images/ed2b2a2c-f00e-4107-974c-128358793d09.png",
+        "icon": "https://www.data.gov/app/themes/roots-nextdatagov/assets/img/favicon-120.png",
         "description": "The home of the U.S. Government’s open data Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.",
-        "image": "assets/images/bc23a8d1-2e53-4f16-a266-94caf40ff9d6.png"
+        "image": "https://www.data.gov/media/2014/05/data_gov_logo_D_new.png"
     },
     "https://www.internetlivestats.com/": {
         "url": "https://www.internetlivestats.com/",
         "title": "Internet Live Stats - Internet Usage & Social Media Statistics",
         "description": "Watch the Internet as it grows in real time and monitor social media usage: Internet users, websites, blog posts, Facebook, Google+, Twitter, and Pinterest users. Visualize the total number of emails, Google searches, YouTube videos, Tumblr posts, Instagram photos, in 1 second. Historical trends, statistics, infographics and live data visualization",
-        "image": "assets/images/7626b828-80c1-4c10-8ff4-57788c3d9462.png"
+        "image": "https://www.internetlivestats.com/internet-live-stats.gif"
     },
     "https://www.shodan.io/": {
         "url": "https://www.shodan.io/",
@@ -736,7 +850,7 @@
     "https://developers.google.com/books/docs/v1/getting_started": {
         "url": "https://developers.google.com/books/docs/v1/getting_started",
         "title": "Getting Started  |  Google Books APIs  |  Google Developers",
-        "image": "assets/images/a04f1ef3-6089-47fb-99fd-5435d24d2f97.png"
+        "image": "https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/developers/images/opengraph/google-blue.png"
     },
     "http://genemania.org/": {
         "url": "http://genemania.org/",
@@ -746,12 +860,28 @@
         "url": "http://www.enron-mail.com/email/skilling-j/",
         "title": "Index of /email/skilling-j"
     },
+    "https://thevaluable.dev/abstraction_software_development/": {
+        "url": "https://thevaluable.dev/abstraction_software_development/",
+        "title": "A Detailed Explanation of Abstraction in Software Development",
+        "description": "Abstraction is fundamental in software development. What is it? What's its benefits? Should we abstract everything?"
+    },
+    "https://numinous.productions/ttft/": {
+        "url": "https://numinous.productions/ttft/",
+        "title": "How can we develop transformative tools for\n    thought?",
+        "description": "🛠🧠🖌💥🌎✨🔜",
+        "image": "https://numinous.productions/ttft/assets/social.png"
+    },
+    "https://archive.is/Zqi9H": {
+        "url": "https://archive.is/Zqi9H",
+        "title": "Nick Szabo's Home Page",
+        "image": "https://archive.is/Zqi9H/8ca5b345d620ec91488bf3a06b89bbb8f0d17cee/scr.png"
+    },
     "https://distill.pub/": {
         "url": "https://distill.pub/",
         "title": "Distill — Latest articles about machine learning",
-        "icon": "assets/images/92994870-cbf4-4d53-981f-dabbefdd11f1.png",
+        "icon": "https://distill.pubdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA99JREFUeNrsG4t1ozDMzQSM4A2ODUonKBucN2hugtIJ6E1AboLcBiQTkJsANiAb9OCd/OpzMWBJBl5TvaeXPiiyJetry0J8wW3D3QpjRh3GjneXDq+fSQA9s2mH9x3KDhN4foJfCb8N/Jrv+2fnDn8vLRQOplWHVYdvHZYdZsBcZP1vBmh/n8DzEmhUQDPaOuP9pFuY+JwJHwHnCLQE2tnWBGEyXozY9xCUgHMhhjE2I4heVWtgIkZ83wL6Qgxj1obfWBxymPwe+b00BCCRNPbwfb60yleAkkBHGT5AEehIYz7eJrFDMF9CvH4wwhcGHiHMneFvLDQwlwvMLQq58trRcYBWfYn0A0OgHWQUSu25mE+BnoYKnnEJoeIWAifzOv7vLWd2ZKRfWAIme3tOiUaQ3UnLkb0xj1FxRIeEGKaGIHOs9nEgLaaA9i0JRYo1Ic67wJW86KSKE/ZAM8KuVMk8ITVhmxUxJ3Cl2xlm9Vtkeju1+mpCQNxaEGNCY8bs9X2YqwNoQeGjBWut/ma0QAWy/TqAsHx9wSya3I5IRxOfTC+leG+kA/4vSeEcGBtNUN6byhu3+keEZCQJUNh8MAO7HL6H8pQLnsW/Hd4T4lv93TPjfM7A46iEEqbB5EDOvwYNW6tGNZzT/o+CZ6sqZ6wUtR/wf7mi/VL8iNciT6rHih48Y55b4nKCHJCCzb4y0nwFmin3ZEMIoLfZF8F7nncFmvnWBaBj7CGAYA/WGJsUwHdYqVDwAmNsUgAx4CGgAA7GOOxADYOFWOaIKifuVYzmOpREqA21Mo7aPsgiY1PhOMAmxtR+AUbYH3Id2wc0SAFIQTsn9IUGWR8k9jx3vtXSiAacFxTAGakBk9UudkNECd6jLe+6HrshshvIuC6IlLMRy7er+JpcKma24SlE4cFZSZJDGVVrsNvitQhQrDhW0jfiOLfFd47C42eHT56D/BK0To+58Ahj+cAT8HT1UWlfLZCCd/uKawzU0Rh2EyIX/Icqth3niG8ybNroezwe6khdCNxRN+l4XGdOLVLlOOt2hTRJlr1ETIuMAltVTMz70mJrkdGAaZLSmnBEqmAE32JCMmuTlCnRgsBENtOUpHhvvsYIL0ibnBkaC6QvKcR7738GKp0AKnim7xgUSNv1bpS8QwhBt8r+EP47v/oyRK/S34yJ9nT+AN0Tkm4OdB9E4BsmXM3SnMlRFUrtp6IDpV2eKzdYvF3etm3KhQksbOLChGkSmcBdmcEwvqkrMy5BzL00NZeu3qPYJOOuCc+5NjcWKXQxFvTa3NoXJ4d8in7fiAUuTt781dkvuHX4K8AA2Usy7yNKLy0AAAAASUVORK5CYII=\n",
         "description": "Articles about Machine Learning",
-        "image": "assets/images/95f240bb-0d04-401e-9818-598f45020f4e.png"
+        "image": "http://distill.pub/preview.jpg"
     },
     "http://binvis.io/#/": {
         "url": "http://binvis.io/#/",
@@ -770,19 +900,19 @@
         "url": "http://frankforce.com/?p=6378",
         "title": "\nDissecting A Dweet: Mini Black Hole | Killed By A Pixel\t",
         "description": "Today we will be examining my most popular dweet, a miniature black hole simulation! It’s one of my easiest dweets to explain and the code is fairly straightforward. Read on for a full analys…",
-        "image": "assets/images/23ac10d0-1059-4887-9465-49ee6f860b4e.png"
+        "image": "http://frankforce.com/wp-content/uploads/2019/07/black_hole_head.png"
     },
     "https://fvcproductions.github.io/hire-me/#/": {
         "url": "https://fvcproductions.github.io/hire-me/#/",
         "title": "hire-me",
         "description": "A path to getting an awesome tech gig.",
-        "image": "assets/images/ae5cade9-c2f8-49da-a5fd-04e0103e7242.png"
+        "image": "https://i.imgur.com/e3cjDTB.png"
     },
     "https://opensource.guide/": {
         "url": "https://opensource.guide/",
         "title": "Open Source Guides | Learn how to launch and grow your project.",
         "description": "Learn how to launch and grow your project.",
-        "image": "assets/images/292716e9-0c9d-401b-929b-9daf14af5951.png"
+        "image": "https://opensource.guide/assets/images/cards/default.png"
     },
     "https://ocw.mit.edu/courses/find-by-topic": {
         "url": "https://ocw.mit.edu/courses/find-by-topic",
@@ -792,19 +922,19 @@
         "url": "https://devhints.io/",
         "title": "Devhints — TL;DR for developer documentation",
         "description": "A ridiculous collection of web development cheatsheets · One-page guide to ",
-        "image": "assets/images/a1352588-294c-4896-bfe3-c47d9a372c5e.png"
+        "image": "https://assets.devhints.io/previews/index.jpg?t=20190925090400"
     },
     "https://mythbusters.js.org/#/": {
         "url": "https://mythbusters.js.org/#/",
         "title": "MythBusters JS",
         "description": "A JavaScript Handbook exploring perfomance & readibility",
-        "image": "assets/images/16c51bd3-6322-45fd-a0b3-2b2b79399ee4.png"
+        "image": "https://mythbusters.js.org/static/img/demo.png"
     },
     "https://github.com/busterbenson/public/blob/master/book-of-beliefs.md": {
         "url": "https://github.com/busterbenson/public/blob/master/book-of-beliefs.md",
         "title": "public/book-of-beliefs.md at master · busterbenson/public · GitHub",
         "description": "My public self and book of beliefs. . Contribute to busterbenson/public development by creating an account on GitHub.",
-        "image": "assets/images/b65b21af-f18b-47a7-8846-b280dfeb82e6.png"
+        "image": "https://avatars2.githubusercontent.com/u/111647?s=400&v=4"
     },
     "https://curiosity-driven.org/": {
         "url": "https://curiosity-driven.org/",
@@ -813,14 +943,14 @@
     "https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/": {
         "url": "https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/",
         "title": "Quanta Magazine",
-        "icon": "assets/images/26c39e28-cc1b-4b0f-921d-93c1d624fc9e.png",
+        "icon": "https://www.quantamagazine.org/favicon.png",
         "description": "The brain can’t directly encode the passage of time, but recent work hints at a workaround for putting timestamps on memories of events.",
-        "image": "assets/images/5715502c-4aa3-4f40-8a37-79a2bf221bdf.png"
+        "image": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/02/Memory_1200_social.jpg"
     },
     "https://en.wikipedia.org/wiki/Higher-order_thinking": {
         "url": "https://en.wikipedia.org/wiki/Higher-order_thinking",
         "title": "Higher-order thinking - Wikipedia",
-        "image": "assets/images/09fcaa66-8d95-4c73-be7b-50edf8e5c5b0.png"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BloomsCognitiveDomain.svg/1200px-BloomsCognitiveDomain.svg.png"
     },
     "https://en.wikipedia.org/wiki/Integrative_complexity": {
         "url": "https://en.wikipedia.org/wiki/Integrative_complexity",
@@ -833,9 +963,9 @@
     "https://explorabl.es/": {
         "url": "https://explorabl.es/",
         "title": "Explorable Explanations",
-        "icon": "assets/images/1111ea6c-c27a-43be-ab69-f4ebfaf1e446.png",
+        "icon": "https://explorabl.esfavicon.png",
         "description": "a hub for learning through play",
-        "image": "assets/images/111cf4d7-2a7a-4631-a2ed-78671edf915e.png"
+        "image": "http://explorabl.es/-sharing/index.png"
     },
     "http://worrydream.com/ClimateChange/": {
         "url": "http://worrydream.com/ClimateChange/",
@@ -845,27 +975,39 @@
         "url": "https://www.ventusky.com/?p=46.7;10.3;4&l=temperature-2m",
         "title": "Ventusky - Wind, Rain and Temperature Maps",
         "description": "Live wind, rain and temperature maps, detailed forecast for your place, data from the best weather forecast models such as GFS, ICON, GEM",
-        "image": "assets/images/b4527257-66a3-4ca7-9598-52b120fad606.png"
+        "image": "https://www.ventusky.com/images/social.jpg"
     },
     "https://opensource.guide/legal/": {
         "url": "https://opensource.guide/legal/",
         "title": "The Legal Side of Open Source | Open Source Guides",
         "description": "Everything you’ve ever wondered about the legal side of open source, and a few things you didn’t.",
-        "image": "assets/images/c8a0fbfa-d515-448c-b84d-fd647b36c0c1.png"
+        "image": "https://opensource.guide/assets/images/cards/legal.png"
+    },
+    "https://commonsstack.org/": {
+        "url": "https://commonsstack.org/",
+        "title": "The Commons Stack",
+        "description": "The Commons Stack is an open source development project, building infrastructure for the sustainable funding and management of community-driven economies.",
+        "image": "https://static.tildacdn.com/tild3737-6131-4365-b766-636364356437/twitter_card.jpg"
+    },
+    "https://getcruise.com/": {
+        "url": "https://getcruise.com/",
+        "title": "Cruise",
+        "description": "We’re Cruise, a self-driving car service designed for the cities we love.",
+        "image": "https://getcruise.com/static/social-share-b434cf94712495ae69e800ca987c2a8f.jpg"
     },
     "https://www.gitpod.io/": {
         "url": "https://www.gitpod.io/",
         "title": "Gitpod - Online IDE for GitHub",
-        "icon": "assets/images/de488158-f7f2-4ae4-a905-88cba421bcfc.png",
+        "icon": "https://www.gitpod.iodata:image/png;base64,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",
         "description": "One-click ready-to-code development environments for GitHub.",
-        "image": "assets/images/346991dc-b813-41ea-8e5a-1a88bd4fb28b.png"
+        "image": "https://www.gitpod.io/media-image.jpg"
     },
     "https://streamr.network/": {
         "url": "https://streamr.network/",
         "title": "Streamr",
-        "icon": "assets/images/2747943a-b8e4-43ce-8f21-5eeed8f89a78.png",
+        "icon": "https://streamr.network/resources/favicon-16x16.png",
         "description": "Streamr is the missing realtime data protocol for the decentralized web",
-        "image": "assets/images/13c9b26c-af01-42f0-b63d-db34c04f5b11.png"
+        "image": "https://streamr.network/resources/social.jpg"
     },
     "https://www.typora.io/": {
         "url": "https://www.typora.io/",
@@ -875,67 +1017,67 @@
         "url": "https://mightyapp.com/",
         "title": "Mighty",
         "description": "Unlike Chrome, Mighty doesn't slowdown if you have too many tabs open. Web pages load half a second faster.",
-        "image": "assets/images/97a9b187-b634-4b28-a08a-8854215b9271.png"
+        "image": "https://mightyapp.com/img/social.png"
     },
     "https://tracelabs.io/": {
         "url": "https://tracelabs.io/",
         "title": "Trace Labs - Network Applications for Business Communities",
         "description": "Trusted network applications for business communities of the future. Harness the value of interconnected data, combining the benefits of global standards, the OriginTrail protocol, and your blockchain of choice. Solve business challenges securely, efficiently and with trust!",
-        "image": "assets/images/71c5b468-f724-4ad9-ae5d-d9c5acab1d04.png"
+        "image": "https://tracelabs.io/website-images/sharingimage.jpg"
     },
     "https://github.com/santiq/bulletproof-nodejs": {
         "url": "https://github.com/santiq/bulletproof-nodejs",
         "title": "GitHub - santiq/bulletproof-nodejs: Implementation of a bulletproof node.js API 🛡️",
         "description": "Implementation of a bulletproof node.js API 🛡️. Contribute to santiq/bulletproof-nodejs development by creating an account on GitHub.",
-        "image": "assets/images/9399857a-44da-4c14-a975-d1567ecfaac5.png"
+        "image": "https://avatars2.githubusercontent.com/u/7070683?s=400&v=4"
     },
     "https://elastos.academy/": {
         "url": "https://elastos.academy/",
         "title": "Home Page - Elastos Academy",
         "description": "Secure the hashpower of BTC, freely build off ETH and NEO sidechains, utilize a P2P network and fully decentralized data storage and ownership for every single DApp.",
-        "image": "assets/images/89a90593-b16f-4261-b981-406ddad9bd60.png"
+        "image": "https://elastos.academy/wp-content/uploads/2019/09/EA3O.png"
     },
     "https://treum.io/": {
         "url": "https://treum.io/",
         "title": "Treum",
-        "icon": "assets/images/47367de5-8673-4aef-b0b6-f952d6990f1c.png",
+        "icon": "https://treum.io/static/meta/android-icon-192x192.png",
         "description": "Treum focuses on leveraging blockchain technology to bring transparency, traceability and tradeability to our everyday lives.",
-        "image": "assets/images/b96311b8-227c-4983-8462-9479f48c12df.png"
+        "image": "https://treum.io/static/meta/share-image.png"
     },
     "https://www.openlaw.io/": {
         "url": "https://www.openlaw.io/",
         "title": "OpenLaw — A free legal repository",
-        "icon": "assets/images/7aff5be7-c741-4a78-b778-ac311beafedc.png",
+        "icon": "https://www.openlaw.io/static/img/favicon-32x32.png",
         "description": "We are home to a passionate group of people, technologists, and dreamers committed to rebuilding the legal industry.",
-        "image": "assets/images/ed76d5a4-ff92-4fda-9a0c-878951ed07d6.png"
+        "image": "https://openlaw-website.netlify.com/openlaw-horizontal-2x.png"
     },
     "https://miro.com/": {
         "url": "https://miro.com/",
         "title": "Team Collaboration Software | Miro, formerly RealtimeBoard",
-        "icon": "assets/images/d8aeb44a-e829-4142-940b-327fb3d9c230.png",
+        "icon": "https://miro.com/static/favicons/favicon-32x32.png?v=00zdoEw6N6",
         "description": "Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 2M+ users & 8000+ teams from around the world.",
-        "image": "assets/images/2cbac77a-ccce-4e4a-af98-0b57b5224069.png"
+        "image": "https://miro.com/static/images/share/miro.png?00001"
     },
     "https://gitcoin.co/": {
         "url": "https://gitcoin.co/",
         "title": "Grow Open Source: Get crowdfunding and find freelance developers for your software projects, paid in crypto | Gitcoin",
-        "icon": "assets/images/a7fe5b02-9cb9-43ce-b5a2-b95afa79ab34.png",
+        "icon": "https://s.gitcoin.co/static/v2/images/favicon.ico/favicon-32x32.a507b9bfeba8.png",
         "description": "The Gitcoin platform connects freelance developers with online jobs solving bug bounties, building features and designing creatives paid in crypto (ETH or any token). Leverage a global workforce to quickly complete software development and coding jobs, and find community funding for your project.",
-        "image": "assets/images/b208140b-5751-43cf-ad34-32ad24893cbd.png"
+        "image": "https://s.gitcoin.co/static/v2/card/thumb.0a0be2e5841a.jpg"
     },
     "https://foam.space/": {
         "url": "https://foam.space/",
         "title": "FOAM",
-        "icon": "assets/images/8e674f8a-59ac-4ba7-b4e9-c1a923cc2ad0.png",
+        "icon": "https://foam.space/favicon-32x32.png",
         "description": "FOAM provides the tools to enable a crowdsourced map and decentralized location services.",
-        "image": "assets/images/acdd450c-fdcc-4f27-9737-22165e2331fa.png"
+        "image": "https://foam.space/OG.png"
     },
     "https://enigma.co/": {
         "url": "https://enigma.co/",
         "title": "Enigma – Securing the Decentralized Web",
-        "icon": "assets/images/a2a6b72a-827f-4e0d-a114-fcea9e94d0e4.png",
+        "icon": "https://enigma.co/wp-content/themes/enigma/favicon/favicon-32x32.png",
         "description": "Started at MIT in 2015, Enigma builds technologies that solve privacy, scalability, and usability for blockchains, smart contracts and the decentralized web.",
-        "image": "assets/images/e4cc59e2-51ca-4ccd-9cce-f370f164b0d6.png"
+        "image": "https://enigma.co/wp-content/themes/enigma/assets/img/og-image.png"
     },
     "https://www.elastos.org/": {
         "url": "https://www.elastos.org/",
@@ -950,19 +1092,32 @@
         "url": "https://github.com/devhubapp/devhub",
         "title": "GitHub - devhubapp/devhub: GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop",
         "description": "GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop - devhubapp/devhub",
-        "image": "assets/images/fcd288f2-c442-485c-b0c3-649495ad9a1f.png"
+        "image": "https://repository-images.githubusercontent.com/75236196/4459d880-ca3f-11e9-82c6-80a8fc2c63cd"
     },
     "https://www.balena.io/etcher/": {
         "url": "https://www.balena.io/etcher/",
         "title": "balenaEtcher - Home",
         "description": "A cross-platform tool for flashing images to SD cards & USB drives.",
-        "image": "assets/images/022231da-9c3f-4364-bb51-b233d11ff7d1.png"
+        "image": "https://www.balena.io/etcher/avatar.png"
     },
     "https://mindfuldesign.xyz/": {
         "url": "https://mindfuldesign.xyz/",
         "title": "Mindful Design ~ A Book About Design And The Brain",
         "description": "Infuse your design process with the understanding and appreciation the human mind deserves.",
-        "image": "assets/images/4532fc6e-2d42-46b6-8b4d-9a5b458742ab.png"
+        "image": "https://mindfuldesign.xyz/static/og-img.jpg"
+    },
+    "https://dogstudio.co/": {
+        "url": "https://dogstudio.co/",
+        "title": "Dogstudio. Multidisciplinary Creative Studio.",
+        "icon": "https://dogstudio.co/app/themes/portfolio-2018/static/assets/images/favicon.png",
+        "description": "Dogstudio Portfolio",
+        "image": "https://dogstudio.co/app/themes/portfolio-2018/static/assets/images/shared/share-facebook.jpg"
+    },
+    "https://github.com/Cuberto/liquid-swipe": {
+        "url": "https://github.com/Cuberto/liquid-swipe",
+        "title": "GitHub - Cuberto/liquid-swipe",
+        "description": "Contribute to Cuberto/liquid-swipe development by creating an account on GitHub.",
+        "image": "https://avatars3.githubusercontent.com/u/3691940?s=400&v=4"
     },
     "https://scipython.com": {
         "url": "https://scipython.com",
@@ -981,14 +1136,14 @@
         "url": "https://medium.com/react-in-depth",
         "title": "React In Depth – Medium",
         "description": "The place where advanced React concepts are explained.",
-        "image": "assets/images/7b9a9687-f071-44d5-93d6-16e917783607.png"
+        "image": "https://cdn-images-1.medium.com/max/1200/1*hNRK_zr3qrTORJXD3pwuZA.png"
     },
     "https://softwareontheroad.com/": {
         "url": "https://softwareontheroad.com/",
         "title": "Softwareontheroad: articles on node, react, angular, AWS",
-        "icon": "assets/images/ce79364c-65a6-473b-aa15-921ce4a36acb.png",
+        "icon": "https://softwareontheroad.com/favicon-32x32.png",
         "description": "Advanced articles about Node.js, React, Typescript and Amazon Web Services",
-        "image": "assets/images/3eeae6b5-faea-4385-aee1-a35ed0a7fab6.png"
+        "image": "https://softwareontheroad.com/static/7920894eae277ab0057791ffee026dae/36e49/blog-cover.jpg"
     },
     "https://devconnected.com/": {
         "url": "https://devconnected.com/",
@@ -998,21 +1153,21 @@
     "https://www.rdegges.com/": {
         "url": "https://www.rdegges.com/",
         "title": "Randall Degges - Randall Degges",
-        "icon": "assets/images/a84e2f85-aa5a-4ad1-a3d8-7ae07e6656a2.png",
+        "icon": "https://www.rdegges.com/static/images/favicons/android-icon-192x192.png",
         "description": "The personal website of Randall Degges: programmer, speaker, author and entrepreneur.",
         "author": "map[name:Randall Degges email:r@rdegges.com]"
     },
     "https://codewithhugo.com/": {
         "url": "https://codewithhugo.com/",
         "title": "Code with Hugo",
-        "icon": "assets/images/c2c6845e-594b-4b48-bb7c-f64b4a471492.png",
+        "icon": "https://codewithhugo.com/favicon-32x32.png",
         "description": "Enterprise Node.js and JavaScript Guides - Build your web platform with modern best-practices, tools and patterns",
-        "image": "assets/images/7a8cd689-746c-46e6-8b49-7a2154910f4e.png"
+        "image": "https://codewithhugo.com/img/cover.jpg"
     },
     "https://busterbenson.com/": {
         "url": "https://busterbenson.com/",
         "title": "Buster Benson  | Author of Why Are We Yelling? and founder of 750words.com",
-        "icon": "assets/images/69cd8279-59df-4f9d-a9e6-de9b75151a30.png"
+        "icon": "https://busterbenson.com/images/favicon.ico"
     },
     "https://openai.com/blog/": {
         "url": "https://openai.com/blog/",
@@ -1022,59 +1177,59 @@
         "url": "https://engineering.microsoft.com/",
         "title": "Microsoft Engineering Stories",
         "description": "Discover behind-the-scenes stories on how we build software at Microsoft",
-        "image": "assets/images/2993badf-17b1-4b94-93c6-6cb45ec371a7.png"
+        "image": "http://az609702.vo.msecnd.net/home-images/home-hero_V3.jpg"
     },
     "https://www.vodovnik.com/": {
         "url": "https://www.vodovnik.com/",
         "title": "public void Photograph()",
         "description": "A dad and a software architect with a passion for photography and music. These are my thoughts and opinions, sometimes accompanied by code and photos.",
-        "image": "assets/images/8eefdab9-3d21-43b8-b9ce-b51900f00cdd.png"
+        "image": "https://www.vodovnik.com/content/images/2018/07/34070294_10155573482433321_6528432203536269312_o-1.jpg"
     },
     "https://www.atlassian.com/blog": {
         "url": "https://www.atlassian.com/blog",
         "title": "Work Life by Atlassian - Unleashing the potential of all teams with tips, tools, and practices",
         "description": "Unleashing the potential of all teams with tips, tools, and practices",
-        "image": "assets/images/8d0729d8-32fa-4eb8-bb0e-e7881b878c01.png"
+        "image": "https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/artboard-1@3x.png"
     },
     "https://scotch.io/": {
         "url": "https://scotch.io/",
         "title": "Top Shelf Web Development Training ― Scotch.io",
-        "icon": "assets/images/6cc5b66e-3754-4e7a-aafa-1b8b5cde6f2a.png",
+        "icon": "https://scotch.io/favicon-32x32.png",
         "description": "Fun and practical web development. Not just how, but why.",
-        "image": "assets/images/f5073114-8048-45af-9128-85ae131b74f0.png",
+        "image": "https://cdn.scotch.io/1/7bqllytYQmWIMmYWF2RA_super-duper-cover-image.png",
         "author": "Scotch.io"
     },
     "https://blog.twitter.com/engineering/en_us.html": {
         "url": "https://blog.twitter.com/engineering/en_us.html",
         "title": "Engineering",
-        "icon": "assets/images/c375beb0-3c92-4f5b-86cc-86c62ff11312.png",
+        "icon": "https://blog.twitter.com/etc/designs/blog-twitter/public/img/favicon-32x32.png",
         "description": "Information from Twitter's engineering team about our tools, technology and services.",
-        "image": "assets/images/67ca3f73-76b7-4593-9267-1da887012edf.png"
+        "image": "https://blog.twitter.com/content/dam/blog-twitter/official/Shareassets/Generic_BlogShare.jpg"
     },
     "https://martinfowler.com/articles/microservices.html": {
         "url": "https://martinfowler.com/articles/microservices.html",
         "title": "Microservices",
         "description": "An in-depth description of the microservice style of architecture. Applications designed as suites of independently deployable services, governed in a decentralized manner.",
-        "image": "assets/images/0b0f7cab-6d75-473a-b8c4-6e8688aa559c.png"
+        "image": "https://martinfowler.com/articles/microservices/images/sketch.png"
     },
     "https://blog.risingstack.com/": {
         "url": "https://blog.risingstack.com/",
         "title": "RisingStack Engineering - Node.js Tutorials & Resources",
-        "icon": "assets/images/9395f992-cb58-4f9c-99be-dd9262621430.png",
+        "icon": "https://blog.risingstack.com/assets/favicons/favicon-32x32.png?v=33454160cf",
         "description": "Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.",
-        "image": "assets/images/0472147f-9ec9-4134-8e69-9afdbb4dc344.png"
+        "image": "https://blog.risingstack.com/content/images/2018/02/risingstack-blog-metapic.png"
     },
     "https://www.joelonsoftware.com/": {
         "url": "https://www.joelonsoftware.com/",
         "title": "Joel on Software",
         "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
-        "image": "assets/images/bae7e390-cc5b-4f90-9182-dade2f40cf11.png"
+        "image": "https://i2.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1"
     },
     "https://gear.dev/blog/": {
         "url": "https://gear.dev/blog/",
         "title": "Jon Gear",
         "description": "Jon Gear's personal website and blog",
-        "image": "assets/images/fed24238-653e-4cc5-8ac4-73961d59cd5a.png"
+        "image": "https://gear.dev/social/banner.png"
     },
     "http://frozeman.de/blog/": {
         "url": "http://frozeman.de/blog/",
@@ -1088,8 +1243,8 @@
     "https://softwareengineeringdaily.com/": {
         "url": "https://softwareengineeringdaily.com/",
         "title": "Software Engineering Daily",
-        "icon": "assets/images/cc7dccad-bdeb-4dde-9f13-9d18d30fb4eb.png",
-        "image": "assets/images/d4a811a3-f419-4c56-8631-35de7f1467ed.png"
+        "icon": "https://softwareengineeringdaily.com/wp-content/uploads/fbrfg/favicon-32x32.png?v=PYYeqgEwMA",
+        "image": "http://softwareengineeringdaily.com/wp-content/uploads/2015/08/sed_logo_updated.png"
     },
     "https://overreacted.io/": {
         "url": "https://overreacted.io/",
@@ -1100,112 +1255,121 @@
         "url": "https://makeitopen.com/",
         "title": "makeitopen.com · Building the F8 App",
         "description": "Building the F8 App",
-        "image": "assets/images/f0402baf-f4e9-4c6d-920a-8c4d31c9bf0f.png"
+        "image": "https://makeitopen.com/images/f8app-2017-app.png"
+    },
+    "http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/": {
+        "url": "http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/",
+        "title": "An Introduction to Object-Oriented Programmind, 3e"
+    },
+    "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/": {
+        "url": "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/",
+        "title": ""
     },
     "https://www.goodreads.com/book/show/405614.Distributed_Systems": {
         "url": "https://www.goodreads.com/book/show/405614.Distributed_Systems",
         "title": "Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum",
         "description": "Distributed Systems book. Read 16 reviews from the world's largest community for readers. Virtually every computing system today is part of a distributed...",
-        "image": "assets/images/64e5ba2d-a1a5-4e54-8306-5682398ac0ea.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347701966i/405614._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures": {
         "url": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures",
         "title": "Building Evolutionary Architectures: Support Constant Change by Neal Ford",
         "description": "Building Evolutionary Architectures book. Read 52 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
-        "image": "assets/images/569c9d32-1447-4641-8cfb-8d889757ac42.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507020307i/35755822._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/15857473-signals-and-boundaries": {
         "url": "https://www.goodreads.com/book/show/15857473-signals-and-boundaries",
         "title": "Signals and Boundaries: Building Blocks for Complex Adaptive Systems by John H. Holland",
         "description": "Signals and Boundaries book. Read 9 reviews from the world's largest community for readers. Complex adaptive systems (cas), including ecosystems, governm...",
-        "image": "assets/images/33b79385-c4da-4805-a9d6-a66687fcea55.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355031544i/15857473._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/2296.Emergence": {
         "url": "https://www.goodreads.com/book/show/2296.Emergence",
         "title": "Emergence: The Connected Lives of Ants, Brains, Cities, and Software by Steven Johnson",
         "description": "Emergence book. Read 234 reviews from the world's largest community for readers. In the tradition of Being Digital and The Tipping Point, Steven Johnson,...",
-        "image": "assets/images/3617ecd7-64f2-4e6b-9ce5-8c1637275947.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294786433i/2296._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/259947.The_Complexity_of_Cooperation": {
         "url": "https://www.goodreads.com/book/show/259947.The_Complexity_of_Cooperation",
         "title": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration by Robert Axelrod",
         "description": "The Complexity of Cooperation book. Read 10 reviews from the world's largest community for readers. Robert Axelrod's extraordinary book, The Evolution o...",
-        "image": "assets/images/ab8e85ae-517a-407b-b4eb-de829faef81b.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388358876i/259947._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight": {
         "url": "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight",
         "title": "Worlds Hidden in Plain Sight: The Evolving Idea of Complexity at the Santa Fe Institute, 1984–2019 by David C. Krakauer",
         "description": "Worlds Hidden in Plain Sight book. Read 2 reviews from the world's largest community for readers. Over the last three decades, the Santa Fe Institute and...",
-        "image": "assets/images/19e3b94f-edcf-4426-9075-2d9f62b6220f.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557435815i/45700960._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets": {
         "url": "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets",
         "title": "The (Mis)Behavior of Markets by Benoît B. Mandelbrot",
         "description": "The (Mis)Behavior of Markets book. Read 182 reviews from the world's largest community for readers. Benoit B. Mandelbrot, one of the century's most influ...",
-        "image": "assets/images/70ec3233-e261-43a6-ae6a-81c42fcdbddd.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387705519i/665134._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/64582.Chaos": {
         "url": "https://www.goodreads.com/book/show/64582.Chaos",
         "title": "Chaos: Making a New Science by James Gleick",
-        "description": "Chaos book. Read 858 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
-        "image": "assets/images/1ff490ef-9906-40ac-815f-eba8f2e53c61.png"
+        "description": "Chaos book. Read 880 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941595i/64582._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/869836.How_Nature_Works": {
         "url": "https://www.goodreads.com/book/show/869836.How_Nature_Works",
         "title": "How Nature Works: The Science of Self-Organized Criticality by Per Bak",
         "description": "How Nature Works book. Read 22 reviews from the world's largest community for readers. Self-organized criticality, the spontaneous development of systems...",
-        "image": "assets/images/c484d96f-617d-485b-a128-1486fc230135.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510770i/869836._UY630_SR1200,630_.jpg"
     },
     "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219": {
         "url": "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219",
-        "title": "Robot Check"
+        "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto): Nassim Nicholas Taleb: 8581000020738: Amazon.com: Books",
+        "description": "Buy Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto) on Amazon.com ✓ FREE SHIPPING on qualified orders"
     },
     "https://www.goodreads.com/book/show/896539.Emergence": {
         "url": "https://www.goodreads.com/book/show/896539.Emergence",
         "title": "Emergence: From Chaos To Order by John H. Holland",
         "description": "Emergence book. Read 9 reviews from the world's largest community for readers. In this important book, John H. Holland dramatically shows us that the “em...",
-        "image": "assets/images/bf92e64e-4ddb-49c4-aee7-9c06070a7320.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347554812i/896539._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/587906.Deep_Simplicity": {
         "url": "https://www.goodreads.com/book/show/587906.Deep_Simplicity",
         "title": "Deep Simplicity: Bringing Order to Chaos and Complexity by John Gribbin",
         "description": "Deep Simplicity book. Read 81 reviews from the world's largest community for readers. Over the past two decades, no field of scientific inquiry has had a...",
-        "image": "assets/images/9d5e265a-b95c-425a-9d45-fc7619044c51.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388373561i/587906._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/497570.Cosmic_Evolution": {
         "url": "https://www.goodreads.com/book/show/497570.Cosmic_Evolution",
         "title": "Cosmic Evolution: The Rise of Complexity in Nature by Eric Chaisson",
         "description": "Cosmic Evolution book. Read 7 reviews from the world's largest community for readers. We are connected to distant space and time not only by our imaginat...",
-        "image": "assets/images/03379bfe-803c-4a5d-af83-54907d1d674e.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349082547i/497570._UY630_SR1200,630_.jpg"
     },
     "https://press.princeton.edu/titles/7104.html": {
         "url": "https://press.princeton.edu/titles/7104.html",
-        "title": "Camazine, S., Deneubourg, J., Franks, N., Sneyd, J., et al.: Self-Organization in Biological Systems (Paperback) | Princeton University Press",
-        "description": "The synchronized flashing of fireflies at night. The spiraling patterns of an aggregating slime mold. The anastomosing network of army-ant trails. The coordinated movements of a school of fish. Researchers are finding in such patterns--phenomena that have fascinated naturalists for centuries--a fertile new approach to understanding biological systems: the study of self-organization.",
-        "image": "assets/images/215dc8ce-ea98-497d-8f0b-d422553d4d80.png"
+        "title": "Self-Organization in Biological Systems | Princeton University Press",
+        "icon": "https://press.princeton.edu/themes/custom/themekit/favicon-32x32.png?v=gAelwKMR7J",
+        "image": "https://pup-assets.imgix.net/onix/images/9780691116242.jpg?fit=fill&fill=solid&fill-color=ffffff&w=1200&h=630"
     },
     "https://www.goodreads.com/book/show/1762728.Chaos_And_Harmony": {
         "url": "https://www.goodreads.com/book/show/1762728.Chaos_And_Harmony",
         "title": "Chaos And Harmony: Perspectives On Scientific Revolutions Of The Twentieth Century by Trịnh Xuân Thuận",
         "description": "Chaos And Harmony book. Read 9 reviews from the world's largest community for readers. For 300 years, Trinh Xuan Thuan writes, since the time of Isaac Ne...",
-        "image": "assets/images/66258ccb-df16-45c6-ab24-625101f44e45.png"
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1187886219i/1762728._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/3828902-thinking-in-systems": {
         "url": "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
         "title": "Thinking in Systems: A Primer by Donella H. Meadows",
-        "description": "Thinking in Systems book. Read 559 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
-        "image": "assets/images/f026e6b3-6c6f-4177-bc6a-35fa9e169f5b.png"
+        "description": "Thinking in Systems book. Read 574 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859i/3828902._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/39088592-the-model-thinker": {
         "url": "https://www.goodreads.com/book/show/39088592-the-model-thinker",
         "title": "The Model Thinker: What You Need to Know to Make Data Work for You by Scott E. Page",
-        "description": "The Model Thinker book. Read 23 reviews from the world's largest community for readers. How anyone can become a data ninja From the stock market to genom...",
-        "image": "assets/images/a0abd292-52f6-4d47-a7a0-fd6562cf662c.png"
+        "description": "The Model Thinker book. Read 25 reviews from the world's largest community for readers. How anyone can become a data ninja From the stock market to genom...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538512393i/39088592._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/41580312-be-here-now": {
         "url": "https://www.goodreads.com/book/show/41580312-be-here-now",
         "title": "Be Here Now by Ram Dass",
-        "description": "Be Here Now book. Read 771 reviews from the world's largest community for readers. Describes one man's transformation upon his acceptance of the principl...",
-        "image": "assets/images/15effc6d-9908-4d72-9e12-114df966d7a0.png"
+        "description": "Be Here Now book. Read 776 reviews from the world's largest community for readers. Describes one man's transformation upon his acceptance of the principl...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535737556i/41580312._UY630_SR1200,630_.jpg"
     }
 }
