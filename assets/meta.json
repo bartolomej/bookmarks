@@ -2,12 +2,14 @@
     "https://github.com/sp4ke/awesome-explorables": {
         "url": "https://github.com/sp4ke/awesome-explorables",
         "title": "GitHub - sp4ke/awesome-explorables: A curated list of awesome explorable explanations.",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "A curated list of awesome explorable explanations. - sp4ke/awesome-explorables",
         "image": "https://avatars2.githubusercontent.com/u/210457?s=400&v=4"
     },
     "https://github.com/the-dao/whitepaper": {
         "url": "https://github.com/the-dao/whitepaper",
         "title": "GitHub - the-dao/whitepaper",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Contribute to the-dao/whitepaper development by creating an account on GitHub.",
         "image": "https://avatars2.githubusercontent.com/u/53917045?s=400&v=4"
     },
@@ -43,6 +45,7 @@
     "https://github.com/mame/quine-relay": {
         "url": "https://github.com/mame/quine-relay",
         "title": "GitHub - mame/quine-relay: An uroboros program with 100+ programming languages",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "An uroboros program with 100+ programming languages - mame/quine-relay",
         "image": "https://avatars0.githubusercontent.com/u/21557?s=400&v=4"
     },
@@ -54,6 +57,7 @@
     "https://github.com/airbnb/javascript": {
         "url": "https://github.com/airbnb/javascript",
         "title": "GitHub - airbnb/javascript: JavaScript Style Guide",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "JavaScript Style Guide. Contribute to airbnb/javascript development by creating an account on GitHub.",
         "image": "https://avatars0.githubusercontent.com/u/698437?s=400&v=4"
     },
@@ -84,6 +88,7 @@
     "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754": {
         "url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
         "title": "The introduction to Reactive Programming you've been missing · GitHub",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "The introduction to Reactive Programming you've been missing - introrx.md",
         "image": "https://raw.githubusercontent.com/gist/staltz/868e7e9bc2a7b8c1f754/raw/925e96ffefb044788f59754cd40908692c6024e5/zclickstream.png"
     },
@@ -119,7 +124,8 @@
     },
     "https://guides.github.com/introduction/flow/": {
         "url": "https://guides.github.com/introduction/flow/",
-        "title": "\n    \n      Understanding the GitHub flow · GitHub Guides\n    \n  "
+        "title": "\n    \n      Understanding the GitHub flow · GitHub Guides\n    \n  ",
+        "icon": "https://guides.github.com/favicon.ico"
     },
     "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow": {
         "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
@@ -170,24 +176,28 @@
     "https://github.com/goldbergyoni/nodebestpractices": {
         "url": "https://github.com/goldbergyoni/nodebestpractices",
         "title": "GitHub - goldbergyoni/nodebestpractices: The largest Node.js best practices list (September 2019)",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": ":white_check_mark: The largest Node.js best practices list (September 2019) - goldbergyoni/nodebestpractices",
         "image": "https://avatars2.githubusercontent.com/u/8571500?s=400&v=4"
     },
     "https://github.com/jwasham/coding-interview-university": {
         "url": "https://github.com/jwasham/coding-interview-university",
         "title": "GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "A complete computer science study plan to become a software engineer. - jwasham/coding-interview-university",
         "image": "https://avatars1.githubusercontent.com/u/3771963?s=400&v=4"
     },
     "https://github.com/donnemartin/system-design-primer": {
         "url": "https://github.com/donnemartin/system-design-primer",
         "title": "GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. - donnemartin/system-design-primer",
         "image": "https://avatars1.githubusercontent.com/u/5458997?s=400&v=4"
     },
     "https://github.com/goldbergyoni/javascript-testing-best-practices": {
         "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
         "title": "GitHub - goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019) - goldbergyoni/javascript-testing-best-practices",
         "image": "https://avatars2.githubusercontent.com/u/8571500?s=400&v=4"
     },
@@ -200,6 +210,7 @@
     "https://github.com/chagweyh/react-hooks-typescript-realworld": {
         "url": "https://github.com/chagweyh/react-hooks-typescript-realworld",
         "title": "GitHub - chagweyh/react-hooks-typescript-realworld: Exemplary real world application built with React Hooks + Typescript",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": " Exemplary real world application built with React Hooks + Typescript - chagweyh/react-hooks-typescript-realworld",
         "image": "https://avatars0.githubusercontent.com/u/23120626?s=400&v=4"
     },
@@ -224,12 +235,14 @@
     "https://github.com/atulmy/crate": {
         "url": "https://github.com/atulmy/crate",
         "title": "GitHub - atulmy/crate: 👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories). - atulmy/crate",
         "image": "https://repository-images.githubusercontent.com/108859514/500a5780-7c25-11e9-9bc3-fb78c3cb32cc"
     },
     "https://github.com/atulmy/fullstack-javascript-architecture": {
         "url": "https://github.com/atulmy/fullstack-javascript-architecture",
         "title": "GitHub - atulmy/fullstack-javascript-architecture: ✍️ Opinionated project architecture for Full-Stack JavaScript Applications.",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "✍️ Opinionated project architecture for Full-Stack JavaScript Applications. - atulmy/fullstack-javascript-architecture",
         "image": "https://repository-images.githubusercontent.com/153934270/e0956780-7c26-11e9-9dbb-3e1012f7a9a5"
     },
@@ -240,36 +253,42 @@
     "https://github.com/builderbook/builderbook#showcase": {
         "url": "https://github.com/builderbook/builderbook#showcase",
         "title": "GitHub - builderbook/builderbook: Open source web app. Built with React, Material-UI, Next, Express, Mongoose, MongoDB.",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Open source web app. Built with React, Material-UI, Next, Express, Mongoose, MongoDB. - builderbook/builderbook",
         "image": "https://avatars0.githubusercontent.com/u/31634975?s=400&v=4"
     },
     "https://github.com/busterbenson/now-examples": {
         "url": "https://github.com/busterbenson/now-examples",
         "title": "GitHub - busterbenson/now-examples: Examples of Now projects you can deploy yourself",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Examples of Now projects you can deploy yourself. Contribute to busterbenson/now-examples development by creating an account on GitHub.",
         "image": "https://avatars2.githubusercontent.com/u/111647?s=400&v=4"
     },
     "https://github.com/atoami/react-native-navigation-redux-starter-kit": {
         "url": "https://github.com/atoami/react-native-navigation-redux-starter-kit",
         "title": "GitHub - atoami/react-native-navigation-redux-starter-kit: React Native Navigation(v2) Starter Kit with Redux, Saga, ESLint, Babel, Jest and Facebook SDK 😎",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "React Native Navigation(v2) Starter Kit with Redux, Saga, ESLint, Babel, Jest and Facebook SDK 😎 - atoami/react-native-navigation-redux-starter-kit",
         "image": "https://avatars2.githubusercontent.com/u/17483938?s=400&v=4"
     },
     "https://github.com/alexwasner/react-native-mobx-firebase-starter": {
         "url": "https://github.com/alexwasner/react-native-mobx-firebase-starter",
         "title": "GitHub - alexwasner/react-native-mobx-firebase-starter: A React Native starter app with Wix React Native Navigation V2, MobX and Firebase",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "A React Native starter app with Wix React Native Navigation V2, MobX and Firebase - alexwasner/react-native-mobx-firebase-starter",
         "image": "https://avatars3.githubusercontent.com/u/4612947?s=400&v=4"
     },
     "https://github.com/birkir/hekla": {
         "url": "https://github.com/birkir/hekla",
         "title": "GitHub - birkir/hekla: Hekla for Hacker News (open source React Native app)",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Hekla for Hacker News (open source React Native app) - birkir/hekla",
         "image": "https://avatars0.githubusercontent.com/u/180773?s=400&v=4"
     },
     "https://github.com/guardian/support-frontend": {
         "url": "https://github.com/guardian/support-frontend",
         "title": "GitHub - guardian/support-frontend: 💁‍♀️❤️📰 Frontend for the Supporter platform",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "💁‍♀️❤️📰 Frontend for the Supporter platform. Contribute to guardian/support-frontend development by creating an account on GitHub.",
         "image": "https://avatars0.githubusercontent.com/u/164318?s=400&v=4"
     },
@@ -283,6 +302,7 @@
     "https://github.com/3b1b/manim": {
         "url": "https://github.com/3b1b/manim",
         "title": "GitHub - 3b1b/manim: Animation engine for explanatory math videos",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Animation engine for explanatory math videos. Contribute to 3b1b/manim development by creating an account on GitHub.",
         "image": "https://avatars1.githubusercontent.com/u/11601040?s=400&v=4"
     },
@@ -314,6 +334,7 @@
     "https://github.com/sverweij/dependency-cruiser": {
         "url": "https://github.com/sverweij/dependency-cruiser",
         "title": "GitHub - sverweij/dependency-cruiser: Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. - sverweij/dependency-cruiser",
         "image": "https://avatars0.githubusercontent.com/u/4822597?s=400&v=4"
     },
@@ -349,18 +370,21 @@
     "https://github.com/drcmda/react-three-fiber": {
         "url": "https://github.com/drcmda/react-three-fiber",
         "title": "GitHub - react-spring/react-three-fiber: ☘️ React renderer for Threejs (web and react-native)",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "☘️ React renderer for Threejs (web and react-native) - react-spring/react-three-fiber",
         "image": "https://avatars3.githubusercontent.com/u/45790596?s=400&v=4"
     },
     "https://github.com/agenda/agenda": {
         "url": "https://github.com/agenda/agenda",
         "title": "GitHub - agenda/agenda: Lightweight job scheduling for Node.js",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Lightweight job scheduling for Node.js. Contribute to agenda/agenda development by creating an account on GitHub.",
         "image": "https://avatars2.githubusercontent.com/u/29439479?s=400&v=4"
     },
     "https://github.com/agenda/agendash": {
         "url": "https://github.com/agenda/agendash",
         "title": "GitHub - agenda/agendash: Agenda Dashboard",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Agenda Dashboard. Contribute to agenda/agendash development by creating an account on GitHub.",
         "image": "https://avatars2.githubusercontent.com/u/29439479?s=400&v=4"
     },
@@ -387,6 +411,13 @@
         "title": "Flynn – The product that ops provides to developers",
         "icon": "https://flynn.io/images/favicon-32x32-86f78ec8.png"
     },
+    "https://nodemailer.com/about/": {
+        "url": "https://nodemailer.com/about/",
+        "title": "Nodemailer :: Nodemailer",
+        "icon": "https://nodemailer.com/favicon-32x32.png",
+        "description": "Nodemailer is a module for Node.js to send emails",
+        "author": "Andris Reinman"
+    },
     "https://www.2dimensions.com/about-flare": {
         "url": "https://www.2dimensions.com/about-flare",
         "title": "2D - Flare by 2Dimensions. Bring your apps and games to life with real-time animation.",
@@ -396,12 +427,14 @@
     "https://fontflipper.com/upload": {
         "url": "https://fontflipper.com/upload",
         "title": "Font Flipper - Find Free Fonts",
+        "icon": "https://fontflipper.comfavicon.ico",
         "description": "Preview 800+ Google Fonts on top of your own designs, without having to download the fonts first. You'll play 'Hot or Not' to collect fonts you like, and then download them for free for both personal and commercial projects.",
         "image": "https://firebasestorage.googleapis.com/v0/b/font-flipper.appspot.com/o/metaImg.png?alt=media&token=61a959aa-832c-47fb-a1aa-6ff96abdbf50"
     },
     "https://github.com/GoogleChromeLabs/ProjectVisBug": {
         "url": "https://github.com/GoogleChromeLabs/ProjectVisBug",
         "title": "GitHub - GoogleChromeLabs/ProjectVisBug: FireBug for designers › Makes any webpage feel like an artboard via a little extension https://a.nerdy.dev/gimme-visbug",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "FireBug for designers › Makes any webpage feel like an artboard via a little extension https://a.nerdy.dev/gimme-visbug - GoogleChromeLabs/ProjectVisBug",
         "image": "https://repository-images.githubusercontent.com/137987910/f6f1e400-cfc7-11e9-8df7-cc0d9d7b4a04"
     },
@@ -453,6 +486,7 @@
     "https://github.com/luggit/react-native-config": {
         "url": "https://github.com/luggit/react-native-config",
         "title": "GitHub - luggit/react-native-config: Bring some 12 factor love to your mobile apps!",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Bring some 12 factor love to your mobile apps! Contribute to luggit/react-native-config development by creating an account on GitHub.",
         "image": "https://avatars0.githubusercontent.com/u/10248925?s=400&v=4"
     },
@@ -514,6 +548,7 @@
     "https://github.com/sos-os/kernel": {
         "url": "https://github.com/sos-os/kernel",
         "title": "GitHub - sos-os/kernel: The Stupid Operating System",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "The Stupid Operating System. Contribute to sos-os/kernel development by creating an account on GitHub.",
         "image": "https://avatars1.githubusercontent.com/u/36111461?s=400&v=4"
     },
@@ -560,6 +595,7 @@
     "https://github.com/DemocracyOS/democracyos": {
         "url": "https://github.com/DemocracyOS/democracyos",
         "title": "GitHub - DemocracyOS/democracyos: DemocracyOS is an online space for deliberation and voting on political proposals. The software aims to stimulate better arguments and come to better rulings.",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "DemocracyOS is an online space for deliberation and voting on political proposals. The software aims to stimulate better arguments and come to better rulings.   - DemocracyOS/democracyos",
         "image": "https://avatars2.githubusercontent.com/u/4107101?s=400&v=4"
     },
@@ -570,6 +606,7 @@
     "https://github.com/austintgriffith/commit-reveal": {
         "url": "https://github.com/austintgriffith/commit-reveal",
         "title": "GitHub - austintgriffith/commit-reveal: simple method for hiding votes or generating random numbers on-chain",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "simple method for hiding votes or generating random numbers on-chain - austintgriffith/commit-reveal",
         "image": "https://avatars0.githubusercontent.com/u/2653167?s=400&v=4"
     },
@@ -586,18 +623,21 @@
     "http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html": {
         "url": "http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html",
         "title": "Bitcoins the hard way: Using the raw Bitcoin protocol",
+        "icon": "http://www.righto.com/favicon.ico",
         "description": "  All the recent media attention on Bitcoin inspired me to learn how Bitcoin really works, right down to the bytes flowing through the netwo...",
         "image": "https://lh3.googleusercontent.com/proxy/ibS_PB8fJVTG__AiCwwwbIt-HiWoE0ZvS0bJikAamJo9ohWytKe-m7IgoeM7CC0bab_LBZVy1XL7CkPnAOf4FD9Z-zGanHERLzpvVGD7h_ZxjTI=w1200-h630-p-k-no-nu"
     },
     "https://github.com/olistic/simplechain/tree/master/lib": {
         "url": "https://github.com/olistic/simplechain/tree/master/lib",
         "title": "simplechain/lib at master · olistic/simplechain · GitHub",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "⛓✨ Interactive blockchain built with Node.js. Contribute to olistic/simplechain development by creating an account on GitHub.",
         "image": "https://avatars0.githubusercontent.com/u/5600126?s=400&v=4"
     },
     "https://github.com/theanalyst/awesome-distributed-systems": {
         "url": "https://github.com/theanalyst/awesome-distributed-systems",
         "title": "GitHub - theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "A curated list to learn about distributed systems. Contribute to theanalyst/awesome-distributed-systems development by creating an account on GitHub.",
         "image": "https://avatars3.githubusercontent.com/u/1433152?s=400&v=4"
     },
@@ -643,7 +683,8 @@
     },
     "https://mobile.twitter.com/i/moments/994601867987619840": {
         "url": "https://mobile.twitter.com/i/moments/994601867987619840",
-        "title": "Twitter"
+        "title": "Twitter",
+        "icon": "https://ma.twimg.com/twitter-mobile/a8491f04da4e54be98cff3a86c58f23a770c26bd/images/favicon.ico"
     },
     "http://bradfrost.com/blog/post/atomic-web-design/": {
         "url": "http://bradfrost.com/blog/post/atomic-web-design/",
@@ -682,6 +723,7 @@
     "https://github.com/hyperfuse/react-anime": {
         "url": "https://github.com/hyperfuse/react-anime",
         "title": "GitHub - hyperfuse/react-anime: (ﾉ´ヮ´)ﾉ*:･ﾟ✧ A super easy animation library for React!",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "(ﾉ´ヮ´)ﾉ*:･ﾟ✧ A super easy animation library for React! - hyperfuse/react-anime",
         "image": "https://avatars2.githubusercontent.com/u/22921410?s=400&v=4"
     },
@@ -695,6 +737,7 @@
     "https://github.com/andrerpena/react-mde": {
         "url": "https://github.com/andrerpena/react-mde",
         "title": "GitHub - andrerpena/react-mde: 📝 React Markdown Editor",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "📝 React Markdown Editor. Contribute to andrerpena/react-mde development by creating an account on GitHub.",
         "image": "https://avatars1.githubusercontent.com/u/1581429?s=400&v=4"
     },
@@ -840,6 +883,7 @@
     "https://www.internetlivestats.com/": {
         "url": "https://www.internetlivestats.com/",
         "title": "Internet Live Stats - Internet Usage & Social Media Statistics",
+        "icon": "https://www.internetlivestats.com/favicon.ico",
         "description": "Watch the Internet as it grows in real time and monitor social media usage: Internet users, websites, blog posts, Facebook, Google+, Twitter, and Pinterest users. Visualize the total number of emails, Google searches, YouTube videos, Tumblr posts, Instagram photos, in 1 second. Historical trends, statistics, infographics and live data visualization",
         "image": "https://www.internetlivestats.com/internet-live-stats.gif"
     },
@@ -905,12 +949,14 @@
     "https://fvcproductions.github.io/hire-me/#/": {
         "url": "https://fvcproductions.github.io/hire-me/#/",
         "title": "hire-me",
+        "icon": "https://fvcproductions.github.io_images/favicons/favicon.ico",
         "description": "A path to getting an awesome tech gig.",
         "image": "https://i.imgur.com/e3cjDTB.png"
     },
     "https://opensource.guide/": {
         "url": "https://opensource.guide/",
         "title": "Open Source Guides | Learn how to launch and grow your project.",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Learn how to launch and grow your project.",
         "image": "https://opensource.guide/assets/images/cards/default.png"
     },
@@ -933,6 +979,7 @@
     "https://github.com/busterbenson/public/blob/master/book-of-beliefs.md": {
         "url": "https://github.com/busterbenson/public/blob/master/book-of-beliefs.md",
         "title": "public/book-of-beliefs.md at master · busterbenson/public · GitHub",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "My public self and book of beliefs. . Contribute to busterbenson/public development by creating an account on GitHub.",
         "image": "https://avatars2.githubusercontent.com/u/111647?s=400&v=4"
     },
@@ -980,6 +1027,7 @@
     "https://opensource.guide/legal/": {
         "url": "https://opensource.guide/legal/",
         "title": "The Legal Side of Open Source | Open Source Guides",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Everything you’ve ever wondered about the legal side of open source, and a few things you didn’t.",
         "image": "https://opensource.guide/assets/images/cards/legal.png"
     },
@@ -1028,6 +1076,7 @@
     "https://github.com/santiq/bulletproof-nodejs": {
         "url": "https://github.com/santiq/bulletproof-nodejs",
         "title": "GitHub - santiq/bulletproof-nodejs: Implementation of a bulletproof node.js API 🛡️",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Implementation of a bulletproof node.js API 🛡️. Contribute to santiq/bulletproof-nodejs development by creating an account on GitHub.",
         "image": "https://avatars2.githubusercontent.com/u/7070683?s=400&v=4"
     },
@@ -1091,12 +1140,14 @@
     "https://github.com/devhubapp/devhub": {
         "url": "https://github.com/devhubapp/devhub",
         "title": "GitHub - devhubapp/devhub: GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop - devhubapp/devhub",
         "image": "https://repository-images.githubusercontent.com/75236196/4459d880-ca3f-11e9-82c6-80a8fc2c63cd"
     },
     "https://www.balena.io/etcher/": {
         "url": "https://www.balena.io/etcher/",
         "title": "balenaEtcher - Home",
+        "icon": "https://www.balena.io/static/favicon-1cca17fb2763770422e49a1e4a9ae6b2.ico",
         "description": "A cross-platform tool for flashing images to SD cards & USB drives.",
         "image": "https://www.balena.io/etcher/avatar.png"
     },
@@ -1116,6 +1167,7 @@
     "https://github.com/Cuberto/liquid-swipe": {
         "url": "https://github.com/Cuberto/liquid-swipe",
         "title": "GitHub - Cuberto/liquid-swipe",
+        "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Contribute to Cuberto/liquid-swipe development by creating an account on GitHub.",
         "image": "https://avatars3.githubusercontent.com/u/3691940?s=400&v=4"
     },
@@ -1321,8 +1373,7 @@
     },
     "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219": {
         "url": "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219",
-        "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto): Nassim Nicholas Taleb: 8581000020738: Amazon.com: Books",
-        "description": "Buy Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto) on Amazon.com ✓ FREE SHIPPING on qualified orders"
+        "title": "Robot Check"
     },
     "https://www.goodreads.com/book/show/896539.Emergence": {
         "url": "https://www.goodreads.com/book/show/896539.Emergence",

@@ -30,21 +30,25 @@
 
 </div>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-<script src="https://github.com/Modernizr/Modernizr/raw/master/modernizr.js"></script>
+<div id="animation">
+
+</div>
+
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="assets/p5.min.js"></script>
+<script src="assets/three.r92.min.js"></script>
+<script src="assets/vanta.topology.min.js"></script>
 <script>
-
-  $(window).load(function() {
-    // Animate loader off screen
-    $("#loader").animate({
-      top: -200
-    }, 1500);
-  });
-
+    VANTA.TOPOLOGY({
+      el: "#animation",
+      color: 0x468391,
+      backgroundColor: 0x0
+    });
+</script>
+<script>
   async function fetchMarkdownArticle() {
     let readme = await fetch('README.md').then(res => res.text());
-    let meta = await fetch('meta.json').then(res => res.json());
+    let meta = await fetch('assets/meta.json').then(res => res.json());
 
     document.getElementById('content').innerHTML = marked(readme);
     document.getElementsByTagName('p')[0].style.textAlign = 'center';
@@ -53,7 +57,7 @@
         let props = meta[url];
         if (props === undefined) return;
         li.innerHTML = `
-            <a href="${url}">
+            <a href="${url}" target="_blank">
                 <img src="${props.image || props.icon}" alt="website-icon"/>
                 <h3>${props.title}</h3>
                 <p>${props.description ? props.description : ''}</p>
@@ -64,7 +68,6 @@
 
   /**
    * TODO: add search functionality
-   * TODO: remove card style from contents
    */
 
   fetchMarkdownArticle();

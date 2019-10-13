@@ -2,11 +2,12 @@
     padding: 0;
     margin: 0;
     font-family: 'Montserrat Alternates', sans-serif;
+    color: white;
 }
 
 h1 {
     text-align: center;
-    padding: 20px;
+    padding: 60px;
 }
 
 h2 {
@@ -14,12 +15,14 @@ h2 {
     padding-top: 30px;
     padding-bottom: 10px;
     font-size: 1.7em;
+
 }
 
 h4 {
     text-align: center;
     padding: 30px 10px 10px;
     font-size: 1.2em;
+    color: #e2e0bd;
 }
 
 ul {
@@ -33,35 +36,52 @@ li {
     width: 200px;
     list-style: none;
     padding: 15px;
-    margin: 10px;
-    border: 2px solid black;
-    border-radius: 10px;
+    margin: 20px;
+    transition: all .2s ease-in-out;
+}
+
+li:hover {
+    transform: scale(1.05);
 }
 
 li a {
     text-decoration: none;
 }
 
-li img {
+li a:hover * {
+    color: #9ec8e2;
+}
+
+li a img {
     width: 100%;
-    box-shadow: 0 0 8px 8px white inset;
+    border-radius: 20px;
 }
 
 li a h3 {
     font-size: 1em;
     padding: 5px 0;
-    color: darkslateblue;
+    color: #e2e0bd;
+    word-wrap: break-word;
 }
 
 li a p {
     font-size: 0.8em;
-    color: black;
+    color: #fdfdffad;
+    word-wrap: break-word;
 }
 
 /** GENERAL STYLES **/
 
 em {
     display: none;
+}
+
+#animation {
+    position: fixed;
+    top: 0;
+    z-index: -100;
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
 }
 
 
@@ -79,6 +99,7 @@ ul:first-of-type li {
     border: none;
     margin: 2px;
     padding: 0;
+    color: #e2e0bd;
 }
 
 ul:first-of-type li ul {

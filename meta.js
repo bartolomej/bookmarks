@@ -24,7 +24,7 @@ const uuid = require('uuid').v4;
 
   console.log('WRITING TO FILE...');
 
-  fs.writeFile('meta.json', JSON.stringify(metasObject, null, 4), err => {
+  fs.writeFile('assets/meta.json', JSON.stringify(metasObject, null, 4), err => {
     if (err) throw err;
     console.log('DONE 😀');
     process.exit();
@@ -79,12 +79,15 @@ async function scrapeMetas(urls) {
       $(`meta[property="twitter:${name}:src]"]`, website).attr('content');
 
     let title = $('title', website).first().text();
-    // TODO: accept only type=image/png to avoid downloading data:image
-    let icon = $('link[rel=icon][type="image/png"]', website).attr('href');
     let name = getMetaTag('name');
     let description = getMetaTag('description');
     let image = getMetaTag('image');
     let author = getMetaTag('author');
+    let icon =
+      $('link[rel=icon][type="image/png"]', website).attr('href') ||
+      $('link[rel=shortcut-icon][type="image/png"]', website).attr('href') ||
+      $('link[rel=icon][type="image/x-icon"]', website).attr('href') ||
+      $('link[rel=mack-icon]', website).attr('href');
 
     if (isRelativeUrl(icon)) {
       icon = parseRelativeUrl(url, icon);
