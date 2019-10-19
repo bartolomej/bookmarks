@@ -297,6 +297,11 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Mindfull Design](https://mindfuldesign.xyz/) - Book website
 - [dogstudio](https://dogstudio.co/) - Cool 3D rendering on website
 - [Liquid swipe animation](https://github.com/Cuberto/liquid-swipe)
+	
+## <a name="design">Cool Visualizations
+- [WebGL Kinect](https://threejs.org/examples/webgl_kinect.html) - Three.js example
+- [WebGL Particle Waves(https://threejs.org/examples/#webgl_points_waves) - Three.js example
+
 
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
