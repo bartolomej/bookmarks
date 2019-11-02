@@ -4,7 +4,7 @@
   "description": "A collection of cool links and resources",
   "main": "meta.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update": "node meta.js"
   },
   "repository": {
     "type": "git",

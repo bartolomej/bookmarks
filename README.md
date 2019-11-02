@@ -160,6 +160,8 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 
 #### <a name="graph-theory">Graph theory
+- [Detailed explanation for ngraph.path project](https://github.com/anvaka/ngraph.path.demo)
+- [Visualizing path finding](https://anvaka.github.io/ngraph.path.demo)
 - [Interactive graph theory explanation website](https://www.data-to-viz.com/graph/network.html)
 - [Internet graph map](https://internet-map.net/)
 - [Visualizing bitcoin transactions](https://cambridge-intelligence.com/visualizing-bitcoin-activity/)
@@ -182,11 +184,15 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Shards](https://designrevision.com/downloads/shards-react/) - react ui toolkit / design system
 - [react-spring](https://www.react-spring.io/)
 - [react-mde](https://github.com/andrerpena/react-mde)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Build your own React.js](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 	
 	
 ## <a name="mathematics">Mathematics
 *[&#8593; top](#contents)*
 
+- [WebGL fluid flow](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [Visualizing vector fields](https://anvaka.github.io/fieldplay)
 - [Visualizing quaternions](https://eater.net/quaternions)
 - [High School Mathematics Extensions](https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions)
 - [Chaotic equations in browser visualization](https://chaos-equations.glitch.me/?p=VNYAVO)

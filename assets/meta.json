@@ -103,12 +103,6 @@
         "image": "https://miro.medium.com/max/1200/1*uVpU7iruzXafhU2VLeH4lw.jpeg",
         "author": "Eric Elliott"
     },
-    "https://www.debuggex.com/": {
-        "url": "https://www.debuggex.com/",
-        "title": "\n  Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.\n",
-        "description": "Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.",
-        "author": "Sergiu Toarca"
-    },
     "https://peeke.nl/": {
         "url": "https://peeke.nl/",
         "title": "Peeke.nl",
@@ -175,9 +169,9 @@
     },
     "https://github.com/goldbergyoni/nodebestpractices": {
         "url": "https://github.com/goldbergyoni/nodebestpractices",
-        "title": "GitHub - goldbergyoni/nodebestpractices: The largest Node.js best practices list (September 2019)",
+        "title": "GitHub - goldbergyoni/nodebestpractices: The largest Node.js best practices list (November 2019)",
         "icon": "https://github.githubassets.com/favicon.ico",
-        "description": ":white_check_mark: The largest Node.js best practices list (September 2019) - goldbergyoni/nodebestpractices",
+        "description": ":white_check_mark: The largest Node.js best practices list (November 2019) - goldbergyoni/nodebestpractices",
         "image": "https://avatars2.githubusercontent.com/u/8571500?s=400&v=4"
     },
     "https://github.com/jwasham/coding-interview-university": {
@@ -449,7 +443,7 @@
         "title": "Figma: the collaborative interface design tool.",
         "icon": "https://static.figma.com/app/icon/1/favicon.png",
         "description": "A better way to design. Design, prototype, and gather feedback all in one place with Figma.",
-        "image": "https://images.ctfassets.net/1khq4uysbvty/1B1epriGpMobqHwWXfMBLv/cc7a39c43446bd0376f624db307ac487/Figma_Home_OG__1_.png"
+        "image": "https://images.ctfassets.net/1khq4uysbvty/QsIb6oxyNLMrTAkoSAkGX/954d40fe02bb1331778f83273dbcf828/Figma_Homepage_OG.png"
     },
     "https://bundlephobia.com/": {
         "url": "https://bundlephobia.com/",
@@ -570,7 +564,7 @@
         "url": "https://ethereum.consensys.net/",
         "title": "Ethereum Blockchain Developer Portal",
         "description": "Ethereum Blockchain Developer Portal: developer tools, resources, guides, programming libraries, and more.",
-        "image": "https://i0.wp.com/content.consensys.net/wp-content/uploads/dev-portal-512@2x.png?ssl=1&resize=1200,630"
+        "image": "https://i1.wp.com/content.consensys.net/wp-content/uploads/dev-portal-featured.png?ssl=1&resize=1200,630"
     },
     "https://docs.microsoft.com/en-us/azure/devops/learn/": {
         "url": "https://docs.microsoft.com/en-us/azure/devops/learn/",
@@ -644,6 +638,20 @@
     "https://en.bitcoin.it/wiki/Protocol_documentation": {
         "url": "https://en.bitcoin.it/wiki/Protocol_documentation",
         "title": "Protocol documentation - Bitcoin Wiki"
+    },
+    "https://github.com/anvaka/ngraph.path.demo": {
+        "url": "https://github.com/anvaka/ngraph.path.demo",
+        "title": "GitHub - anvaka/ngraph.path.demo: This is a demo project for ngraph.path",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "This is a demo project for ngraph.path. Contribute to anvaka/ngraph.path.demo development by creating an account on GitHub.",
+        "image": "https://avatars2.githubusercontent.com/u/225407?s=400&v=4"
+    },
+    "https://anvaka.github.io/ngraph.path.demo": {
+        "url": "https://anvaka.github.io/ngraph.path.demo",
+        "title": "Fast path finding library ngraph.path",
+        "description": "This is a demo of path finding algorithm for generic graphs.",
+        "image": "https://raw.githubusercontent.com/anvaka/ngraph.path.demo/master/docs/preview_large.png",
+        "author": "Andrei Kashcha"
     },
     "https://www.data-to-viz.com/graph/network.html": {
         "url": "https://www.data-to-viz.com/graph/network.html",
@@ -741,6 +749,32 @@
         "description": "📝 React Markdown Editor. Contribute to andrerpena/react-mde development by creating an account on GitHub.",
         "image": "https://avatars1.githubusercontent.com/u/1581429?s=400&v=4"
     },
+    "https://www.framer.com/motion/": {
+        "url": "https://www.framer.com/motion/",
+        "title": " Framer Motion",
+        "description": "Framer Motion is a production-ready React animation and gesture library.",
+        "image": "https://framer.com/static/images/social/motion.png"
+    },
+    "https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5": {
+        "url": "https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5",
+        "title": "Didact: a DIY guide to build your own React - Hexacta Engineering",
+        "description": "Write a working version of React, in less than 200 lines of code, with the same API.",
+        "image": "https://miro.medium.com/focal/1200/632/52/42/1*9VubAng-r08AkzxMzRN-5A.jpeg",
+        "author": "Rodrigo Pombo"
+    },
+    "https://paveldogreat.github.io/WebGL-Fluid-Simulation/": {
+        "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+        "title": "WebGL Fluid Simulation",
+        "description": "A WebGL fluid simulation that works in mobile browsers.",
+        "image": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/logo.png"
+    },
+    "https://anvaka.github.io/fieldplay": {
+        "url": "https://anvaka.github.io/fieldplay",
+        "title": "Field Play",
+        "description": "This website allows you to build and explore beautiful world of vector fields.",
+        "image": "https://github.com/anvaka/fieldplay/wiki/images/field_play_icon.png",
+        "author": "Andrei Kashcha"
+    },
     "https://eater.net/quaternions": {
         "url": "https://eater.net/quaternions",
         "title": "Visualizing quaternions, an explorable video series",
@@ -795,7 +829,7 @@
     "https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation": {
         "url": "https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation",
         "title": "The Evolution of Cooperation by Robert Axelrod",
-        "description": "The Evolution of Cooperation book. Read 114 reviews from the world's largest community for readers. The Evolution of Cooperation provides valuable insigh...",
+        "description": "The Evolution of Cooperation book. Read 116 reviews from the world's largest community for readers. The Evolution of Cooperation provides valuable insigh...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388197031i/366821._UY630_SR1200,630_.jpg"
     },
     "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678": {
@@ -837,7 +871,7 @@
     "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html": {
         "url": "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
         "title": "Driving Dataset > Audi Electronics Venture",
-        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20190930065204/cms4i-nemo/assets/icons/favicon/favicon.png"
+        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191021054021/cms4i-nemo/assets/icons/favicon/favicon.png"
     },
     "https://www.yelp.com/dataset/challenge": {
         "url": "https://www.yelp.com/dataset/challenge",
@@ -852,10 +886,6 @@
         "url": "https://www.kaggle.com/datasets",
         "title": "Datasets | Kaggle",
         "description": "Download Open Datasets on 1000s of Projects + Share Projects on One Platform. Explore Popular Topics Like Government, Sports, Medicine, Fintech, Food, More. Flexible Data Ingestion."
-    },
-    "https://ai.google.com/research/NaturalQuestions": {
-        "url": "https://ai.google.com/research/NaturalQuestions",
-        "title": "Google's Natural Questions"
     },
     "https://research.google.com/youtube8m/": {
         "url": "https://research.google.com/youtube8m/",
@@ -894,7 +924,7 @@
     "https://developers.google.com/books/docs/v1/getting_started": {
         "url": "https://developers.google.com/books/docs/v1/getting_started",
         "title": "Getting Started  |  Google Books APIs  |  Google Developers",
-        "image": "https://www.gstatic.com/devrel-devsite/v741200ba74cbd1989790411f8b27fb588884a771dac0e0472d95190dde1f7e2f/developers/images/opengraph/google-blue.png"
+        "image": "https://www.gstatic.com/devrel-devsite/v6bd5a0b4c9254732f5f201c272fcfb160f0efe389bcfbc2a4719d82eac4acb09/developers/images/opengraph/google-blue.png"
     },
     "http://genemania.org/": {
         "url": "http://genemania.org/",
@@ -906,8 +936,7 @@
     },
     "https://thevaluable.dev/abstraction_software_development/": {
         "url": "https://thevaluable.dev/abstraction_software_development/",
-        "title": "A Detailed Explanation of Abstraction in Software Development",
-        "description": "Abstraction is fundamental in software development. What is it? What's its benefits? Should we abstract everything?"
+        "title": "https://thevaluable.dev/abstraction-software-development/"
     },
     "https://numinous.productions/ttft/": {
         "url": "https://numinous.productions/ttft/",
@@ -942,7 +971,7 @@
     },
     "http://frankforce.com/?p=6378": {
         "url": "http://frankforce.com/?p=6378",
-        "title": "\nDissecting A Dweet: Mini Black Hole | Killed By A Pixel\t",
+        "title": "\nDissecting A Dweet #3: Mini Black Hole | Killed By A Pixel\t",
         "description": "Today we will be examining my most popular dweet, a miniature black hole simulation! It’s one of my easiest dweets to explain and the code is fairly straightforward. Read on for a full analys…",
         "image": "http://frankforce.com/wp-content/uploads/2019/07/black_hole_head.png"
     },
@@ -968,7 +997,7 @@
         "url": "https://devhints.io/",
         "title": "Devhints — TL;DR for developer documentation",
         "description": "A ridiculous collection of web development cheatsheets · One-page guide to ",
-        "image": "https://assets.devhints.io/previews/index.jpg?t=20190925090400"
+        "image": "https://assets.devhints.io/previews/index.jpg?t=20191015093217"
     },
     "https://mythbusters.js.org/#/": {
         "url": "https://mythbusters.js.org/#/",
@@ -1082,7 +1111,7 @@
     },
     "https://elastos.academy/": {
         "url": "https://elastos.academy/",
-        "title": "Home Page - Elastos Academy",
+        "title": "Learn to Shape The Decentralized Internet - Elastos Academy",
         "description": "Secure the hashpower of BTC, freely build off ETH and NEO sidechains, utilize a P2P network and fully decentralized data storage and ownership for every single DApp.",
         "image": "https://elastos.academy/wp-content/uploads/2019/09/EA3O.png"
     },
@@ -1132,11 +1161,6 @@
         "url": "https://www.elastos.org/",
         "title": "Elastos | Welcome to the Modern Internet"
     },
-    "https://humanetech.com/": {
-        "url": "https://humanetech.com/",
-        "title": "Center for Humane Technology: Realigning Technology with Humanity",
-        "description": "We are a nonprofit addressing the harmful extractive attention economy by inspiring a new race to build Humane Technology that aligns with humanity."
-    },
     "https://github.com/devhubapp/devhub": {
         "url": "https://github.com/devhubapp/devhub",
         "title": "GitHub - devhubapp/devhub: GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop",
@@ -1171,6 +1195,14 @@
         "description": "Contribute to Cuberto/liquid-swipe development by creating an account on GitHub.",
         "image": "https://avatars3.githubusercontent.com/u/3691940?s=400&v=4"
     },
+    "https://threejs.org/examples/webgl_kinect.html": {
+        "url": "https://threejs.org/examples/webgl_kinect.html",
+        "title": "three.js - kinect"
+    },
+    "https://threejs.org/examples/#webgl_points_waves": {
+        "url": "https://threejs.org/examples/#webgl_points_waves",
+        "title": "three.js examples"
+    },
     "https://scipython.com": {
         "url": "https://scipython.com",
         "title": "Home"
@@ -1195,7 +1227,7 @@
         "title": "Softwareontheroad: articles on node, react, angular, AWS",
         "icon": "https://softwareontheroad.com/favicon-32x32.png",
         "description": "Advanced articles about Node.js, React, Typescript and Amazon Web Services",
-        "image": "https://softwareontheroad.com/static/7920894eae277ab0057791ffee026dae/36e49/blog-cover.jpg"
+        "image": "https://softwareontheroad.com/static/b4ee6548cfe2ec74df59c9bd14e71cab/36e49/blog-cover.jpg"
     },
     "https://devconnected.com/": {
         "url": "https://devconnected.com/",
@@ -1262,20 +1294,14 @@
         "url": "https://martinfowler.com/articles/microservices.html",
         "title": "Microservices",
         "description": "An in-depth description of the microservice style of architecture. Applications designed as suites of independently deployable services, governed in a decentralized manner.",
-        "image": "https://martinfowler.com/articles/microservices/images/sketch.png"
+        "image": "https://martinfowler.com/articles/images/sketch.png"
     },
     "https://blog.risingstack.com/": {
         "url": "https://blog.risingstack.com/",
         "title": "RisingStack Engineering - Node.js Tutorials & Resources",
-        "icon": "https://blog.risingstack.com/assets/favicons/favicon-32x32.png?v=33454160cf",
+        "icon": "https://blog.risingstack.com/assets/favicons/favicon-32x32.png?v=9e3b096d48",
         "description": "Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.",
         "image": "https://blog.risingstack.com/content/images/2018/02/risingstack-blog-metapic.png"
-    },
-    "https://www.joelonsoftware.com/": {
-        "url": "https://www.joelonsoftware.com/",
-        "title": "Joel on Software",
-        "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
-        "image": "https://i2.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1"
     },
     "https://gear.dev/blog/": {
         "url": "https://gear.dev/blog/",
@@ -1292,12 +1318,6 @@
         "title": "Welcome to the world of Statecharts - Statecharts",
         "description": "The world of statecharts describes what statecharts are, their benefits and drawbacks, how they differ from state machines, and practical examples on how to use them."
     },
-    "https://softwareengineeringdaily.com/": {
-        "url": "https://softwareengineeringdaily.com/",
-        "title": "Software Engineering Daily",
-        "icon": "https://softwareengineeringdaily.com/wp-content/uploads/fbrfg/favicon-32x32.png?v=PYYeqgEwMA",
-        "image": "http://softwareengineeringdaily.com/wp-content/uploads/2015/08/sed_logo_updated.png"
-    },
     "https://overreacted.io/": {
         "url": "https://overreacted.io/",
         "title": "Overreacted — A blog by Dan Abramov",
@@ -1313,114 +1333,20 @@
         "url": "http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/",
         "title": "An Introduction to Object-Oriented Programmind, 3e"
     },
-    "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/": {
-        "url": "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/",
-        "title": ""
-    },
     "https://www.goodreads.com/book/show/405614.Distributed_Systems": {
         "url": "https://www.goodreads.com/book/show/405614.Distributed_Systems",
         "title": "Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum",
         "description": "Distributed Systems book. Read 16 reviews from the world's largest community for readers. Virtually every computing system today is part of a distributed...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347701966i/405614._UY630_SR1200,630_.jpg"
     },
-    "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures": {
-        "url": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures",
-        "title": "Building Evolutionary Architectures: Support Constant Change by Neal Ford",
-        "description": "Building Evolutionary Architectures book. Read 52 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507020307i/35755822._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/15857473-signals-and-boundaries": {
-        "url": "https://www.goodreads.com/book/show/15857473-signals-and-boundaries",
-        "title": "Signals and Boundaries: Building Blocks for Complex Adaptive Systems by John H. Holland",
-        "description": "Signals and Boundaries book. Read 9 reviews from the world's largest community for readers. Complex adaptive systems (cas), including ecosystems, governm...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355031544i/15857473._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/2296.Emergence": {
-        "url": "https://www.goodreads.com/book/show/2296.Emergence",
-        "title": "Emergence: The Connected Lives of Ants, Brains, Cities, and Software by Steven Johnson",
-        "description": "Emergence book. Read 234 reviews from the world's largest community for readers. In the tradition of Being Digital and The Tipping Point, Steven Johnson,...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294786433i/2296._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/259947.The_Complexity_of_Cooperation": {
-        "url": "https://www.goodreads.com/book/show/259947.The_Complexity_of_Cooperation",
-        "title": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration by Robert Axelrod",
-        "description": "The Complexity of Cooperation book. Read 10 reviews from the world's largest community for readers. Robert Axelrod's extraordinary book, The Evolution o...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388358876i/259947._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight": {
-        "url": "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight",
-        "title": "Worlds Hidden in Plain Sight: The Evolving Idea of Complexity at the Santa Fe Institute, 1984–2019 by David C. Krakauer",
-        "description": "Worlds Hidden in Plain Sight book. Read 2 reviews from the world's largest community for readers. Over the last three decades, the Santa Fe Institute and...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557435815i/45700960._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets": {
-        "url": "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets",
-        "title": "The (Mis)Behavior of Markets by Benoît B. Mandelbrot",
-        "description": "The (Mis)Behavior of Markets book. Read 182 reviews from the world's largest community for readers. Benoit B. Mandelbrot, one of the century's most influ...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387705519i/665134._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/64582.Chaos": {
-        "url": "https://www.goodreads.com/book/show/64582.Chaos",
-        "title": "Chaos: Making a New Science by James Gleick",
-        "description": "Chaos book. Read 880 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941595i/64582._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/869836.How_Nature_Works": {
-        "url": "https://www.goodreads.com/book/show/869836.How_Nature_Works",
-        "title": "How Nature Works: The Science of Self-Organized Criticality by Per Bak",
-        "description": "How Nature Works book. Read 22 reviews from the world's largest community for readers. Self-organized criticality, the spontaneous development of systems...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510770i/869836._UY630_SR1200,630_.jpg"
-    },
     "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219": {
         "url": "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219",
         "title": "Robot Check"
-    },
-    "https://www.goodreads.com/book/show/896539.Emergence": {
-        "url": "https://www.goodreads.com/book/show/896539.Emergence",
-        "title": "Emergence: From Chaos To Order by John H. Holland",
-        "description": "Emergence book. Read 9 reviews from the world's largest community for readers. In this important book, John H. Holland dramatically shows us that the “em...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347554812i/896539._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/587906.Deep_Simplicity": {
-        "url": "https://www.goodreads.com/book/show/587906.Deep_Simplicity",
-        "title": "Deep Simplicity: Bringing Order to Chaos and Complexity by John Gribbin",
-        "description": "Deep Simplicity book. Read 81 reviews from the world's largest community for readers. Over the past two decades, no field of scientific inquiry has had a...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388373561i/587906._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/497570.Cosmic_Evolution": {
-        "url": "https://www.goodreads.com/book/show/497570.Cosmic_Evolution",
-        "title": "Cosmic Evolution: The Rise of Complexity in Nature by Eric Chaisson",
-        "description": "Cosmic Evolution book. Read 7 reviews from the world's largest community for readers. We are connected to distant space and time not only by our imaginat...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349082547i/497570._UY630_SR1200,630_.jpg"
     },
     "https://press.princeton.edu/titles/7104.html": {
         "url": "https://press.princeton.edu/titles/7104.html",
         "title": "Self-Organization in Biological Systems | Princeton University Press",
         "icon": "https://press.princeton.edu/themes/custom/themekit/favicon-32x32.png?v=gAelwKMR7J",
         "image": "https://pup-assets.imgix.net/onix/images/9780691116242.jpg?fit=fill&fill=solid&fill-color=ffffff&w=1200&h=630"
-    },
-    "https://www.goodreads.com/book/show/1762728.Chaos_And_Harmony": {
-        "url": "https://www.goodreads.com/book/show/1762728.Chaos_And_Harmony",
-        "title": "Chaos And Harmony: Perspectives On Scientific Revolutions Of The Twentieth Century by Trịnh Xuân Thuận",
-        "description": "Chaos And Harmony book. Read 9 reviews from the world's largest community for readers. For 300 years, Trinh Xuan Thuan writes, since the time of Isaac Ne...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1187886219i/1762728._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/3828902-thinking-in-systems": {
-        "url": "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
-        "title": "Thinking in Systems: A Primer by Donella H. Meadows",
-        "description": "Thinking in Systems book. Read 574 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859i/3828902._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/39088592-the-model-thinker": {
-        "url": "https://www.goodreads.com/book/show/39088592-the-model-thinker",
-        "title": "The Model Thinker: What You Need to Know to Make Data Work for You by Scott E. Page",
-        "description": "The Model Thinker book. Read 25 reviews from the world's largest community for readers. How anyone can become a data ninja From the stock market to genom...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538512393i/39088592._UY630_SR1200,630_.jpg"
-    },
-    "https://www.goodreads.com/book/show/41580312-be-here-now": {
-        "url": "https://www.goodreads.com/book/show/41580312-be-here-now",
-        "title": "Be Here Now by Ram Dass",
-        "description": "Be Here Now book. Read 776 reviews from the world's largest community for readers. Describes one man's transformation upon his acceptance of the principl...",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535737556i/41580312._UY630_SR1200,630_.jpg"
     }
 }
