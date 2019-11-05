@@ -190,7 +190,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 #### <a name="mock-data-generation">Mock data generation
 - [custom random data](https://mockaroo.com/)
-- [random picture api](http://lorempixel.com/)
+- [random picture api](https://picsum.photos/)
 - [random user data api](https://randomuser.me/api/)
 	
 ## <a name="mathematics">Mathematics
