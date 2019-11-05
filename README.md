@@ -21,6 +21,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 	- [Graph Theory](#graph-theory)
 	- [Graphic Design](#graphic-design)
 	- [Reactjs](#reactjs)
+	- [Mock data generation](#mock-data-generation)
 - [Mathematics](#mathematics)
 - [Game Theory](#creativity)
 - [Complexity science](#complexity-science)
@@ -186,7 +187,11 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [react-mde](https://github.com/andrerpena/react-mde)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Build your own React.js](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
-	
+
+#### <a name="mock-data-generation">Mock data generation
+- [custom random data](https://mockaroo.com/)
+- [random picture api](http://lorempixel.com/)
+- [random user data api](https://randomuser.me/api/)
 	
 ## <a name="mathematics">Mathematics
 *[&#8593; top](#contents)*
