@@ -1,10 +1,9 @@
 # Cool links 💾📚📖
 
 [comment]: <> (TODO: split topics into multiple files)
+[comment]: <> (TODO: mark each link with tags)
 
 Links of different interesting ideas, resources, blogs, articles, books etc.<br>
-Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - A curated list of awesome explorable explanations.
-
 
 
 ## <a name="contents"></a>Contents
@@ -16,6 +15,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 	- [Code practises, patterns, tutorials and tips](#practises)
 	- [Example projects](#example-projects)
 	- [Frameworks and tools](#frameworks-and-tools)
+	- [Web 3.0](#web3)
 	- [Software engineering and architecture](#software-endineering-and-architecture)
 	- [Distributed systems](#distributed-systems)
 	- [Graph Theory](#graph-theory)
@@ -30,6 +30,10 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Cool designs](#design)
 - [Blogs](#blogs)
 - [Books](#books)
+
+## <a name="computer-science"></a>Other awesome lists
+- [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) -  A curated list of awesome explorable explanations.
+- [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 
 ## <a name="computer-science"></a>Computer science
 *[&#8593; top](#contents)*
@@ -68,6 +72,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
 #### <a name="practises">Code practises, patterns, tutorials and tips
+- [Faster feedback loops while coding](https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html)
 - [Free up Mac disk storage](https://fluffy.es/free-up-mac-storage/)
 - [How to write a Git commit message](https://chris.beams.io/posts/git-commit/)
 - [Nodejs best practises](https://github.com/goldbergyoni/nodebestpractices)
@@ -80,6 +85,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Wodking with GitHub actions](https://jeffrafter.com/working-with-github-actions/)
 
 #### <a name="example-projects">Example projects
+- [Three.js examples](http://stemkoski.github.io/Three.js/index.html)
 - [Oak programming language](https://repl.it/@cmihai/Oak-Programming-Language)
 - [Very basic replica of stitchfix.com / krate.in](https://github.com/atulmy/crate)
 - [Opinionated project architecture for Full-Stack JavaScript Applications](https://github.com/atulmy/fullstack-javascript-architecture)
@@ -93,6 +99,7 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 
 #### <a name="frameworks-and-tools">Frameworks and tools
 
+- [Docusaurus](https://github.com/facebook/docusaurus) - open source docs websites
 - [React spring](https://www.react-spring.io/) - spring animation primitives
 - [Manim](https://github.com/3b1b/manim) - Manim is an animation engine for explanatory math videos
 - [LottieFiles](https://lottiefiles.com/) - Discover, test and share striking animations
@@ -146,17 +153,22 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 - [Google AI](https://ai.google/)
 
 
-#### <a name="distributed-systems">Distributed systems
-- [DaoTalk](https://daotalk.org/t/resource-list-dao-creation-design/522)
+#### <a name="web3">Web 3.0
+- [Game Theoretic perspective on Ethereum](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) - #article, #eth, #web3, #game-theory
+- [DAO creation & design resources](https://daotalk.org/t/resource-list-dao-creation-design/522) - #dao, #web3, #resources
+- [Online Ethereum Studio](https://studio.ethereum.org/) - #eth, #web3, #ide
 - [Dao democracy OS](https://github.com/DemocracyOS/democracyos)
 - [DAOs, Democracy and Governance paper](http://merkle.com/papers/DAOdemocracyDraft.pdf)
 - [Commit-reveal scheme on Ethereum](https://github.com/austintgriffith/commit-reveal)
-- [Turing machines on Stanford Encyclopedia](https://plato.stanford.edu/entries/turing-machine/)
 - [Low level bitcoin](https://curiosity-driven.org/low-level-bitcoin)
-- [Using raw bitcoin protocol without ui abstraction](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
-- [Simplechain repo](https://github.com/olistic/simplechain/tree/master/lib)
-- [Awesome distributed systems list](https://github.com/theanalyst/awesome-distributed-systems)
 - [Bitcoin protocol documentation](https://en.bitcoin.it/wiki/Protocol_documentation)
+- [Simplechain repo](https://github.com/olistic/simplechain/tree/master/lib)
+- [Using raw bitcoin protocol without ui abstraction](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
+- [Towards Complex Governance Systems](https://medium.com/@phoebetickell/towards-complex-governance-systems-cfd79c4ecf1)
+
+#### <a name="distributed-systems">Distributed systems
+- [Turing machines on Stanford Encyclopedia](https://plato.stanford.edu/entries/turing-machine/)
+- [Awesome distributed systems list](https://github.com/theanalyst/awesome-distributed-systems)
 
 
 #### <a name="graph-theory">Graph theory
@@ -306,12 +318,13 @@ Check out [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - 
 	
 ## <a name="design">Cool Visualizations
 - [WebGL Kinect](https://threejs.org/examples/webgl_kinect.html) - Three.js example
-- [WebGL Particle Waves(https://threejs.org/examples/#webgl_points_waves) - Three.js example
+- [WebGL Particle Waves](https://threejs.org/examples/#webgl_points_waves) - Three.js example
 
 
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
 
+- [Ted Kaminski](https://www.tedinski.com/) - developer blog
 - [Scientific programming with Python](https://scipython.com)
 - [Jared Forsyth](https://jaredforsyth.com/)
 - [Peeke](https://peeke.nl/)
