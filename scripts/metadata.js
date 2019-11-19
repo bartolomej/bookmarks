@@ -1,54 +1,6 @@
-#!/usr/cli/env node
-
-const $ = require('cheerio');
-const fs = require('fs');
-const path = require('path');
-const marked = require('marked');
 const fetch = require('node-fetch');
-const request = require('request');
-const uuid = require('uuid').v4;
 
-
-(async function () {
-  let file = fs.readFileSync('README.md').toString();
-  let parsedHtml = marked(file);
-
-  let urls = Array.from($('a', parsedHtml)).map(ele => ele.attribs.href);
-
-  console.log('SCRAPING WEBSITES...');
-
-  let metas = await scrapeMetas(urls);
-
-  let metasObject = {};
-  metas.forEach(ele => metasObject[ele.url] = ele);
-
-  console.log('WRITING TO FILE...');
-
-  fs.writeFile('assets/meta.json', JSON.stringify(metasObject, null, 4), err => {
-    if (err) throw err;
-    console.log('DONE 😀');
-    process.exit();
-  });
-})();
-
-
-async function downloadImage(url, filename) {
-  return new Promise(resolve => {
-    request
-      .get(url)
-      .on('error', err => {
-        console.error(err)
-      })
-      .on('response', res => {
-        console.log('content-length: ', res.headers['content-length'])
-      })
-      .on('close', resolve)
-      .pipe(fs.createWriteStream(filename))
-  })
-}
-
-
-async function scrapeMetas(urls) {
+module.exports = async function (urls) {
 
   const isRelativeUrl = url =>
     url !== undefined &&
@@ -100,4 +52,4 @@ async function scrapeMetas(urls) {
   }));
 
   return metas.filter(ele => ele !== null && ele !== undefined);
-}
+};

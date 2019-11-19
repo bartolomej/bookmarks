@@ -156,9 +156,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 #### <a name="web3">Web 3.0
 - [Introduction to DAOstack](https://liviade.gitbook.io/genesisdao/)
-- [Game Theoretic perspective on Ethereum](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) - #article, #eth, #web3, #game-theory
-- [DAO creation & design resources](https://daotalk.org/t/resource-list-dao-creation-design/522) - #dao, #web3, #resources
-- [Online Ethereum Studio](https://studio.ethereum.org/) - #eth, #web3, #ide
+- [Game Theoretic perspective on Ethereum](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8)
+- [DAO creation & design resources](https://daotalk.org/t/resource-list-dao-creation-design/522)
+- [Online Ethereum Studio](https://studio.ethereum.org/)
 - [Dao democracy OS](https://github.com/DemocracyOS/democracyos)
 - [DAOs, Democracy and Governance paper](http://merkle.com/papers/DAOdemocracyDraft.pdf)
 - [Commit-reveal scheme on Ethereum](https://github.com/austintgriffith/commit-reveal)
