@@ -155,6 +155,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="web3">Web 3.0
+- [Introduction to DAOstack](https://liviade.gitbook.io/genesisdao/)
 - [Game Theoretic perspective on Ethereum](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) - #article, #eth, #web3, #game-theory
 - [DAO creation & design resources](https://daotalk.org/t/resource-list-dao-creation-design/522) - #dao, #web3, #resources
 - [Online Ethereum Studio](https://studio.ethereum.org/) - #eth, #web3, #ide
@@ -295,6 +296,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="projects-and-apps">Projects and apps
 *[&#8593; top](#contents)*
 
+- [TakeNote](https://github.com/taniarascia/takenote) - web based note taking app
+- [GitBook](https://www.gitbook.com/) - Document Everything
 - [The Commons Stack](https://commonsstack.org/)
 - [cruise](https://getcruise.com/) - We’re a self-driving car service designed for the cities we love
 - [Gitpod](https://www.gitpod.io/) - One-Click Online IDE for GitHub
@@ -322,6 +325,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Liquid swipe animation](https://github.com/Cuberto/liquid-swipe)
 	
 ## <a name="design">Cool Visualizations
+- [Music Visualizer](https://butterchurnviz.com/)
+- [Kepler.gl geospatial analysis tool](https://kepler.gl/)
+- [Music Visualization](https://www.youtube.com/watch?v=vKYRdmg7lzk)
 - [WebGL Kinect](https://threejs.org/examples/webgl_kinect.html) - Three.js example
 - [WebGL Particle Waves](https://threejs.org/examples/#webgl_points_waves) - Three.js example
 
@@ -329,6 +335,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
 
+- [Tania Rascia](https://www.taniarascia.com/)
 - [Ted Kaminski](https://www.tedinski.com/) - developer blog
 - [Scientific programming with Python](https://scipython.com)
 - [Jared Forsyth](https://jaredforsyth.com/)
