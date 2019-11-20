@@ -1,4 +1,4 @@
-const parser = require('./parser');
+const parseMarkdown = require('./parser');
 
 const exampleMarkdown = `
 # Cool links 💾📚📖
@@ -27,14 +27,19 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Markov chains explained visually](http://setosa.io/ev/markov-chains/)
 - [Quantum computing for the curious](https://quantum.country/qcvc)
 
-#### <a name="programming"></a>Programming
+#### <a name="programming">Programming
 - [Crash Course in JIT](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 - [How JavaScript Works](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/)
 - [Designing Programs](https://designingprograms.bitbucket.io/index.html) - Practical and pedagogical approach to programming
+
+## <a name="websites-and-articles">Other websites and articles
+*[&#8593; top](#contents)*
+
+- [Detailed explanation of Abstraction in Software](https://thevaluable.dev/abstraction_software_development/)
 `;
 
 it('should parse markdown', function () {
-  const parsed = parser.parseMarkdown(exampleMarkdown);
+  const parsed = parseMarkdown(exampleMarkdown);
 
   expect(parsed).toEqual([
     {
@@ -63,6 +68,12 @@ it('should parse markdown', function () {
             'https://designingprograms.bitbucket.io/index.html'
           ]
         }
+      ]
+    },
+    {
+      title: 'Other websites and articles',
+      links: [
+        'https://thevaluable.dev/abstraction_software_development/'
       ]
     }
   ])

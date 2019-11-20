@@ -1,4 +1,5 @@
 const fetch = require('node-fetch');
+const $ = require('cheerio');
 
 module.exports = async function (urls) {
 

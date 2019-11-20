@@ -1,4 +1,4 @@
-function parseMarkdown (markdown) {
+module.exports = function (markdown) {
   let output = [];
   // split by main sections
   const sections = markdown.split('\n## ');
@@ -21,16 +21,25 @@ function parseMarkdown (markdown) {
     }
   }
   return output;
-}
+};
 
 function parseSection (input) {
   let section = { title: '', links: [] };
   const lines = input.split('\n');
-  const startTitleIndex = input.indexOf('</a>');
-  if (startTitleIndex < 0) {
-    throw new Error(`Expected </a> tag in section: \n${input}`);
+  const startTitleIndex1 = input.indexOf('</a>');
+  const startTitleIndex2 = input.indexOf('>');
+  // parse title with splitting by <a> tag
+  if (startTitleIndex1 > 0) {
+    section.title = lines[0].substring(startTitleIndex1 + 4);
+  } else if (startTitleIndex2 > 0) {
+    section.title = lines[0].substring(startTitleIndex2 + 1);
+  } else {
+    throw new Error(`Expected <a> tag in section: \n${input}`);
   }
-  section.title = lines[0].substring(startTitleIndex + 4);
+  // if contents link found remove line from array
+  if (/#contents/.test(lines[1])) {
+    lines.splice(1,1);
+  }
   for (let l = 1; l < lines.length; l++) {
     let startIndex = lines[l].indexOf('(') + 1;
     let endIndex = lines[l].indexOf(')');
@@ -39,8 +48,3 @@ function parseSection (input) {
   }
   return section;
 }
-
-module.exports = {
-  parseMarkdown,
-  parseSection
-};

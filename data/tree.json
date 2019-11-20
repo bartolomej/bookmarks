@@ -1,0 +1,406 @@
+[
+    {
+        "title": "Other awesome lists",
+        "links": [
+            "https://github.com/sp4ke/awesome-explorables",
+            "https://github.com/jpantunes/awesome-cryptoeconomics"
+        ]
+    },
+    {
+        "title": "Computer science",
+        "subsections": [
+            {
+                "title": "Theories and concepts",
+                "links": [
+                    "https://github.com/the-dao/whitepaper",
+                    "http://setosa.io/ev/markov-chains/",
+                    "https://quantum.country/qcvc"
+                ]
+            },
+            {
+                "title": "Programming",
+                "links": [
+                    "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/",
+                    "https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/",
+                    "https://designingprograms.bitbucket.io/index.html",
+                    "https://github.com/mame/quine-relay",
+                    "https://addyosmani.com/largescalejavascript/",
+                    "https://github.com/airbnb/javascript",
+                    "https://dev.to/sahilrajput/useful-websites-for-programmers-36k",
+                    "https://lab.github.com/",
+                    "https://12factor.net/",
+                    "https://devcenter.heroku.com/articles/node-best-practices",
+                    "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
+                    "http://www.developerdotstar.com/mag/articles/reeves_design_main.html",
+                    "https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea",
+                    "https://www.debuggex.com/",
+                    "https://peeke.nl/",
+                    "http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas",
+                    "http://wiki.c2.com/?PeopleProjectsAndPatterns",
+                    "https://guides.github.com/introduction/flow/",
+                    "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow"
+                ]
+            },
+            {
+                "title": "AI and Machine Learning",
+                "links": [
+                    "https://aijs.rocks/",
+                    "https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation",
+                    "https://distill.pub/2017/feature-visualization/",
+                    "https://www.nltk.org/book/ch06.html",
+                    "http://cs231n.github.io/convolutional-networks/"
+                ]
+            },
+            {
+                "title": "Code practises, patterns, tutorials and tips",
+                "links": [
+                    "https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html",
+                    "https://fluffy.es/free-up-mac-storage/",
+                    "https://chris.beams.io/posts/git-commit/",
+                    "https://github.com/goldbergyoni/nodebestpractices",
+                    "https://github.com/jwasham/coding-interview-university",
+                    "https://github.com/donnemartin/system-design-primer",
+                    "https://github.com/goldbergyoni/javascript-testing-best-practices",
+                    "https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e",
+                    "https://github.com/chagweyh/react-hooks-typescript-realworld",
+                    "https://jaysoo.ca/2016/02/28/organizing-redux-application/",
+                    "https://jeffrafter.com/working-with-github-actions/"
+                ]
+            },
+            {
+                "title": "Example projects",
+                "links": [
+                    "http://stemkoski.github.io/Three.js/index.html",
+                    "https://repl.it/@cmihai/Oak-Programming-Language",
+                    "https://github.com/atulmy/crate",
+                    "https://github.com/atulmy/fullstack-javascript-architecture",
+                    "https://blackrockdigital.github.io/startbootstrap-resume/",
+                    "https://github.com/builderbook/builderbook#showcase",
+                    "https://github.com/busterbenson/now-examples",
+                    "https://github.com/alexwasner/react-native-mobx-firebase-starter",
+                    "https://github.com/birkir/hekla",
+                    "https://github.com/guardian/support-frontend"
+                ]
+            },
+            {
+                "title": "Frameworks and tools",
+                "links": [
+                    "https://github.com/facebook/docusaurus",
+                    "https://www.react-spring.io/",
+                    "https://github.com/3b1b/manim",
+                    "https://lottiefiles.com/",
+                    "https://airbnb.design/lottie/",
+                    "https://www.vantajs.com",
+                    "https://www.markdowntopdf.com/",
+                    "https://github.com/sverweij/dependency-cruiser",
+                    "https://softwarebrothers.github.io/admin-bro-dev/",
+                    "https://docsify.js.org/#/?id=docsify",
+                    "https://onepagelove.com",
+                    "https://docusaurus.io/",
+                    "https://apetools.webprofusion.com/#/tools/imagegorilla",
+                    "https://github.com/drcmda/react-three-fiber",
+                    "https://github.com/agenda/agenda",
+                    "https://github.com/agenda/agendash",
+                    "https://www.npmjs.com/package/celebrate",
+                    "https://www.npmjs.com/package/dependency-cruiser",
+                    "https://lerna.js.org",
+                    "https://flynn.io/",
+                    "https://nodemailer.com/about/",
+                    "https://www.2dimensions.com/about-flare",
+                    "https://fontflipper.com/upload",
+                    "https://github.com/GoogleChromeLabs/ProjectVisBug",
+                    "https://cloudcraft.co/",
+                    "https://www.figma.com/",
+                    "https://bundlephobia.com/",
+                    "https://kazzkiq.github.io/balloon.css/",
+                    "https://www.createjs.com/",
+                    "https://networkx.github.io/",
+                    "https://www.npmjs.com/package/dotenv",
+                    "https://github.com/luggit/react-native-config",
+                    "https://sentry.io/welcome/",
+                    "https://graphql.org/",
+                    "https://feathersjs.com"
+                ]
+            },
+            {
+                "title": "Software engineering and architecture",
+                "links": [
+                    "https://www.atlassian.com/continuous-delivery",
+                    "https://wattenberger.com/blog/react-hooks",
+                    "https://stackoverflow.com/questions/2034422/tutorial-resource-for-implementing-vm",
+                    "https://cs.lmu.edu/~ray/notes/compilerarchitecture/",
+                    "https://www.geeksforgeeks.org/compiler-lexical-analysis/",
+                    "http://lisperator.net/pltut/parser/",
+                    "https://littleosbook.github.io/",
+                    "https://github.com/sos-os/kernel",
+                    "https://ericsink.com/scm/source_control.html",
+                    "https://git-scm.com/book/en/v1/Git-Internals",
+                    "https://stackoverflow.com/questions/29117570/orchestrating-microservices",
+                    "https://ethereum.consensys.net/",
+                    "https://docs.microsoft.com/en-us/azure/devops/learn/",
+                    "https://ai.google/"
+                ]
+            },
+            {
+                "title": "Web 3.0",
+                "links": [
+                    "https://liviade.gitbook.io/genesisdao/",
+                    "https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8",
+                    "https://daotalk.org/t/resource-list-dao-creation-design/522",
+                    "https://studio.ethereum.org/",
+                    "https://github.com/DemocracyOS/democracyos",
+                    "http://merkle.com/papers/DAOdemocracyDraft.pdf",
+                    "https://github.com/austintgriffith/commit-reveal",
+                    "https://curiosity-driven.org/low-level-bitcoin",
+                    "https://en.bitcoin.it/wiki/Protocol_documentation",
+                    "https://github.com/olistic/simplechain/tree/master/lib",
+                    "http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html",
+                    "https://medium.com/@phoebetickell/towards-complex-governance-systems-cfd79c4ecf1"
+                ]
+            },
+            {
+                "title": "Distributed systems",
+                "links": [
+                    "https://plato.stanford.edu/entries/turing-machine/",
+                    "https://github.com/theanalyst/awesome-distributed-systems"
+                ]
+            },
+            {
+                "title": "Graph theory",
+                "links": [
+                    "https://github.com/anvaka/ngraph.path.demo",
+                    "https://anvaka.github.io/ngraph.path.demo",
+                    "https://www.data-to-viz.com/graph/network.html",
+                    "https://internet-map.net/",
+                    "https://cambridge-intelligence.com/visualizing-bitcoin-activity/",
+                    "https://graphcommons.com/",
+                    "http://textexture.com",
+                    "http://astrangertowords.com/"
+                ]
+            },
+            {
+                "title": "Graphic Design",
+                "links": [
+                    "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
+                    "https://mobile.twitter.com/i/moments/994601867987619840",
+                    "http://bradfrost.com/blog/post/atomic-web-design/",
+                    "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886",
+                    "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914",
+                    "https://search.muz.li/inspiration/mobile-app-design-inspiration/"
+                ]
+            },
+            {
+                "title": "React.js",
+                "links": [
+                    "https://www.styled-components.com/",
+                    "https://github.com/hyperfuse/react-anime",
+                    "https://designrevision.com/downloads/shards-react/",
+                    "https://www.react-spring.io/",
+                    "https://github.com/andrerpena/react-mde",
+                    "https://www.framer.com/motion/",
+                    "https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5"
+                ]
+            },
+            {
+                "title": "Mock data generation",
+                "links": [
+                    "https://mockaroo.com/",
+                    "https://picsum.photos/",
+                    "https://randomuser.me/api/"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Mathematics",
+        "links": [
+            "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+            "https://anvaka.github.io/fieldplay",
+            "https://eater.net/quaternions",
+            "https://en.wikibooks.org/wiki/High_School_Mathematics_Extensions",
+            "https://chaos-equations.glitch.me/?p=VNYAVO",
+            "https://conceptviz.github.io/",
+            "https://www.3blue1brown.com/",
+            "http://www.coloring-book.co/",
+            "http://www.jezzamon.com/fourier/",
+            "https://visualizingmath.tumblr.com/"
+        ]
+    },
+    {
+        "title": "Game Theory",
+        "links": [
+            "https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM",
+            "https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation",
+            "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678",
+            "https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1"
+        ]
+    },
+    {
+        "title": "General science",
+        "links": [
+            "https://www.evogeneao.com/explore/tree-of-life-explorer"
+        ]
+    },
+    {
+        "title": "Complexity science",
+        "links": [
+            "https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile",
+            "https://www.complex-systems.com/archives/",
+            "https://www.santafe.edu"
+        ]
+    },
+    {
+        "title": "Datasets and APIs",
+        "links": [
+            "https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/",
+            "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
+            "https://www.yelp.com/dataset/challenge",
+            "https://ai.google/tools/datasets/",
+            "https://www.kaggle.com/datasets",
+            "https://ai.google.com/research/NaturalQuestions",
+            "https://research.google.com/youtube8m/",
+            "https://storage.googleapis.com/openimages/web/index.html",
+            "http://storage.googleapis.com/books/ngrams/books/datasetsv2.html",
+            "http://snap.stanford.edu/data/#amazon",
+            "http://storage.googleapis.com/books/ngrams/books/datasetsv2.html",
+            "https://ai.google/tools/datasets/",
+            "https://www.data.gov/",
+            "https://www.internetlivestats.com/",
+            "https://www.shodan.io/",
+            "https://developers.google.com/books/docs/v1/getting_started",
+            "http://genemania.org/",
+            "http://www.enron-mail.com/email/skilling-j/"
+        ]
+    },
+    {
+        "title": "Other websites and articles",
+        "links": [
+            "https://thevaluable.dev/abstraction_software_development/",
+            "https://numinous.productions/ttft/",
+            "https://archive.is/Zqi9H",
+            "https://distill.pub/",
+            "http://binvis.io/#/",
+            "https://artofproblemsolving.com",
+            "https://clementmihailescu.github.io/Pathfinding-Visualizer/#",
+            "http://frankforce.com/?p=6378",
+            "https://fvcproductions.github.io/hire-me/#/",
+            "https://opensource.guide/",
+            "https://ocw.mit.edu/courses/find-by-topic",
+            "https://devhints.io/",
+            "https://mythbusters.js.org/#/",
+            "https://github.com/busterbenson/public/blob/master/book-of-beliefs.md",
+            "https://curiosity-driven.org/",
+            "https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/",
+            "https://en.wikipedia.org/wiki/Higher-order_thinking",
+            "https://en.wikipedia.org/wiki/Integrative_complexity",
+            "https://en.wikipedia.org/wiki/Fluid_and_crystallized_intelligence",
+            "https://explorabl.es/",
+            "http://worrydream.com/ClimateChange/",
+            "https://www.ventusky.com/?p=46.7;10.3;4&l=temperature-2m",
+            "https://opensource.guide/legal/"
+        ]
+    },
+    {
+        "title": "Projects and apps",
+        "links": [
+            "https://github.com/taniarascia/takenote",
+            "https://www.gitbook.com/",
+            "https://commonsstack.org/",
+            "https://getcruise.com/",
+            "https://www.gitpod.io/",
+            "https://streamr.network/",
+            "https://www.typora.io/",
+            "https://mightyapp.com/",
+            "https://tracelabs.io/",
+            "https://github.com/santiq/bulletproof-nodejs",
+            "https://elastos.academy/",
+            "https://treum.io/",
+            "https://www.openlaw.io/",
+            "https://miro.com/",
+            "https://gitcoin.co/",
+            "https://foam.space/",
+            "https://enigma.co/",
+            "https://www.elastos.org/",
+            "https://humanetech.com/",
+            "https://github.com/devhubapp/devhub",
+            "https://www.balena.io/etcher/"
+        ]
+    },
+    {
+        "title": "Cool designs",
+        "links": [
+            "https://mindfuldesign.xyz/",
+            "https://dogstudio.co/",
+            "https://github.com/Cuberto/liquid-swipe"
+        ]
+    },
+    {
+        "title": "Cool Visualizations",
+        "links": [
+            "https://butterchurnviz.com/",
+            "https://kepler.gl/",
+            "https://www.youtube.com/watch?v=vKYRdmg7lzk",
+            "https://threejs.org/examples/webgl_kinect.html",
+            "https://threejs.org/examples/#webgl_points_waves"
+        ]
+    },
+    {
+        "title": "Blogs",
+        "links": [
+            "https://www.taniarascia.com/",
+            "https://www.tedinski.com/",
+            "https://scipython.com",
+            "https://jaredforsyth.com/",
+            "https://peeke.nl/",
+            "https://colah.github.io/",
+            "https://medium.com/react-in-depth",
+            "https://softwareontheroad.com/",
+            "https://devconnected.com/",
+            "https://www.rdegges.com/",
+            "https://codewithhugo.com/",
+            "https://busterbenson.com/",
+            "https://openai.com/blog/",
+            "https://engineering.microsoft.com/",
+            "https://www.vodovnik.com/",
+            "https://www.atlassian.com/blog",
+            "https://scotch.io/",
+            "https://blog.twitter.com/engineering/en_us.html",
+            "https://martinfowler.com/articles/microservices.html",
+            "https://blog.risingstack.com/",
+            "https://www.joelonsoftware.com/",
+            "https://gear.dev/blog/",
+            "http://frozeman.de/blog/",
+            "https://statecharts.github.io/",
+            "https://docs.microsoft.com/en-us/azure/devops/learn/",
+            "https://softwareengineeringdaily.com/",
+            "https://overreacted.io/",
+            "https://makeitopen.com/"
+        ]
+    },
+    {
+        "title": "Books",
+        "links": [
+            "http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/",
+            "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/",
+            "https://www.goodreads.com/book/show/405614.Distributed_Systems",
+            "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures",
+            "https://www.goodreads.com/book/show/15857473-signals-and-boundaries",
+            "https://www.goodreads.com/book/show/2296.Emergence",
+            "https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation",
+            "https://www.goodreads.com/book/show/259947.The_Complexity_of_Cooperation",
+            "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight",
+            "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets",
+            "https://www.goodreads.com/book/show/64582.Chaos",
+            "https://www.goodreads.com/book/show/869836.How_Nature_Works",
+            "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219",
+            "https://www.goodreads.com/book/show/896539.Emergence",
+            "https://www.goodreads.com/book/show/587906.Deep_Simplicity",
+            "https://www.goodreads.com/book/show/497570.Cosmic_Evolution",
+            "https://press.princeton.edu/titles/7104.html",
+            "https://www.goodreads.com/book/show/1762728.Chaos_And_Harmony",
+            "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
+            "https://www.goodreads.com/book/show/39088592-the-model-thinker",
+            "https://www.goodreads.com/book/show/41580312-be-here-now"
+        ]
+    }
+]

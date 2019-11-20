@@ -8,6 +8,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 ## <a name="contents"></a>Contents
 
+- [Other lists](#other-lists)
 - [Computer science](#computer-science)
 	- [Theories and Concepts](#theories-and-concepts)
 	- [Programming](#programming)
@@ -32,7 +33,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Blogs](#blogs)
 - [Books](#books)
 
-## <a name="computer-science"></a>Other awesome lists
+## <a name="other-lists"></a>Other awesome lists
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) -  A curated list of awesome explorable explanations.
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 
