@@ -10,6 +10,7 @@ export default function () {
   const [loading, setLoading] = useState(true);
   const [treeData, setTreeData] = useState(null);
   const [metaData, setMetaData] = useState(null);
+  const [searchPattern, setSearchPattern] = useState('');
   const [matchedTreeData, setMatchedTreeData] = useState([]);
 
 
@@ -73,12 +74,14 @@ export default function () {
         title={data.title}
         description={data.description}
         image={data.image}
+        searchPattern={searchPattern}
       />
     )
   }
 
   function onSearchInput (e) {
     let searchPattern = e.target.value;
+    setSearchPattern(searchPattern);
     if (searchPattern === '') {
       return setMatchedTreeData(treeData);
     }
@@ -135,7 +138,7 @@ const Container = styled.div`
 `;
 
 const Body = styled.div`
-  width: 50%;
+  width: 60%;
   text-align: center;
   @media (max-width: 1000px) {
     width: 70%;
@@ -149,12 +152,12 @@ const LinksContainer = styled.div`
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
 `;
 
 const Section = styled.div`
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-direction: column;
   margin: 30px 0;
 `;
 
