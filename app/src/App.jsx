@@ -8,15 +8,15 @@ import search from "./search";
 export default function () {
 
   const [loading, setLoading] = useState(true);
-  const [treeData, setTreeData] = useState(null);
-  const [metaData, setMetaData] = useState(null);
+  const [treeData, setTreeData] = useState({});
+  const [metaData, setMetaData] = useState({});
   const [searchPattern, setSearchPattern] = useState('');
   const [matchedTreeData, setMatchedTreeData] = useState([]);
 
 
   useEffect(() => {
     const fetchData = async () => {
-      if (process.env.NODE_ENV === 'development') {
+      if (process.env.REACT_APP_USE_OFFLINE) {
         setTreeData(require('./data/tree.json'));
         setMatchedTreeData(require('./data/tree.json'));
         setMetaData(require('./data/meta.json'));
@@ -27,7 +27,6 @@ export default function () {
       setTreeData(treeDataResponse);
       setMatchedTreeData(treeDataResponse);
       setMetaData(metaDataResponse);
-      setLoading(false);
     };
     fetchData().then(r => setLoading(false));
   }, []);
@@ -98,6 +97,9 @@ export default function () {
     if (data === undefined) {
       return console.log(`Data not found for ${link}`);
     }
+    if (data.title === undefined) {
+      return console.log(`Title not found for ${link}`);
+    }
     return (
       <Card
         url={link}
@@ -116,7 +118,7 @@ async function get (url) {
 }
 
 function apiUrl (file) {
-  return `https://raw.githubusercontent.com/bartolomej/cool-links/react-migration/data/${file}`;
+  return `https://raw.githubusercontent.com/bartolomej/cool-links/master/data/${file}`;
 }
 
 const SearchInput = styled.input`
@@ -146,8 +148,7 @@ const Header = styled.div`
   padding: 80px;
   border-bottom: 2px dotted palevioletred;
   @media (max-width: 800px) {
-    width: unset;
-    padding: 70px 30px 30px;
+    padding: 70px 10px 30px;
   }
 `;
 

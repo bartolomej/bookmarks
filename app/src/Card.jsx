@@ -2,10 +2,13 @@ import React from 'react';
 import styled from "styled-components";
 
 
-export default function ({ url, title, image, description, searchPattern }) {
+export default function ({ url, title, image, description, searchPattern = '' }) {
   const defaultImage = 'website-logo.svg';
   function onHover (e) {
-    console.log(title, description);
+    console.log(url, title, description);
+  }
+  if (title === undefined) {
+    console.log(`undefined title for: ${url}`)
   }
   return (
     <Container onMouseEnter={onHover} target="_blank" href={url}>
@@ -22,9 +25,9 @@ export default function ({ url, title, image, description, searchPattern }) {
 
 function highlightText (text, pattern) {
   if (text === undefined) return text;
-  if (pattern === '') return text.substring(0, 80) + '...';
+  if (pattern === '') return formatText(text);
   let match = text.match(new RegExp(pattern, 'i'));
-  if (match === null) return text.substring(0, 80) + '...';
+  if (match === null) return formatText(text);
   let matchIndex = match.index;
   return (
     <div>
@@ -33,6 +36,15 @@ function highlightText (text, pattern) {
       <span>{text.substring(matchIndex + pattern.length, text.length)}</span>
     </div>
   )
+}
+
+function formatText (text) {
+  const LENGTH_LIMIT = 80;
+  if (text.length <= LENGTH_LIMIT) {
+    return text;
+  } else {
+    return text.substring(0, LENGTH_LIMIT) + '...';
+  }
 }
 
 const Title = styled.h3`
@@ -44,6 +56,7 @@ const Description = styled.p`
 `;
 
 const Image = styled.img`
+  flex: 1;
   width: 150px;
   font-size: 10px;
 `;
