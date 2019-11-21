@@ -37,8 +37,8 @@ export default function (tree, metadata, searchPattern) {
         continue;
       }
       if (
-        new RegExp(searchPattern).test(data.title) ||
-        new RegExp(searchPattern).test(data.description)
+        new RegExp(searchPattern, 'i').test(data.title) ||
+        new RegExp(searchPattern, 'i').test(data.description)
       ) {
         links.push(...section.links.slice(j, j + 1))
       }

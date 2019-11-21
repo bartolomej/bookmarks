@@ -3,9 +3,17 @@ import styled from "styled-components";
 
 
 export default function ({ url, title, image, description, searchPattern }) {
+  const defaultImage = 'website-logo.svg';
+  function onHover (e) {
+    console.log(title, description);
+  }
   return (
-    <Container target="_blank" href={url}>
-      <Image src={image} alt={title}/>
+    <Container onMouseEnter={onHover} target="_blank" href={url}>
+      <Image
+        src={image ? image : defaultImage}
+        alt={title}
+        onerror={`if (this.src != '${defaultImage}') this.src = '${defaultImage}';`}
+      />
       <Title>{highlightText(title, searchPattern)}</Title>
       <Description>{highlightText(description, searchPattern)}</Description>
     </Container>
@@ -14,9 +22,9 @@ export default function ({ url, title, image, description, searchPattern }) {
 
 function highlightText (text, pattern) {
   if (text === undefined) return text;
-  if (pattern === '') return text;
-  let match = text.match(new RegExp(pattern));
-  if (match === null) return text;
+  if (pattern === '') return text.substring(0, 80) + '...';
+  let match = text.match(new RegExp(pattern, 'i'));
+  if (match === null) return text.substring(0, 80) + '...';
   let matchIndex = match.index;
   return (
     <div>

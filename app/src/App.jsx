@@ -32,6 +32,37 @@ export default function () {
     fetchData().then(r => setLoading(false));
   }, []);
 
+  function onSearchInput (e) {
+    setLoading(true);
+    let searchPattern = e.target.value;
+    setSearchPattern(searchPattern);
+    if (searchPattern === '') {
+      setLoading(false);
+      return setMatchedTreeData(treeData);
+    }
+    let nextTree = search(treeData, metaData, searchPattern);
+    setMatchedTreeData(nextTree);
+    setLoading(false);
+  }
+
+  return (
+    <Container>
+      {loading && (
+        <LoadingContainer>
+          <h1>Loading....</h1>
+        </LoadingContainer>
+      )}
+      <SearchInput onChange={onSearchInput} type="text" placeholder="Search ..."/>
+      <Header>
+        <h1>Cool links 💾📚📖</h1>
+        <p>Links of different interesting ideas, resources, blogs, articles, books etc.</p>
+      </Header>
+      <Body>
+        {matchedTreeData.map(renderSection)}
+      </Body>
+    </Container>
+  );
+
   function renderSection (section) {
     if (!section.subsections) {
       return (
@@ -65,8 +96,7 @@ export default function () {
   function renderLink (link) {
     let data = metaData[link];
     if (data === undefined) {
-      console.log(`Data not found for ${link}`);
-      return;
+      return console.log(`Data not found for ${link}`);
     }
     return (
       <Card
@@ -78,34 +108,6 @@ export default function () {
       />
     )
   }
-
-  function onSearchInput (e) {
-    let searchPattern = e.target.value;
-    setSearchPattern(searchPattern);
-    if (searchPattern === '') {
-      return setMatchedTreeData(treeData);
-    }
-    let nextTree = search(treeData, metaData, searchPattern);
-    setMatchedTreeData(nextTree);
-  }
-
-  if (loading) {
-    return <h1>Loading....</h1>;
-  }
-
-  return (
-    <Container>
-
-      <Header>
-        <SearchInput onChange={onSearchInput} type="text" placeholder="Search ..."/>
-      </Header>
-
-      <Body>
-        {matchedTreeData.map(renderSection)}
-      </Body>
-
-    </Container>
-  );
 }
 
 async function get (url) {
@@ -120,21 +122,33 @@ function apiUrl (file) {
 const SearchInput = styled.input`
   outline: none;
   padding: 10px;
-  border-radius: 15px;
+  border-radius: 20px;
   border: 2px solid palevioletred;
   font-weight: bold;
   font-size: 12px;
-`;
-
-const Header = styled.div`
   position: fixed;
   top: 10px;
   right: 10px;
 `;
 
+const LoadingContainer = styled.div`
+  position: fixed;
+  top: 50%;
+  left: 50%;
+`;
+
+const Header = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 80px;
+`;
+
 const Container = styled.div`
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 `;
 
 const Body = styled.div`
