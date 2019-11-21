@@ -139,10 +139,16 @@ const LoadingContainer = styled.div`
 
 const Header = styled.div`
   display: flex;
+  width: 100vw;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 80px;
+  padding: 80px;
+  border-bottom: 2px dotted palevioletred;
+  @media (max-width: 800px) {
+    width: unset;
+    padding: 70px 30px 30px;
+  }
 `;
 
 const Container = styled.div`
@@ -158,7 +164,7 @@ const Body = styled.div`
     width: 70%;
   }
   @media (max-width: 800px) {
-    width: 90%;
+    width: 100%;
   }
 `;
 
