@@ -2,6 +2,7 @@
 
 [comment]: <> (TODO: split topics into multiple files)
 [comment]: <> (TODO: mark each link with tags)
+[comment]: <> (TODO: add quality projects from github starred repos)
 
 Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
