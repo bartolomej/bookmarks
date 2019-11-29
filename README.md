@@ -34,6 +34,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Books](#books)
 
 ## <a name="other-lists"></a>Other awesome lists
+- [Awesome Open Source contributing resources for Beginners](https://github.com/MunGell/awesome-for-beginners)
 - [Developer Resources](https://free-for.dev/#/)
 - [Awesome React Components](https://nicedoc.io/brillout/awesome-react-components?theme=light#user-content-table--data-grid)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) -  A curated list of awesome explorable explanations.
@@ -343,6 +344,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
 
+- [Kent C. Dodds](https://kentcdodds.com/blog)
 - [Tania Rascia](https://www.taniarascia.com/)
 - [Ted Kaminski](https://www.tedinski.com/) - developer blog
 - [Scientific programming with Python](https://scipython.com)

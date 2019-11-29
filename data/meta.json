@@ -1,4 +1,11 @@
 {
+    "https://github.com/MunGell/awesome-for-beginners": {
+        "url": "https://github.com/MunGell/awesome-for-beginners",
+        "title": "GitHub - MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "A list of awesome beginners-friendly projects. Contribute to MunGell/awesome-for-beginners development by creating an account on GitHub.",
+        "image": "https://avatars2.githubusercontent.com/u/812976?s=400&v=4"
+    },
     "https://free-for.dev/#/": {
         "url": "https://free-for.dev/#/",
         "title": "Free for developers"
@@ -962,7 +969,7 @@
     "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html": {
         "url": "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
         "title": "Driving Dataset > Audi Electronics Venture",
-        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191113051335/cms4i-nemo/assets/icons/favicon/favicon.png"
+        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191113054128/cms4i-nemo/assets/icons/favicon/favicon.png"
     },
     "https://www.yelp.com/dataset/challenge": {
         "url": "https://www.yelp.com/dataset/challenge",
@@ -1273,6 +1280,11 @@
         "url": "https://www.elastos.org/",
         "title": "Elastos | Welcome to the Modern Internet"
     },
+    "https://humanetech.com/": {
+        "url": "https://humanetech.com/",
+        "title": "Center for Humane Technology: Realigning Technology with Humanity",
+        "description": "We are a nonprofit addressing the harmful extractive attention economy by inspiring a new race to build Humane Technology that aligns with humanity."
+    },
     "https://github.com/devhubapp/devhub": {
         "url": "https://github.com/devhubapp/devhub",
         "title": "GitHub - devhubapp/devhub: TweetDeck for GitHub - Issues, Activities & Notifications - Web, Mobile & Desktop",
@@ -1333,6 +1345,12 @@
     "https://threejs.org/examples/#webgl_points_waves": {
         "url": "https://threejs.org/examples/#webgl_points_waves",
         "title": "three.js examples"
+    },
+    "https://kentcdodds.com/blog": {
+        "url": "https://kentcdodds.com/blog",
+        "title": "Kent C. Dodds",
+        "description": "Come check out how Kent C. Dodds can help you level up your career as a software engineer.",
+        "image": "https://kentcdodds.com/static/metaImage-a10bc5908ac36d2832d80fec74205556.jpg"
     },
     "https://www.taniarascia.com/": {
         "url": "https://www.taniarascia.com/",
@@ -1461,6 +1479,12 @@
         "title": "Welcome to the world of Statecharts - Statecharts",
         "description": "The world of statecharts describes what statecharts are, their benefits and drawbacks, how they differ from state machines, and practical examples on how to use them."
     },
+    "https://softwareengineeringdaily.com/": {
+        "url": "https://softwareengineeringdaily.com/",
+        "title": "Software Engineering Daily",
+        "icon": "https://softwareengineeringdaily.com/wp-content/uploads/fbrfg/favicon-32x32.png?v=PYYeqgEwMA",
+        "image": "http://softwareengineeringdaily.com/wp-content/uploads/2015/08/sed_logo_updated.png"
+    },
     "https://overreacted.io/": {
         "url": "https://overreacted.io/",
         "title": "Overreacted — A blog by Dan Abramov",
@@ -1486,9 +1510,57 @@
         "url": "http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/",
         "title": "An Introduction to Object-Oriented Programmind, 3e"
     },
+    "https://www.goodreads.com/book/show/405614.Distributed_Systems": {
+        "url": "https://www.goodreads.com/book/show/405614.Distributed_Systems",
+        "title": "Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum",
+        "description": "Distributed Systems book. Read 16 reviews from the world's largest community for readers. Virtually every computing system today is part of a distributed...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347701966i/405614._UY630_SR1200,630_.jpg"
+    },
+    "https://www.goodreads.com/book/show/15857473-signals-and-boundaries": {
+        "url": "https://www.goodreads.com/book/show/15857473-signals-and-boundaries",
+        "title": "Signals and Boundaries: Building Blocks for Complex Adaptive Systems by John H. Holland",
+        "description": "Signals and Boundaries book. Read 9 reviews from the world's largest community for readers. Complex adaptive systems (cas), including ecosystems, governm...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355031544i/15857473._UY630_SR1200,630_.jpg"
+    },
+    "https://www.goodreads.com/book/show/2296.Emergence": {
+        "url": "https://www.goodreads.com/book/show/2296.Emergence",
+        "title": "Emergence: The Connected Lives of Ants, Brains, Cities, and Software by Steven Johnson",
+        "description": "Emergence book. Read 235 reviews from the world's largest community for readers. In the tradition of Being Digital and The Tipping Point, Steven Johnson,...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294786433i/2296._UY630_SR1200,630_.jpg"
+    },
+    "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight": {
+        "url": "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight",
+        "title": "Worlds Hidden in Plain Sight: The Evolving Idea of Complexity at the Santa Fe Institute, 1984–2019 by David C. Krakauer",
+        "description": "Worlds Hidden in Plain Sight book. Read 2 reviews from the world's largest community for readers. Over the last three decades, the Santa Fe Institute and...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557435815i/45700960._UY630_SR1200,630_.jpg"
+    },
+    "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets": {
+        "url": "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets",
+        "title": "The (Mis)Behavior of Markets by Benoît B. Mandelbrot",
+        "description": "The (Mis)Behavior of Markets book. Read 185 reviews from the world's largest community for readers. Benoit B. Mandelbrot, one of the century's most influ...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387705519i/665134._UY630_SR1200,630_.jpg"
+    },
+    "https://www.goodreads.com/book/show/64582.Chaos": {
+        "url": "https://www.goodreads.com/book/show/64582.Chaos",
+        "title": "Chaos: Making a New Science by James Gleick",
+        "description": "Chaos book. Read 879 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941595i/64582._UY630_SR1200,630_.jpg"
+    },
+    "https://www.goodreads.com/book/show/869836.How_Nature_Works": {
+        "url": "https://www.goodreads.com/book/show/869836.How_Nature_Works",
+        "title": "How Nature Works: The Science of Self-Organized Criticality by Per Bak",
+        "description": "How Nature Works book. Read 23 reviews from the world's largest community for readers. and acknowledgments Self-organized criticality is a new way of vie...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510770i/869836._UY630_SR1200,630_.jpg"
+    },
     "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219": {
         "url": "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219",
         "title": "Robot Check"
+    },
+    "https://www.goodreads.com/book/show/896539.Emergence": {
+        "url": "https://www.goodreads.com/book/show/896539.Emergence",
+        "title": "Emergence: From Chaos To Order by John H. Holland",
+        "description": "Emergence book. Read 9 reviews from the world's largest community for readers. In this important book, John H. Holland dramatically shows us that the “em...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347554812i/896539._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/587906.Deep_Simplicity": {
         "url": "https://www.goodreads.com/book/show/587906.Deep_Simplicity",

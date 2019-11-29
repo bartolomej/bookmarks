@@ -18,12 +18,6 @@ export default function () {
 
   useEffect(() => {
     const fetchData = async () => {
-      if (process.env.REACT_APP_USE_OFFLINE) {
-        setTreeData(require('./data/tree.json'));
-        setMatchedTreeData(require('./data/tree.json'));
-        setMetaData(require('./data/meta.json'));
-        return;
-      }
       const treeDataResponse = await get(apiUrl('tree.json'));
       const metaDataResponse = await get(apiUrl('meta.json'));
       setTreeData(treeDataResponse);

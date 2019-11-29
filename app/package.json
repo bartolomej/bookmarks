@@ -13,7 +13,6 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start-offline": "REACT_APP_USE_OFFLINE=true npm start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
