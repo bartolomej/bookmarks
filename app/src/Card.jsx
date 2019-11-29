@@ -12,13 +12,19 @@ export default function ({ url, title, image, description, searchPattern = '' })
   }
   return (
     <Container onMouseEnter={onHover} target="_blank" href={url}>
-      <Image
-        src={image ? image : defaultImage}
-        alt={title}
-        onerror={`if (this.src != '${defaultImage}') this.src = '${defaultImage}';`}
-      />
-      <Title>{highlightText(title, searchPattern)}</Title>
-      <Description>{highlightText(description, searchPattern)}</Description>
+      <ImageContainer>
+        <Image
+          src={image ? image : defaultImage}
+          alt={title}
+          onerror={`if (this.src != '${defaultImage}') this.src = '${defaultImage}';`}
+        />
+      </ImageContainer>
+      <DetailsContainer>
+        {/* if title doesn't exist display url */}
+        {title === '' && <Title>{url}</Title>}
+        <Title>{highlightText(title, searchPattern)}</Title>
+        <Description>{highlightText(description, searchPattern)}</Description>
+      </DetailsContainer>
     </Container>
   )
 }
@@ -48,26 +54,55 @@ function formatText (text) {
 }
 
 const Title = styled.h3`
-  font-size: 14px;
+  font-size: 16px;
+  color: black;
 `;
 
 const Description = styled.p`
-  font-size: 11px;
+  font-size: 12px;
+  color: grey;
 `;
 
 const Image = styled.img`
   flex: 1;
   width: 150px;
   font-size: 10px;
+  border-radius: 20px;
+`;
+
+const DetailsContainer = styled.div`
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  white-space: pre-wrap;
+  margin-top: 8px;
+`;
+
+const ImageContainer = styled.div`
+  display: flex;
+  flex: 2;
+  justify-content: center;
+  align-items: center;
 `;
 
 const Container = styled.a`
   display: flex;
+  border-radius: 30px;
+  border: 2px solid rgba(128,128,128,0.57);
   flex-direction: column;
   align-items: center;
   text-decoration: none;
   width: 200px;
-  padding: 10px;
-  margin: 5px;
+  padding: 20px;
+  margin: 10px;
   color: black;
+  img {
+    transition: all .2s ease-in-out;
+  }
+  &:hover {
+    border-color: palevioletred;
+    img {
+      transform: scale(1.1);
+    }
+  }
 `;

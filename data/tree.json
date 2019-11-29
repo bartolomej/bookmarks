@@ -2,6 +2,8 @@
     {
         "title": "Other awesome lists",
         "links": [
+            "https://free-for.dev/#/",
+            "https://nicedoc.io/brillout/awesome-react-components?theme=light#user-content-table--data-grid",
             "https://github.com/sp4ke/awesome-explorables",
             "https://github.com/jpantunes/awesome-cryptoeconomics"
         ]
@@ -54,6 +56,7 @@
             {
                 "title": "Code practises, patterns, tutorials and tips",
                 "links": [
+                    "https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/",
                     "https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html",
                     "https://fluffy.es/free-up-mac-storage/",
                     "https://chris.beams.io/posts/git-commit/",
@@ -85,6 +88,7 @@
             {
                 "title": "Frameworks and tools",
                 "links": [
+                    "https://github.com/src-d/hercules",
                     "https://github.com/facebook/docusaurus",
                     "https://www.react-spring.io/",
                     "https://github.com/3b1b/manim",
@@ -144,6 +148,7 @@
             {
                 "title": "Web 3.0",
                 "links": [
+                    "https://dorg.gitbook.io/-/our-organization/values-and-operating-principles",
                     "https://liviade.gitbook.io/genesisdao/",
                     "https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8",
                     "https://daotalk.org/t/resource-list-dao-creation-design/522",
@@ -303,6 +308,7 @@
     {
         "title": "Projects and apps",
         "links": [
+            "https://fermatslibrary.com/margins",
             "https://github.com/taniarascia/takenote",
             "https://www.gitbook.com/",
             "https://commonsstack.org/",

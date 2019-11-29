@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "transform": "node ./index.js",
+    "update-data": "node ./index.js",
     "test": "jest test"
   },
   "author": "Bartolomej Kozorog",

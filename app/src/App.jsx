@@ -3,6 +3,8 @@ import './index.css';
 import styled from 'styled-components';
 import Card from "./Card";
 import search from "./search";
+import githubLogo from './assets/github.png';
+import { ReactComponent as ArrowAsset } from "./assets/arrow.svg";
 
 
 export default function () {
@@ -46,17 +48,21 @@ export default function () {
 
   return (
     <Container>
-      {loading && (
-        <LoadingContainer>
-          <h1>Loading....</h1>
-        </LoadingContainer>
-      )}
       <SearchInput onChange={onSearchInput} type="text" placeholder="Search ..."/>
+      <GitHubLogo href="https://github.com/bartolomej/cool-links" target="_blank">
+        <img src={githubLogo} alt="GitHub logo"/>
+      </GitHubLogo>
       <Header>
         <h1>Cool links 💾📚📖</h1>
         <p>Links of different interesting ideas, resources, blogs, articles, books etc.</p>
+        <ArrowSvg/>
       </Header>
       <Body>
+        {loading && (
+          <LoadingContainer>
+            <h1>Loading....</h1>
+          </LoadingContainer>
+        )}
         {matchedTreeData.map(renderSection)}
       </Body>
     </Container>
@@ -121,6 +127,33 @@ function apiUrl (file) {
   return `https://raw.githubusercontent.com/bartolomej/cool-links/master/data/${file}`;
 }
 
+const ArrowSvg = styled(ArrowAsset)`
+  height: 100px;
+  padding-top: 150px;
+  animation: slide-down-up 3s ease-in-out .1s infinite;
+  #arrowPath {
+    fill: white;
+  }
+  @keyframes slide-down-up {
+    0% {
+        transform: translateY(-30%);
+    }
+    50% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-30%);
+    }
+}
+`;
+
+const Container = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-x: hidden;
+`;
+
 const SearchInput = styled.input`
   outline: none;
   padding: 10px;
@@ -133,10 +166,17 @@ const SearchInput = styled.input`
   right: 10px;
 `;
 
-const LoadingContainer = styled.div`
-  position: fixed;
-  top: 50%;
-  left: 50%;
+const GitHubLogo = styled.a`
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  &:hover {
+    transform: rotate(360deg);
+    transition: transform 0.5s ease-in-out;
+  }
+  img {
+    height: 50px;
+  }
 `;
 
 const Header = styled.div`
@@ -145,21 +185,29 @@ const Header = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 80px;
-  border-bottom: 2px dotted palevioletred;
+  text-align: center;
+  height: 100vh;
+  color: white;
+  background-color: palevioletred;
+  h1 {
+    margin: 20px;
+  }
   @media (max-width: 800px) {
     padding: 70px 10px 30px;
   }
 `;
 
-const Container = styled.div`
+const LoadingContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  h1 {
+    padding-top: 40%;
+  }
 `;
 
 const Body = styled.div`
-  width: 60%;
+  width: 50%;
   text-align: center;
   @media (max-width: 1000px) {
     width: 70%;
@@ -179,24 +227,28 @@ const LinksContainer = styled.div`
 const Section = styled.div`
   display: flex;
   flex-direction: column;
-  margin: 30px 0;
+  padding: 50px 0;
 `;
 
 const Subsection = styled.div`
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  text-align: left;
   flex-wrap: wrap;
-  margin: 10px 0;
+  margin: 20px 0;
+  @media (max-width: 800px) {
+    text-align: center;
+  }
 `;
 
 const SectionTitle = styled.h2`
   color: palevioletred;
-  font-size: 1.5em;
+  font-size: 2em;
   margin: 20px auto 10px;
 `;
 
 const SubsectionTitle = styled.h3`
   color: palevioletred;
-  font-size: 1em;
+  font-size: 1.1em;
   margin: 10px;
 `;

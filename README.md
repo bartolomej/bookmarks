@@ -34,6 +34,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Books](#books)
 
 ## <a name="other-lists"></a>Other awesome lists
+- [Developer Resources](https://free-for.dev/#/)
+- [Awesome React Components](https://nicedoc.io/brillout/awesome-react-components?theme=light#user-content-table--data-grid)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) -  A curated list of awesome explorable explanations.
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 
@@ -74,6 +76,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
 #### <a name="practises">Code practises, patterns, tutorials and tips
+- [Git commit practises](https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/)
 - [Faster feedback loops while coding](https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html)
 - [Free up Mac disk storage](https://fluffy.es/free-up-mac-storage/)
 - [How to write a Git commit message](https://chris.beams.io/posts/git-commit/)
@@ -101,6 +104,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 #### <a name="frameworks-and-tools">Frameworks and tools
 
+- [Hercules](https://github.com/src-d/hercules) - git repo deep insights
 - [Docusaurus](https://github.com/facebook/docusaurus) - open source docs websites
 - [React spring](https://www.react-spring.io/) - spring animation primitives
 - [Manim](https://github.com/3b1b/manim) - Manim is an animation engine for explanatory math videos
@@ -156,6 +160,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="web3">Web 3.0
+- [dOrg handbook](https://dorg.gitbook.io/-/our-organization/values-and-operating-principles)
 - [Introduction to DAOstack](https://liviade.gitbook.io/genesisdao/)
 - [Game Theoretic perspective on Ethereum](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8)
 - [DAO creation & design resources](https://daotalk.org/t/resource-list-dao-creation-design/522)
@@ -297,6 +302,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="projects-and-apps">Projects and apps
 *[&#8593; top](#contents)*
 
+- [Fermats Library tool](https://fermatslibrary.com/margins) - Save, annotate and share your papers with anyone.
 - [TakeNote](https://github.com/taniarascia/takenote) - web based note taking app
 - [GitBook](https://www.gitbook.com/) - Document Everything
 - [The Commons Stack](https://commonsstack.org/)
