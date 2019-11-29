@@ -104,6 +104,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 #### <a name="frameworks-and-tools">Frameworks and tools
 
+- [Slate](https://github.com/ianstormtaylor/slate) - framework for building rich text editors
 - [Hercules](https://github.com/src-d/hercules) - git repo deep insights
 - [Docusaurus](https://github.com/facebook/docusaurus) - open source docs websites
 - [React spring](https://www.react-spring.io/) - spring animation primitives
@@ -375,6 +376,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="books">Books
 *[&#8593; top](#contents)*
 
+- [Contemporary Calculus](http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html)
+- [The Nature of the Firm](https://www.goodreads.com/book/show/3067311-the-nature-of-the-firm)
 - [An Introduction to Object-Oriented Programming](http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/)
 - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 - [Distributed Systems: Principles and Paradigms](https://www.goodreads.com/book/show/405614.Distributed_Systems)

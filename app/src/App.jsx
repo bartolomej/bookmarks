@@ -33,6 +33,20 @@ export default function () {
     fetchData().then(r => setLoading(false));
   }, []);
 
+  function getMatches () {
+    let count = 0;
+    for (let s of matchedTreeData) {
+      if (!s.subsections) {
+        count += s.links.length;
+        continue;
+      }
+      for (let sub of s.subsections) {
+        count += sub.links.length;
+      }
+    }
+    return count;
+  }
+
   function onSearchInput (e) {
     setLoading(true);
     let searchPattern = e.target.value;
@@ -46,9 +60,13 @@ export default function () {
     setLoading(false);
   }
 
+  const searchMatchesCount = getMatches();
   return (
     <Container>
-      <SearchInput onChange={onSearchInput} type="text" placeholder="Search ..."/>
+      <SearchWrapper>
+        <input onChange={onSearchInput} type="text" placeholder="Search ..."/>
+        {searchMatchesCount && (<span><b>{searchMatchesCount}</b> matches</span>)}
+      </SearchWrapper>
       <GitHubLogo href="https://github.com/bartolomej/cool-links" target="_blank">
         <img src={githubLogo} alt="GitHub logo"/>
       </GitHubLogo>
@@ -154,16 +172,22 @@ const Container = styled.div`
   overflow-x: hidden;
 `;
 
-const SearchInput = styled.input`
-  outline: none;
-  padding: 10px;
-  border-radius: 20px;
-  border: 2px solid palevioletred;
-  font-weight: bold;
-  font-size: 12px;
+const SearchWrapper = styled.div`
   position: fixed;
   top: 10px;
   right: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  color: palevioletred;
+  input {
+    outline: none;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid palevioletred;
+    font-weight: bold;
+    font-size: 12px;
+  }
 `;
 
 const GitHubLogo = styled.a`
@@ -191,6 +215,10 @@ const Header = styled.div`
   background-color: palevioletred;
   h1 {
     margin: 20px;
+    font-size: 3em;
+  }
+  p {
+    font-size: 1em;
   }
   @media (max-width: 800px) {
     padding: 70px 10px 30px;

@@ -76,6 +76,7 @@ const DetailsContainer = styled.div`
   flex-direction: column;
   white-space: pre-wrap;
   margin-top: 8px;
+  overflow-wrap: break-word;
 `;
 
 const ImageContainer = styled.div`

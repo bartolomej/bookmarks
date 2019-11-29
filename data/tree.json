@@ -88,6 +88,7 @@
             {
                 "title": "Frameworks and tools",
                 "links": [
+                    "https://github.com/ianstormtaylor/slate",
                     "https://github.com/src-d/hercules",
                     "https://github.com/facebook/docusaurus",
                     "https://www.react-spring.io/",
@@ -386,6 +387,8 @@
     {
         "title": "Books",
         "links": [
+            "http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html",
+            "https://www.goodreads.com/book/show/3067311-the-nature-of-the-firm",
             "http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/",
             "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/",
             "https://www.goodreads.com/book/show/405614.Distributed_Systems",
