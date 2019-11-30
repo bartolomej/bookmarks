@@ -2,6 +2,9 @@
     {
         "title": "Other awesome lists",
         "links": [
+            "https://creative-portfolios.now.sh/",
+            "https://github.com/sdras/awesome-actions",
+            "https://github.com/danistefanovic/build-your-own-x",
             "https://github.com/MunGell/awesome-for-beginners",
             "https://free-for.dev/#/",
             "https://nicedoc.io/brillout/awesome-react-components?theme=light#user-content-table--data-grid",
@@ -21,14 +24,24 @@
                 ]
             },
             {
+                "title": "Programming Languages",
+                "links": [
+                    "https://github.com/golang/go/wiki/LearnServerProgramming",
+                    "https://nodejs.dev/",
+                    "https://github.com/airbnb/javascript",
+                    "https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/",
+                    "https://github.com/mattdesl/module-best-practices",
+                    "https://github.com/mattdesl/promise-cookbook"
+                ]
+            },
+            {
                 "title": "Programming",
                 "links": [
+                    "https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/",
                     "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/",
-                    "https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/",
                     "https://designingprograms.bitbucket.io/index.html",
                     "https://github.com/mame/quine-relay",
                     "https://addyosmani.com/largescalejavascript/",
-                    "https://github.com/airbnb/javascript",
                     "https://dev.to/sahilrajput/useful-websites-for-programmers-36k",
                     "https://lab.github.com/",
                     "https://12factor.net/",
@@ -45,6 +58,12 @@
                 ]
             },
             {
+                "title": "Beautiful codebases",
+                "links": [
+                    "https://github.com/pugjs/pug"
+                ]
+            },
+            {
                 "title": "AI and Machine Learning",
                 "links": [
                     "https://aijs.rocks/",
@@ -57,6 +76,7 @@
             {
                 "title": "Code practises, patterns, tutorials and tips",
                 "links": [
+                    "https://firstcontributions.github.io/",
                     "https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/",
                     "https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html",
                     "https://fluffy.es/free-up-mac-storage/",
@@ -89,6 +109,7 @@
             {
                 "title": "Frameworks and tools",
                 "links": [
+                    "https://xstate.js.org/docs/",
                     "https://github.com/ianstormtaylor/slate",
                     "https://github.com/src-d/hercules",
                     "https://github.com/facebook/docusaurus",
@@ -150,6 +171,8 @@
             {
                 "title": "Web 3.0",
                 "links": [
+                    "https://tendermint.com/",
+                    "https://github.com/ConsenSys/ethereum-developer-tools-list",
                     "https://dorg.gitbook.io/-/our-organization/values-and-operating-principles",
                     "https://liviade.gitbook.io/genesisdao/",
                     "https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8",
@@ -188,12 +211,17 @@
             {
                 "title": "Graphic Design",
                 "links": [
+                    "https://icons8.com/ouch/",
+                    "https://www.drawkit.io/",
+                    "https://www.freepik.com/free-vectors/illustrations",
+                    "https://undraw.co/",
                     "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
                     "https://mobile.twitter.com/i/moments/994601867987619840",
                     "http://bradfrost.com/blog/post/atomic-web-design/",
                     "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886",
                     "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914",
-                    "https://search.muz.li/inspiration/mobile-app-design-inspiration/"
+                    "https://search.muz.li/inspiration/mobile-app-design-inspiration/",
+                    "https://www.figma.com/"
                 ]
             },
             {
@@ -349,7 +377,8 @@
             "https://kepler.gl/",
             "https://www.youtube.com/watch?v=vKYRdmg7lzk",
             "https://threejs.org/examples/webgl_kinect.html",
-            "https://threejs.org/examples/#webgl_points_waves"
+            "https://threejs.org/examples/#webgl_points_waves",
+            "https://anvaka.github.io/pm/#/?_k=qupjwr"
         ]
     },
     {
@@ -389,6 +418,7 @@
     {
         "title": "Books",
         "links": [
+            "https://eloquentjavascript.net/",
             "http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html",
             "https://www.goodreads.com/book/show/3067311-the-nature-of-the-firm",
             "http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/",

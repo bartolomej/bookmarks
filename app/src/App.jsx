@@ -224,7 +224,7 @@ const LoadingContainer = styled.div`
   flex-direction: column;
   align-items: center;
   h1 {
-    padding-top: 40%;
+    padding: 40% 0;
   }
 `;
 

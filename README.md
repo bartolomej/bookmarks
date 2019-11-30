@@ -12,7 +12,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Other lists](#other-lists)
 - [Computer science](#computer-science)
 	- [Theories and Concepts](#theories-and-concepts)
+    - [Programming Languages](#programming-languages)
 	- [Programming](#programming)
+	- [Beautiful codebases](#beautiful-codebases)
 	- [AI and Machine learning](#ai)
 	- [Code practises, patterns, tutorials and tips](#practises)
 	- [Example projects](#example-projects)
@@ -35,6 +37,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Books](#books)
 
 ## <a name="other-lists"></a>Other awesome lists
+- [Creative Portfolios](https://creative-portfolios.now.sh/)
+- [Awesome GitHub actions](https://github.com/sdras/awesome-actions)
+- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [Awesome Open Source contributing resources for Beginners](https://github.com/MunGell/awesome-for-beginners)
 - [Developer Resources](https://free-for.dev/#/)
 - [Awesome React Components](https://nicedoc.io/brillout/awesome-react-components?theme=light#user-content-table--data-grid)
@@ -49,13 +54,20 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Markov chains explained visually](http://setosa.io/ev/markov-chains/)
 - [Quantum computing for the curious](https://quantum.country/qcvc)
 
-#### <a name="programming">Programming
-- [Crash Course in JIT](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
+#### <a name="programming-languages">Programming Languages
+- [Learn server-side programming in Go](https://github.com/golang/go/wiki/LearnServerProgramming)
+- [Introduction to Nodejs](https://nodejs.dev/)
+- [JavaScript style guide](https://github.com/airbnb/javascript)
 - [How JavaScript Works](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/)
+- [JavaScript module best practises](https://github.com/mattdesl/module-best-practices)
+- [JavaScript promises cookbook](https://github.com/mattdesl/promise-cookbook)
+
+#### <a name="programming">Programming
+- [Implementing a simple compiler](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
+- [Crash Course in JIT](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 - [Designing Programs](https://designingprograms.bitbucket.io/index.html) - Practical and pedagogical approach to programming
 - [Quine Relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [Large scale JavaScript applications article](https://addyosmani.com/largescalejavascript/)
-- [JavaScript style guide](https://github.com/airbnb/javascript)
 - [Useful resources](https://dev.to/sahilrajput/useful-websites-for-programmers-36k) - collection of resources for programmers
 - [GitHub learning lab](https://lab.github.com/)
 - [The twelve-factor](https://12factor.net/) - methodology for building software-as-a-service apps
@@ -70,6 +82,10 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [GitHub flow](https://guides.github.com/introduction/flow/)
 - [Git flow by Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
+#### <a name="beautiful-codebases">Beautiful codebases
+- [Pug](https://github.com/pugjs/pug)
+
+
 #### <a name="ai">AI and Machine Learning
 - [aijs.rocks](https://aijs.rocks/) - A curated collection of inspirational AI-powered JavaScript apps
 - [ANN Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
@@ -78,6 +94,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
 #### <a name="practises">Code practises, patterns, tutorials and tips
+- [First contributions to Open Source](https://firstcontributions.github.io/)
 - [Git commit practises](https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/)
 - [Faster feedback loops while coding](https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html)
 - [Free up Mac disk storage](https://fluffy.es/free-up-mac-storage/)
@@ -105,7 +122,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
-
+- [XState finite state machine and state charts for the web](https://xstate.js.org/docs/)
 - [Slate](https://github.com/ianstormtaylor/slate) - framework for building rich text editors
 - [Hercules](https://github.com/src-d/hercules) - git repo deep insights
 - [Docusaurus](https://github.com/facebook/docusaurus) - open source docs websites
@@ -163,6 +180,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="web3">Web 3.0
+- [Tenderming - tools for distributed networks](https://tendermint.com/)
+- [Ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
 - [dOrg handbook](https://dorg.gitbook.io/-/our-organization/values-and-operating-principles)
 - [Introduction to DAOstack](https://liviade.gitbook.io/genesisdao/)
 - [Game Theoretic perspective on Ethereum](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8)
@@ -194,12 +213,17 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="graphic-design">Graphic Design
+- [Icons8 free illustrations](https://icons8.com/ouch/)
+- [DrawKit collection of SVG illustrations](https://www.drawkit.io/)
+- [FreePik free illustrations](https://www.freepik.com/free-vectors/illustrations)
+- [Undraw open source illustrations](https://undraw.co/)
 - [Introduction to Design Systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
 - [Design Tips](https://mobile.twitter.com/i/moments/994601867987619840)
 - [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [UI / UX design guide](https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
 - [Mobile UI design examples](https://search.muz.li/inspiration/mobile-app-design-inspiration/)
+- [Free design & prototyping tool](https://www.figma.com/)
 
 #### <a name="reactjs">React.js
 - [styled-components](https://www.styled-components.com/)
@@ -340,7 +364,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Music Visualization](https://www.youtube.com/watch?v=vKYRdmg7lzk)
 - [WebGL Kinect](https://threejs.org/examples/webgl_kinect.html) - Three.js example
 - [WebGL Particle Waves](https://threejs.org/examples/#webgl_points_waves) - Three.js example
-
+- [Package Managers visualizations](https://anvaka.github.io/pm/#/?_k=qupjwr)
 
 ## <a name="blogs">Blogs
 *[&#8593; top](#contents)*
@@ -378,7 +402,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 ## <a name="books">Books
 *[&#8593; top](#contents)*
-
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Contemporary Calculus](http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html)
 - [The Nature of the Firm](https://www.goodreads.com/book/show/3067311-the-nature-of-the-firm)
 - [An Introduction to Object-Oriented Programming](http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/)

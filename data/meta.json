@@ -1,4 +1,22 @@
 {
+    "https://creative-portfolios.now.sh/": {
+        "url": "https://creative-portfolios.now.sh/",
+        "title": "Creative Portfolios"
+    },
+    "https://github.com/sdras/awesome-actions": {
+        "url": "https://github.com/sdras/awesome-actions",
+        "title": "GitHub - sdras/awesome-actions: A curated list of awesome actions to use on GitHub",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "A curated list of awesome actions to use on GitHub - sdras/awesome-actions",
+        "image": "https://avatars3.githubusercontent.com/u/2281088?s=400&v=4"
+    },
+    "https://github.com/danistefanovic/build-your-own-x": {
+        "url": "https://github.com/danistefanovic/build-your-own-x",
+        "title": "GitHub - danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "🤓 Build your own (insert technology here). Contribute to danistefanovic/build-your-own-x development by creating an account on GitHub.",
+        "image": "https://avatars0.githubusercontent.com/u/1736595?s=400&v=4"
+    },
     "https://github.com/MunGell/awesome-for-beginners": {
         "url": "https://github.com/MunGell/awesome-for-beginners",
         "title": "GitHub - MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.",
@@ -50,17 +68,57 @@
         "description": "Presented in an experimental mnemonic medium that makes it almost effortless to remember what you read",
         "image": "https://quantum.country/assets/social.png"
     },
-    "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/": {
-        "url": "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/",
-        "title": "A crash course in just-in-time (JIT) compilers - Mozilla Hacks - the Web developer blog",
-        "description": "This is the second part in a series on WebAssembly and what makes it fast. If you haven’t read the others, we recommend starting from the beginning. JavaScript started out ...",
-        "image": "https://hacks.mozilla.org/wp-content/themes/Hax/img/hacks-meta-image.jpg"
+    "https://github.com/golang/go/wiki/LearnServerProgramming": {
+        "url": "https://github.com/golang/go/wiki/LearnServerProgramming",
+        "title": "LearnServerProgramming · golang/go Wiki · GitHub",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "The Go programming language. Contribute to golang/go development by creating an account on GitHub.",
+        "image": "https://avatars3.githubusercontent.com/u/4314092?s=400&v=4"
+    },
+    "https://nodejs.dev/": {
+        "url": "https://nodejs.dev/",
+        "title": "Introduction to Node.js",
+        "description": "Getting started guide to Node.js, the server-side JavaScript runtime environment. Node.js is built on top of the Google Chrome V8 JavaScript engine, and it's mainly used to create web servers - but it's not limited to just that.",
+        "image": "https://nodejs.org/static/images/logo-hexagon-card.png"
+    },
+    "https://github.com/airbnb/javascript": {
+        "url": "https://github.com/airbnb/javascript",
+        "title": "GitHub - airbnb/javascript: JavaScript Style Guide",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "JavaScript Style Guide. Contribute to airbnb/javascript development by creating an account on GitHub.",
+        "image": "https://avatars0.githubusercontent.com/u/698437?s=400&v=4"
     },
     "https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/": {
         "url": "https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/",
         "title": "How JavaScript works: Optimizing the V8 compiler for efficiency - LogRocket Blog",
         "description": "A guide to compiler-friendly Javascript optimization methods to help front-end devs write more efficient Javascript and reduce slowdowns.",
         "image": "https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/09/V8-Javascript-engine-nocdn.png?fit=730%2C412&ssl=1"
+    },
+    "https://github.com/mattdesl/module-best-practices": {
+        "url": "https://github.com/mattdesl/module-best-practices",
+        "title": "GitHub - mattdesl/module-best-practices: some best practices for JS modules",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": ":books: some best practices for JS modules. Contribute to mattdesl/module-best-practices development by creating an account on GitHub.",
+        "image": "https://avatars2.githubusercontent.com/u/1383811?s=400&v=4"
+    },
+    "https://github.com/mattdesl/promise-cookbook": {
+        "url": "https://github.com/mattdesl/promise-cookbook",
+        "title": "GitHub - mattdesl/promise-cookbook: a brief introduction to using Promises in JavaScript",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": ":orange_book: a brief introduction to using Promises in JavaScript - mattdesl/promise-cookbook",
+        "image": "https://avatars2.githubusercontent.com/u/1383811?s=400&v=4"
+    },
+    "https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/": {
+        "url": "https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/",
+        "title": "Implementing a Simple Compiler on 25 Lines of JavaScript · Minko Gechev's blog",
+        "description": "I already wrote a couple of essays related to the development of programming languages that I was extremely excited about! For instance, in “Static Code Analysis of Angular 2 and TypeScript Projects“[1] I explored the basics of the front end of the compilers, explaining the phases of lexical analysis, syntax analysis and abstract-syntax trees.\nRecently I published “Developing Statically Typed Programming Language“[2]. This post shown a simple, statically typed, functional programming language inspired by lambda calculus.",
+        "image": "https://blog.mgechev.com/images/myself.jpg"
+    },
+    "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/": {
+        "url": "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/",
+        "title": "A crash course in just-in-time (JIT) compilers - Mozilla Hacks - the Web developer blog",
+        "description": "This is the second part in a series on WebAssembly and what makes it fast. If you haven’t read the others, we recommend starting from the beginning. JavaScript started out ...",
+        "image": "https://hacks.mozilla.org/wp-content/themes/Hax/img/hacks-meta-image.jpg"
     },
     "https://designingprograms.bitbucket.io/index.html": {
         "url": "https://designingprograms.bitbucket.io/index.html",
@@ -79,13 +137,6 @@
         "url": "https://addyosmani.com/largescalejavascript/",
         "title": "Patterns For Large-Scale JavaScript Application Architecture",
         "author": "Addy Osmani"
-    },
-    "https://github.com/airbnb/javascript": {
-        "url": "https://github.com/airbnb/javascript",
-        "title": "GitHub - airbnb/javascript: JavaScript Style Guide",
-        "icon": "https://github.githubassets.com/favicon.ico",
-        "description": "JavaScript Style Guide. Contribute to airbnb/javascript development by creating an account on GitHub.",
-        "image": "https://avatars0.githubusercontent.com/u/698437?s=400&v=4"
     },
     "https://dev.to/sahilrajput/useful-websites-for-programmers-36k": {
         "url": "https://dev.to/sahilrajput/useful-websites-for-programmers-36k",
@@ -154,6 +205,13 @@
         "description": "A deep dive into the Gitflow Workflow. Learn if this Git workflow is right for you and your team with this comprehensive tutorial. ",
         "author": "Atlassian"
     },
+    "https://github.com/pugjs/pug": {
+        "url": "https://github.com/pugjs/pug",
+        "title": "GitHub - pugjs/pug: Pug – robust, elegant, feature rich template engine for Node.js",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "Pug – robust, elegant, feature rich template engine for Node.js - pugjs/pug",
+        "image": "https://avatars2.githubusercontent.com/u/9338635?s=400&v=4"
+    },
     "https://aijs.rocks/": {
         "url": "https://aijs.rocks/",
         "title": "aijs.rocks",
@@ -182,6 +240,10 @@
         "url": "http://cs231n.github.io/convolutional-networks/",
         "title": "CS231n Convolutional Neural Networks for Visual Recognition",
         "description": "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition."
+    },
+    "https://firstcontributions.github.io/": {
+        "url": "https://firstcontributions.github.io/",
+        "title": "First Contributions"
     },
     "https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/": {
         "url": "https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/",
@@ -320,6 +382,11 @@
         "icon": "https://github.githubassets.com/favicon.ico",
         "description": "💁‍♀️❤️📰 Frontend for the Supporter platform. Contribute to guardian/support-frontend development by creating an account on GitHub.",
         "image": "https://avatars0.githubusercontent.com/u/164318?s=400&v=4"
+    },
+    "https://xstate.js.org/docs/": {
+        "url": "https://xstate.js.org/docs/",
+        "title": "XState Docs",
+        "description": "Documentation for XState: State Machines and Statecharts for the Modern Web"
     },
     "https://github.com/ianstormtaylor/slate": {
         "url": "https://github.com/ianstormtaylor/slate",
@@ -629,6 +696,18 @@
         "description": "At Google, we think that AI can meaningfully improve people’s lives and that the biggest impact will come when everyone can access it. Learn more about our projects and tools.",
         "image": "https://ai.google/static/images/share.png"
     },
+    "https://tendermint.com/": {
+        "url": "https://tendermint.com/",
+        "title": "Tendermint",
+        "description": "Building the most powerful tools for distributed networks."
+    },
+    "https://github.com/ConsenSys/ethereum-developer-tools-list": {
+        "url": "https://github.com/ConsenSys/ethereum-developer-tools-list",
+        "title": "GitHub - ConsenSys/ethereum-developer-tools-list: A guide to available tools and platforms for developing on Ethereum.",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "A guide to available tools and platforms for developing on Ethereum. - ConsenSys/ethereum-developer-tools-list",
+        "image": "https://avatars1.githubusercontent.com/u/10818037?s=400&v=4"
+    },
     "https://dorg.gitbook.io/-/our-organization/values-and-operating-principles": {
         "url": "https://dorg.gitbook.io/-/our-organization/values-and-operating-principles",
         "title": "Values & Operating Principles - dOrg Handbook",
@@ -753,8 +832,7 @@
     },
     "https://graphcommons.com/": {
         "url": "https://graphcommons.com/",
-        "title": "\n                Graph Commons – Map networks together\n        ",
-        "description": "Graph Commons is a collaborative platform for making, analyzing and publishing network maps."
+        "title": ""
     },
     "http://textexture.com": {
         "url": "http://textexture.com",
@@ -763,6 +841,32 @@
     "http://astrangertowords.com/": {
         "url": "http://astrangertowords.com/",
         "title": ""
+    },
+    "https://icons8.com/ouch/": {
+        "url": "https://icons8.com/ouch/",
+        "title": "Free vector illustrations – Ouch.pics",
+        "icon": "https://icons8.com/vue-static/ouch/favs/ouch_fav_16x16.png",
+        "description": "Ouch helps creators who don’t draw overcome the lack of quality graphics. Download the free illustrations from top Dribbble artists to class up your product."
+    },
+    "https://www.drawkit.io/": {
+        "url": "https://www.drawkit.io/",
+        "title": "DrawKit - Beautiful free illustrations",
+        "description": "MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!",
+        "image": "https://uploads-ssl.webflow.com/5bcb46130508ef456a7b2930/5bcdef83d44cf459d171d6a7_og-image.png"
+    },
+    "https://www.freepik.com/free-vectors/illustrations": {
+        "url": "https://www.freepik.com/free-vectors/illustrations",
+        "title": "Illustrations vectors, +314,000 free files in .AI, .EPS format",
+        "icon": "https://freepik.cdnpk.net/img/favicons/favicon-32x32.png?v=2018082101",
+        "description": "Free Illustrations vectors: download now the most popular Illustrations vectors on Freepik. Free resources for both personal and commercial use",
+        "image": "https://image.freepik.com/free-vector/vector-illustration-cosmonaut_1441-11.jpg"
+    },
+    "https://undraw.co/": {
+        "url": "https://undraw.co/",
+        "title": "unDraw",
+        "icon": "https://undraw.co/favicon-32x32.png?v=pgqYQdw7OR",
+        "description": "Open-source illustrations for every project you can imagine and create.",
+        "image": "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/assets/share_new.jpg"
     },
     "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/": {
         "url": "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
@@ -969,7 +1073,7 @@
     "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html": {
         "url": "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
         "title": "Driving Dataset > Audi Electronics Venture",
-        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191113054128/cms4i-nemo/assets/icons/favicon/favicon.png"
+        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191113051335/cms4i-nemo/assets/icons/favicon/favicon.png"
     },
     "https://www.yelp.com/dataset/challenge": {
         "url": "https://www.yelp.com/dataset/challenge",
@@ -1346,6 +1450,12 @@
         "url": "https://threejs.org/examples/#webgl_points_waves",
         "title": "three.js examples"
     },
+    "https://anvaka.github.io/pm/#/?_k=qupjwr": {
+        "url": "https://anvaka.github.io/pm/#/?_k=qupjwr",
+        "title": "Code Galaxies Visualization",
+        "image": "http://raw.githubusercontent.com/wiki/anvaka/pm/images/nuget_fly_first.png",
+        "author": "Andrei Kashcha"
+    },
     "https://kentcdodds.com/blog": {
         "url": "https://kentcdodds.com/blog",
         "title": "Kent C. Dodds",
@@ -1496,6 +1606,10 @@
         "description": "Building the F8 App",
         "image": "https://makeitopen.com/images/f8app-2017-app.png"
     },
+    "https://eloquentjavascript.net/": {
+        "url": "https://eloquentjavascript.net/",
+        "title": "Eloquent JavaScript"
+    },
     "http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html": {
         "url": "http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html",
         "title": "Calculus, Contemporary Calculus, Hoffman"
@@ -1516,6 +1630,12 @@
         "description": "Distributed Systems book. Read 16 reviews from the world's largest community for readers. Virtually every computing system today is part of a distributed...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347701966i/405614._UY630_SR1200,630_.jpg"
     },
+    "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures": {
+        "url": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures",
+        "title": "Building Evolutionary Architectures: Support Constant Change by Neal Ford",
+        "description": "Building Evolutionary Architectures book. Read 54 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507020307i/35755822._UY630_SR1200,630_.jpg"
+    },
     "https://www.goodreads.com/book/show/15857473-signals-and-boundaries": {
         "url": "https://www.goodreads.com/book/show/15857473-signals-and-boundaries",
         "title": "Signals and Boundaries: Building Blocks for Complex Adaptive Systems by John H. Holland",
@@ -1527,6 +1647,12 @@
         "title": "Emergence: The Connected Lives of Ants, Brains, Cities, and Software by Steven Johnson",
         "description": "Emergence book. Read 235 reviews from the world's largest community for readers. In the tradition of Being Digital and The Tipping Point, Steven Johnson,...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294786433i/2296._UY630_SR1200,630_.jpg"
+    },
+    "https://www.goodreads.com/book/show/259947.The_Complexity_of_Cooperation": {
+        "url": "https://www.goodreads.com/book/show/259947.The_Complexity_of_Cooperation",
+        "title": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration by Robert Axelrod",
+        "description": "The Complexity of Cooperation book. Read 10 reviews from the world's largest community for readers. Robert Axelrod's extraordinary book, The Evolution o...",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388358876i/259947._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight": {
         "url": "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight",
