@@ -88,8 +88,9 @@ const ImageContainer = styled.div`
 
 const Container = styled.a`
   display: flex;
-  border-radius: 30px;
-  border: 2px solid rgba(128,128,128,0.57);
+  border-radius: 20px;
+  border: 2px solid white;
+  background-color: white;
   flex-direction: column;
   align-items: center;
   text-decoration: none;
@@ -104,6 +105,9 @@ const Container = styled.a`
     border-color: palevioletred;
     img {
       transform: scale(1.1);
+    }
+    h3 {
+      color: palevioletred;
     }
   }
 `;

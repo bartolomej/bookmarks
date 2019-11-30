@@ -213,6 +213,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="graphic-design">Graphic Design
+- [SVG background patterns](https://www.svgbackgrounds.com/)
 - [Icons8 free illustrations](https://icons8.com/ouch/)
 - [DrawKit collection of SVG illustrations](https://www.drawkit.io/)
 - [FreePik free illustrations](https://www.freepik.com/free-vectors/illustrations)
