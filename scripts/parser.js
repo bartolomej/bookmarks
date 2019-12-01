@@ -9,10 +9,7 @@ module.exports = function (markdown) {
       output.push(parseSection(sections[s]));
     } else {
       let subsections = sections[s].split('\n#### ');
-      let section = {
-        title: subsections[0].substring(subsections[0].indexOf('</a>') + 4, subsections[0].indexOf('\n')),
-        subsections: []
-      };
+      let section = {...parseSection(sections[s]), links: undefined, subsections: []};
       // start at index 1 - leave out section title
       for (let i = 1; i < subsections.length; i++) {
         section.subsections.push(parseSection(subsections[i]))
@@ -24,7 +21,7 @@ module.exports = function (markdown) {
 };
 
 function parseSection (input) {
-  let section = { title: '', links: [] };
+  let section = { title: '', name: '', links: [] };
   const lines = input.split('\n');
   const startTitleIndex1 = input.indexOf('</a>');
   const startTitleIndex2 = input.indexOf('>');
@@ -35,6 +32,15 @@ function parseSection (input) {
     section.title = lines[0].substring(startTitleIndex2 + 1);
   } else {
     throw new Error(`Expected <a> tag in section: \n${input}`);
+  }
+  // parse name attribute value
+  const attr = 'name="';
+  const startNameIndex1 = input.indexOf(attr);
+  const endNameIndex = input.indexOf('"', startTitleIndex2-1);
+  if (startNameIndex1 > 0) {
+    section.name = lines[0].substring(startNameIndex1 + attr.length, endNameIndex)
+  } else {
+    throw new Error(`Expected "name" attribute in section: \n${input}`);
   }
   // if contents link found remove line from array
   if (/#contents/.test(lines[1])) {

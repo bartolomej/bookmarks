@@ -656,13 +656,6 @@
         "title": "The little book about OS development",
         "author": "Erik Helin, Adam Renberg"
     },
-    "https://github.com/sos-os/kernel": {
-        "url": "https://github.com/sos-os/kernel",
-        "title": "GitHub - sos-os/kernel: The Stupid Operating System",
-        "icon": "https://github.githubassets.com/favicon.ico",
-        "description": "The Stupid Operating System. Contribute to sos-os/kernel development by creating an account on GitHub.",
-        "image": "https://avatars1.githubusercontent.com/u/36111461?s=400&v=4"
-    },
     "https://ericsink.com/scm/source_control.html": {
         "url": "https://ericsink.com/scm/source_control.html",
         "title": "Source Control HOWTO"
@@ -832,7 +825,8 @@
     },
     "https://graphcommons.com/": {
         "url": "https://graphcommons.com/",
-        "title": ""
+        "title": "\n                Graph Commons – Map networks together\n        ",
+        "description": "Graph Commons is a collaborative platform for making, analyzing and publishing network maps."
     },
     "http://textexture.com": {
         "url": "http://textexture.com",
@@ -841,6 +835,13 @@
     "http://astrangertowords.com/": {
         "url": "http://astrangertowords.com/",
         "title": ""
+    },
+    "https://www.svgbackgrounds.com/": {
+        "url": "https://www.svgbackgrounds.com/",
+        "title": "Create Customizable, Hi-Def, and Scalable Backgrounds",
+        "icon": "https://www.svgbackgrounds.com/favicon-32x32.png",
+        "description": "SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.",
+        "image": "https://svgbackgrounds.com/img/fb-svg-backgrounds.png"
     },
     "https://icons8.com/ouch/": {
         "url": "https://icons8.com/ouch/",
@@ -881,7 +882,7 @@
     },
     "http://bradfrost.com/blog/post/atomic-web-design/": {
         "url": "http://bradfrost.com/blog/post/atomic-web-design/",
-        "title": "  Atomic Design",
+        "title": "  Atomic Design | Brad Frost",
         "description": "Hey there! I wrote a book called Atomic Design that dives into this topic in more detail, which you can buy as an ebook.\nWe’re not designing pages, we’re designing systems of components.—Stephen Hay\nAs the craft of Web design continues to evolve, we're recognizing the need to develop thoughtful de",
         "image": "http://bradfrost.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-13-at-5.15.05-PM.png"
     },
@@ -1073,7 +1074,7 @@
     "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html": {
         "url": "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
         "title": "Driving Dataset > Audi Electronics Venture",
-        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191113051335/cms4i-nemo/assets/icons/favicon/favicon.png"
+        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191113054128/cms4i-nemo/assets/icons/favicon/favicon.png"
     },
     "https://www.yelp.com/dataset/challenge": {
         "url": "https://www.yelp.com/dataset/challenge",
@@ -1574,6 +1575,12 @@
         "description": "Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.",
         "image": "https://blog.risingstack.com/content/images/2018/02/risingstack-blog-metapic.png"
     },
+    "https://www.joelonsoftware.com/": {
+        "url": "https://www.joelonsoftware.com/",
+        "title": "Joel on Software",
+        "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
+        "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1"
+    },
     "https://gear.dev/blog/": {
         "url": "https://gear.dev/blog/",
         "title": "Jon Gear",
@@ -1715,7 +1722,7 @@
     "https://www.goodreads.com/book/show/3828902-thinking-in-systems": {
         "url": "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
         "title": "Thinking in Systems: A Primer by Donella H. Meadows",
-        "description": "Thinking in Systems book. Read 594 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
+        "description": "Thinking in Systems book. Read 596 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859i/3828902._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/39088592-the-model-thinker": {

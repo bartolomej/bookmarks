@@ -15,14 +15,14 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 \t- [Theories and Concepts](#theories-and-concepts)
 \t- [Programming](#programming)
 
-## <a name="computer-science"></a>Other awesome lists
+## <a name="other-lists"></a>Other awesome lists
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) -  A curated list of awesome explorable explanations.
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 
 ## <a name="computer-science"></a>Computer science
 *[&#8593; top](#contents)*
 
-#### <a name="theories-and-conceprs"></a>Theories and concepts
+#### <a name="theories-and-concepts"></a>Theories and concepts
 - [DAO](https://github.com/the-dao/whitepaper) - Decentralized Autonomous Organisation
 - [Markov chains explained visually](http://setosa.io/ev/markov-chains/)
 - [Quantum computing for the curious](https://quantum.country/qcvc)
@@ -44,6 +44,7 @@ it('should parse markdown', function () {
   expect(parsed).toEqual([
     {
       title: 'Other awesome lists',
+      name: 'other-lists',
       links: [
         'https://github.com/sp4ke/awesome-explorables',
         'https://github.com/jpantunes/awesome-cryptoeconomics'
@@ -51,9 +52,11 @@ it('should parse markdown', function () {
     },
     {
       title: 'Computer science',
+      name: 'computer-science',
       subsections: [
         {
           title: 'Theories and concepts',
+          name: 'theories-and-concepts',
           links: [
             'https://github.com/the-dao/whitepaper',
             'http://setosa.io/ev/markov-chains/',
@@ -62,6 +65,7 @@ it('should parse markdown', function () {
         },
         {
           title: 'Programming',
+          name: 'programming',
           links: [
             'https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/',
             'https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/',
@@ -72,6 +76,7 @@ it('should parse markdown', function () {
     },
     {
       title: 'Other websites and articles',
+      name: 'websites-and-articles',
       links: [
         'https://thevaluable.dev/abstraction_software_development/'
       ]
