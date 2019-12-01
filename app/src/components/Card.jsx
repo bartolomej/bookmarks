@@ -11,7 +11,7 @@ export default function ({ url, title, image, description, searchPattern = '' })
     console.log(`undefined title for: ${url}`)
   }
   return (
-    <Container onMouseEnter={onHover} target="_blank" href={url}>
+    <Container key={url} id={url} onMouseEnter={onHover} target="_blank" href={url}>
       <ImageContainer>
         <Image
           src={image ? image : defaultImage}
