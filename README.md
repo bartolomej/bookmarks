@@ -26,7 +26,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 	- [Reactjs](#reactjs)
 	- [Mock data generation](#mock-data-generation)
 - [Graphic Design](#graphic-design)
+	- [Design Resources](design-resources)
 	- [Fonts](#fonts)
+	- [Cool Designs](cool-designs)
 - [Mathematics](#mathematics)
 - [Game Theory](#creativity)
 - [Complexity science](#complexity-science)
@@ -230,7 +232,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="graphic-design">Graphic Design
 *[&#8593; top](#contents)*
 
-- [Awwwards](https://www.awwwards.com/)
+#### <a name="fonts">Design assets
 - [Design assets for Figma](https://www.motive.studio/shop)
 - [Burst](https://burst.shopify.com/)
 - [Unsplash](https://unsplash.com/)
@@ -244,12 +246,14 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [FreePik free illustrations](https://www.freepik.com/free-vectors/illustrations)
 - [Undraw open source illustrations](https://undraw.co/)
 - [Introduction to Design Systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
+- [Free design & prototyping tool](https://www.figma.com/)
+
+#### <a name="design-resources">Design Resources
 - [Design Tips](https://mobile.twitter.com/i/moments/994601867987619840)
 - [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [UI / UX design guide](https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
-- [Mobile UI design examples](https://search.muz.li/inspiration/mobile-app-design-inspiration/)
-- [Free design & prototyping tool](https://www.figma.com/)
+
 
 #### <a name="fonts">Fonts
 - [Raleway](https://fonts.google.com/specimen/Raleway)
@@ -260,6 +264,13 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Prompt](https://fonts.google.com/specimen/Prompt)
 - [Assistant](http://fonts.google.com/specimen/Assistant)
 - [Noto Sans SC](https://fonts.google.com/specimen/Noto+Sans+SC)
+
+#### <a name="cool-designs">Cool Designs
+- [Awwwards](https://www.awwwards.com/)
+- [Mobile UI design examples](https://search.muz.li/inspiration/mobile-app-design-inspiration/)
+- [Mindfull Design](https://mindfuldesign.xyz/) - Book website
+- [dogstudio](https://dogstudio.co/) - Cool 3D rendering on website
+- [Liquid swipe animation](https://github.com/Cuberto/liquid-swipe)
 	
 ## <a name="mathematics">Mathematics
 *[&#8593; top](#contents)*
@@ -374,12 +385,6 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [HumaneTech](https://humanetech.com/) - Center for Humane Tech
 - [DevHub](https://github.com/devhubapp/devhub) - Github notification manager
 - [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives
-
-
-## <a name="design">Cool designs
-- [Mindfull Design](https://mindfuldesign.xyz/) - Book website
-- [dogstudio](https://dogstudio.co/) - Cool 3D rendering on website
-- [Liquid swipe animation](https://github.com/Cuberto/liquid-swipe)
 	
 ## <a name="design">Cool Visualizations
 - [Music Visualizer](https://butterchurnviz.com/)

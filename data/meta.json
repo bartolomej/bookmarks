@@ -99,7 +99,7 @@
         "url": "https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/",
         "title": "How JavaScript works: Optimizing the V8 compiler for efficiency - LogRocket Blog",
         "description": "A guide to compiler-friendly Javascript optimization methods to help front-end devs write more efficient Javascript and reduce slowdowns.",
-        "image": "https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/09/V8-Javascript-engine-nocdn.png?fit=730%2C412&ssl=1"
+        "image": "https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2019/09/V8-Javascript-engine-nocdn.png?fit=730%2C412&ssl=1"
     },
     "https://github.com/mattdesl/module-best-practices": {
         "url": "https://github.com/mattdesl/module-best-practices",
@@ -333,7 +333,7 @@
     "https://repl.it/@cmihai/Oak-Programming-Language": {
         "url": "https://repl.it/@cmihai/Oak-Programming-Language",
         "title": "Repl.it - Oak Programming Language",
-        "description": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 50+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, Python, Nodejs, Enzyme, Go, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, bash, Quil, Crystal, Julia, Elixir, Nim, Dart, Reason NodeJs, Erlang, TypeScript, Pygame, Love2D, Tkinter, Java Swing, Emacs Lisp (Elisp), PHP Web Server, SQLite, Java, PHP CLI, Pyxel",
+        "description": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 50+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, Python, Nodejs, Enzyme, Go, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, Bash, Quil, Crystal, Julia, Elixir, Nim, Dart, Reason NodeJs, Erlang, TypeScript, Pygame, Love2D, Tkinter, Java Swing, Emacs Lisp (Elisp), PHP Web Server, SQLite, Java, PHP CLI, Pyxel",
         "image": "https://www.gravatar.com/avatar/566c4de899964c7361958054a7e1aa25?d=https://repl.it/public/images/evalbot/evalbot_24.png&s=256",
         "author": "repl.it"
     },
@@ -915,6 +915,112 @@
         "url": "https://randomuser.me/api/",
         "title": ""
     },
+    "https://www.motive.studio/shop": {
+        "url": "https://www.motive.studio/shop",
+        "title": "Design resources for Figma",
+        "description": "Professional web design, app design, product design."
+    },
+    "https://burst.shopify.com/": {
+        "url": "https://burst.shopify.com/",
+        "title": "Free Stock Photos: High-Res Images for Websites & Commercial Use",
+        "description": "Browse thousands of beautiful copyright-free images. All our pictures are free to download for personal and commercial use, no attribution required.\n",
+        "image": "https://cdn.shopifycloud.com/stock_photos/assets/global/burst-share-df978141accd818331ea8b59ac61c9f52dd7a1d26c96db143e3a2593298b00da.jpg"
+    },
+    "https://unsplash.com/": {
+        "url": "https://unsplash.com/",
+        "title": "Beautiful Free Images & Pictures | Unsplash",
+        "icon": "https://unsplash.com/favicon-32x32.png",
+        "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+        "image": "http://images.unsplash.com/photo-1558981420-c532902e58b4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
+        "author": "Unsplash"
+    },
+    "https://fontspark.app/": {
+        "url": "https://fontspark.app/",
+        "title": "FontSpark | Discover Better Fonts",
+        "description": "Helping designers discover the perfect font for their next design project.",
+        "image": "https://fontspark.app/assets/share.jpg"
+    },
+    "https://colorspark.app/": {
+        "url": "https://colorspark.app/",
+        "title": "ColorSpark | Discover Unique Colors & Gradients.",
+        "description": "A simple and effective tool that generates random colors and gradients to help designers put together unique and striking color palettes.",
+        "image": "https://colorspark.app/assets/img/share.jpg"
+    },
+    "https://www.freevector.com/": {
+        "url": "https://www.freevector.com/",
+        "title": "Free Vector Art & Graphics",
+        "description": "FreeVector.com is a place to download free vectors, icons, wallpapers  and brand logos. It is a creative source for design news, inspiration,  graphic resources and interviews"
+    },
+    "https://www.vexels.com/": {
+        "url": "https://www.vexels.com/",
+        "title": "Exclusive Vector Images, Illustrations & PNGs for Commercial Use | Vexels",
+        "description": "We create beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more. Download licensed graphic resources for Commercial & Merch Use in AI, JPG, SVG, PDF and PNG from our stock.",
+        "image": "https://images.vexels.com/img/assets/iso-vexels-black.png"
+    },
+    "https://www.svgbackgrounds.com/": {
+        "url": "https://www.svgbackgrounds.com/",
+        "title": "Create Customizable, Hi-Def, and Scalable Backgrounds",
+        "icon": "https://www.svgbackgrounds.com/favicon-32x32.png",
+        "description": "SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.",
+        "image": "https://svgbackgrounds.com/img/fb-svg-backgrounds.png"
+    },
+    "https://icons8.com/ouch/": {
+        "url": "https://icons8.com/ouch/",
+        "title": "Free vector illustrations – Ouch.pics",
+        "icon": "https://icons8.com/vue-static/ouch/favs/ouch_fav_16x16.png",
+        "description": "Ouch helps creators who don’t draw overcome the lack of quality graphics. Download the free illustrations from top Dribbble artists to class up your product."
+    },
+    "https://www.drawkit.io/": {
+        "url": "https://www.drawkit.io/",
+        "title": "DrawKit - Beautiful free illustrations",
+        "description": "MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!",
+        "image": "https://uploads-ssl.webflow.com/5bcb46130508ef456a7b2930/5bcdef83d44cf459d171d6a7_og-image.png"
+    },
+    "https://www.freepik.com/free-vectors/illustrations": {
+        "url": "https://www.freepik.com/free-vectors/illustrations",
+        "title": "Illustrations vectors, +315,000 free files in .AI, .EPS format",
+        "icon": "https://freepik.cdnpk.net/img/favicons/favicon-32x32.png?v=2018082101",
+        "description": "Free Illustrations vectors: download now the most popular Illustrations vectors on Freepik. Free resources for both personal and commercial use",
+        "image": "https://image.freepik.com/free-vector/vector-illustration-cosmonaut_1441-11.jpg"
+    },
+    "https://undraw.co/": {
+        "url": "https://undraw.co/",
+        "title": "unDraw",
+        "icon": "https://undraw.co/favicon-32x32.png?v=pgqYQdw7OR",
+        "description": "Open-source illustrations for every project you can imagine and create.",
+        "image": "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/assets/share_new.jpg"
+    },
+    "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/": {
+        "url": "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
+        "title": "Introduction to design systems | Storybook Tutorials",
+        "description": "A guide to the latest production-ready tools for design systems",
+        "image": "https://learnstorybook.com/design-systems-for-developers/opengraph-cover.jpg"
+    },
+    "https://mobile.twitter.com/i/moments/994601867987619840": {
+        "url": "https://mobile.twitter.com/i/moments/994601867987619840",
+        "title": "Twitter",
+        "icon": "https://ma.twimg.com/twitter-mobile/a8491f04da4e54be98cff3a86c58f23a770c26bd/images/favicon.ico"
+    },
+    "http://bradfrost.com/blog/post/atomic-web-design/": {
+        "url": "http://bradfrost.com/blog/post/atomic-web-design/",
+        "title": "  Atomic Design | Brad Frost",
+        "description": "Hey there! I wrote a book called Atomic Design that dives into this topic in more detail, which you can buy as an ebook.\nWe’re not designing pages, we’re designing systems of components.—Stephen Hay\nAs the craft of Web design continues to evolve, we're recognizing the need to develop thoughtful de",
+        "image": "http://bradfrost.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-13-at-5.15.05-PM.png"
+    },
+    "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886": {
+        "url": "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886",
+        "title": "7 Practical Tips for Cheating at Design - Refactoring UI - Medium",
+        "description": " Every web developer inevitably runs into situations where they need to make visual design decisions, whether they like it or not. Maybe the company you work for doesn’t have a full-time designer and…",
+        "image": "https://miro.medium.com/max/1200/1*2YuCOOCjdMEJxg-Lb6G2FA.png",
+        "author": "Adam Wathan & Steve Schoger"
+    },
+    "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914": {
+        "url": "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914",
+        "title": "UI/UX design guide with terms, explanations, tips and trends",
+        "description": " A longread aimed to gather all the theory about UX and UI design processes for creating web and mobile application design Originally I shared this guide to Syndicode blog to describe UI and UX…",
+        "image": "https://miro.medium.com/max/1024/1*9iH4E4au_LpP2WXmpisiUw.png",
+        "author": "Iren Korkishko"
+    },
     "https://fonts.google.com/specimen/Raleway": {
         "url": "https://fonts.google.com/specimen/Raleway",
         "title": "Google Fonts",
@@ -971,6 +1077,38 @@
         "description": "Making the web more beautiful, fast, and open through great typography",
         "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
     },
+    "https://www.awwwards.com/": {
+        "url": "https://www.awwwards.com/",
+        "title": "Awwwards - Website Awards - Best Web Design Trends",
+        "description": "Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.",
+        "image": "https://assets.awwwards.com/assets/images/pages/about-certificates/awwwards.jpg"
+    },
+    "https://search.muz.li/inspiration/mobile-app-design-inspiration/": {
+        "url": "https://search.muz.li/inspiration/mobile-app-design-inspiration/",
+        "title": "420+ Mobile app dseign inspiration, ideas and examples - Muzli Design Inspiration",
+        "description": "Constantly-updated list of well designed mobile apps from the always-fresh Muzli inventory, to inspire you in your mobile UI/UXdesign process.",
+        "image": "https://uimovement.com/media/resource_image/image_7504.gif"
+    },
+    "https://mindfuldesign.xyz/": {
+        "url": "https://mindfuldesign.xyz/",
+        "title": "Mindful Design ~ A Book About Design And The Brain",
+        "description": "Infuse your design process with the understanding and appreciation the human mind deserves.",
+        "image": "https://mindfuldesign.xyz/static/og-img.jpg"
+    },
+    "https://dogstudio.co/": {
+        "url": "https://dogstudio.co/",
+        "title": "Dogstudio. Multidisciplinary Creative Studio.",
+        "icon": "https://dogstudio.co/app/themes/portfolio-2018/static/assets/images/favicon.png",
+        "description": "Dogstudio Portfolio",
+        "image": "https://dogstudio.co/app/themes/portfolio-2018/static/assets/images/shared/share-facebook.jpg"
+    },
+    "https://github.com/Cuberto/liquid-swipe": {
+        "url": "https://github.com/Cuberto/liquid-swipe",
+        "title": "GitHub - Cuberto/liquid-swipe",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "Contribute to Cuberto/liquid-swipe development by creating an account on GitHub.",
+        "image": "https://avatars3.githubusercontent.com/u/3691940?s=400&v=4"
+    },
     "https://paveldogreat.github.io/WebGL-Fluid-Simulation/": {
         "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
         "title": "WebGL Fluid Simulation",
@@ -997,7 +1135,10 @@
     },
     "https://chaos-equations.glitch.me/?p=VNYAVO": {
         "url": "https://chaos-equations.glitch.me/?p=VNYAVO",
-        "title": "502 Bad Gateway"
+        "title": "c h a o s - e q u a t i o n s",
+        "icon": "https://cdn.glitch.com/eaf94e93-186e-4a8d-83c9-13ead0effa8f%2Ffavicon-32x32.png?1555525173039",
+        "description": "Real time visualization and animation of dynamic chaos equations",
+        "image": "https://cdn.glitch.com/eaf94e93-186e-4a8d-83c9-13ead0effa8f%2Fog-image.jpg?1555525344870"
     },
     "https://conceptviz.github.io/": {
         "url": "https://conceptviz.github.io/",
@@ -1264,6 +1405,12 @@
         "url": "http://worrydream.com/ClimateChange/",
         "title": "What can a technologist do about climate change? A personal view."
     },
+    "https://www.ventusky.com/?p=46.7;10.3;4&l=temperature-2m": {
+        "url": "https://www.ventusky.com/?p=46.7;10.3;4&l=temperature-2m",
+        "title": "Ventusky - Wind, Rain and Temperature Maps",
+        "description": "Live wind, rain and temperature maps, detailed forecast for your place, data from the best weather forecast models such as GFS, ICON, GEM",
+        "image": "https://www.ventusky.com/images/social.jpg"
+    },
     "https://opensource.guide/legal/": {
         "url": "https://opensource.guide/legal/",
         "title": "The Legal Side of Open Source | Open Source Guides",
@@ -1389,6 +1536,11 @@
         "url": "https://www.elastos.org/",
         "title": "Elastos | Welcome to the Modern Internet"
     },
+    "https://humanetech.com/": {
+        "url": "https://humanetech.com/",
+        "title": "Center for Humane Technology: Realigning Technology with Humanity",
+        "description": "We are a nonprofit addressing the harmful extractive attention economy by inspiring a new race to build Humane Technology that aligns with humanity."
+    },
     "https://github.com/devhubapp/devhub": {
         "url": "https://github.com/devhubapp/devhub",
         "title": "GitHub - devhubapp/devhub: TweetDeck for GitHub - Issues, Activities & Notifications - Web, Mobile & Desktop",
@@ -1403,26 +1555,6 @@
         "description": "A cross-platform tool for flashing images to SD cards & USB drives.",
         "image": "https://www.balena.io/etcher/avatar.png"
     },
-    "https://mindfuldesign.xyz/": {
-        "url": "https://mindfuldesign.xyz/",
-        "title": "Mindful Design ~ A Book About Design And The Brain",
-        "description": "Infuse your design process with the understanding and appreciation the human mind deserves.",
-        "image": "https://mindfuldesign.xyz/static/og-img.jpg"
-    },
-    "https://dogstudio.co/": {
-        "url": "https://dogstudio.co/",
-        "title": "Dogstudio. Multidisciplinary Creative Studio.",
-        "icon": "https://dogstudio.co/app/themes/portfolio-2018/static/assets/images/favicon.png",
-        "description": "Dogstudio Portfolio",
-        "image": "https://dogstudio.co/app/themes/portfolio-2018/static/assets/images/shared/share-facebook.jpg"
-    },
-    "https://github.com/Cuberto/liquid-swipe": {
-        "url": "https://github.com/Cuberto/liquid-swipe",
-        "title": "GitHub - Cuberto/liquid-swipe",
-        "icon": "https://github.githubassets.com/favicon.ico",
-        "description": "Contribute to Cuberto/liquid-swipe development by creating an account on GitHub.",
-        "image": "https://avatars3.githubusercontent.com/u/3691940?s=400&v=4"
-    },
     "https://butterchurnviz.com/": {
         "url": "https://butterchurnviz.com/",
         "title": "Butterchurn Visualizer",
@@ -1435,6 +1567,12 @@
         "title": "kepler.gl",
         "description": "Kepler.gl is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations.",
         "image": "https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/kepler.gl-meta-tag.png"
+    },
+    "https://www.youtube.com/watch?v=vKYRdmg7lzk": {
+        "url": "https://www.youtube.com/watch?v=vKYRdmg7lzk",
+        "title": "Skinshape -  Stabo (feat. Anina) - YouTube",
+        "description": "☞ Follow Skinshape ● Bandcamp / https://skinshape.bandcamp.com/album/oracolo ● Soundcloud / https://soundcloud.com/skinshape ● Facebook / https://fr-fr.faceb...",
+        "image": "https://i.ytimg.com/vi/vKYRdmg7lzk/maxresdefault.jpg"
     },
     "https://threejs.org/examples/webgl_kinect.html": {
         "url": "https://threejs.org/examples/webgl_kinect.html",
@@ -1569,6 +1707,12 @@
         "description": "Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.",
         "image": "https://blog.risingstack.com/content/images/2018/02/risingstack-blog-metapic.png"
     },
+    "https://www.joelonsoftware.com/": {
+        "url": "https://www.joelonsoftware.com/",
+        "title": "Joel on Software",
+        "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
+        "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1"
+    },
     "https://gear.dev/blog/": {
         "url": "https://gear.dev/blog/",
         "title": "Jon Gear",
@@ -1583,6 +1727,12 @@
         "url": "https://statecharts.github.io/",
         "title": "Welcome to the world of Statecharts - Statecharts",
         "description": "The world of statecharts describes what statecharts are, their benefits and drawbacks, how they differ from state machines, and practical examples on how to use them."
+    },
+    "https://softwareengineeringdaily.com/": {
+        "url": "https://softwareengineeringdaily.com/",
+        "title": "Software Engineering Daily",
+        "icon": "https://softwareengineeringdaily.com/wp-content/uploads/fbrfg/favicon-32x32.png?v=PYYeqgEwMA",
+        "image": "http://softwareengineeringdaily.com/wp-content/uploads/2015/08/sed_logo_updated.png"
     },
     "https://overreacted.io/": {
         "url": "https://overreacted.io/",
@@ -1669,8 +1819,7 @@
     },
     "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219": {
         "url": "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219",
-        "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto): Nassim Nicholas Taleb: 8581000020738: Amazon.com: Books",
-        "description": "Buy Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto) on Amazon.com ✓ FREE SHIPPING on qualified orders"
+        "title": "Robot Check"
     },
     "https://www.goodreads.com/book/show/896539.Emergence": {
         "url": "https://www.goodreads.com/book/show/896539.Emergence",
