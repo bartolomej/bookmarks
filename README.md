@@ -12,7 +12,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Other lists](#other-lists)
 - [Computer science](#computer-science)
 	- [Theories and Concepts](#theories-and-concepts)
-    - [Programming Languages](#programming-languages)
+    	- [Programming Languages](#programming-languages)
 	- [Programming](#programming)
 	- [Beautiful codebases](#beautiful-codebases)
 	- [AI and Machine learning](#ai)
@@ -23,9 +23,10 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 	- [Software engineering and architecture](#software-endineering-and-architecture)
 	- [Distributed systems](#distributed-systems)
 	- [Graph Theory](#graph-theory)
-	- [Graphic Design](#graphic-design)
 	- [Reactjs](#reactjs)
 	- [Mock data generation](#mock-data-generation)
+- [Graphic Design](#graphic-design)
+	- [Fonts](#fonts)
 - [Mathematics](#mathematics)
 - [Game Theory](#creativity)
 - [Complexity science](#complexity-science)
@@ -211,21 +212,6 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Visualize any text as a network](http://textexture.com)
 - [Interactive data visualization](http://astrangertowords.com/)
 
-
-#### <a name="graphic-design">Graphic Design
-- [SVG background patterns](https://www.svgbackgrounds.com/)
-- [Icons8 free illustrations](https://icons8.com/ouch/)
-- [DrawKit collection of SVG illustrations](https://www.drawkit.io/)
-- [FreePik free illustrations](https://www.freepik.com/free-vectors/illustrations)
-- [Undraw open source illustrations](https://undraw.co/)
-- [Introduction to Design Systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
-- [Design Tips](https://mobile.twitter.com/i/moments/994601867987619840)
-- [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
-- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
-- [UI / UX design guide](https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
-- [Mobile UI design examples](https://search.muz.li/inspiration/mobile-app-design-inspiration/)
-- [Free design & prototyping tool](https://www.figma.com/)
-
 #### <a name="reactjs">React.js
 - [styled-components](https://www.styled-components.com/)
 - [react-anime](https://github.com/hyperfuse/react-anime) - simple animation library
@@ -239,6 +225,38 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [custom random data](https://mockaroo.com/)
 - [random picture api](https://picsum.photos/)
 - [random user data api](https://randomuser.me/api/)
+	
+## <a name="graphic-design">Graphic Design
+*[&#8593; top](#contents)*
+
+- [Burst](https://burst.shopify.com/)
+- [Unsplash](https://unsplash.com/)
+- [Font Spark](https://fontspark.app/)
+- [Color Spark](https://colorspark.app/)
+- [Free Vector](https://www.freevector.com/)
+- [Vexels](https://www.vexels.com/)
+- [SVG background patterns](https://www.svgbackgrounds.com/)
+- [Icons8 free illustrations](https://icons8.com/ouch/)
+- [DrawKit collection of SVG illustrations](https://www.drawkit.io/)
+- [FreePik free illustrations](https://www.freepik.com/free-vectors/illustrations)
+- [Undraw open source illustrations](https://undraw.co/)
+- [Introduction to Design Systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
+- [Design Tips](https://mobile.twitter.com/i/moments/994601867987619840)
+- [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [UI / UX design guide](https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
+- [Mobile UI design examples](https://search.muz.li/inspiration/mobile-app-design-inspiration/)
+- [Free design & prototyping tool](https://www.figma.com/)
+
+#### <a name="fonts">Fonts
+- [Raleway](https://fonts.google.com/specimen/Raleway)
+- [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
+- [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans)
+- [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin)
+- [Maven Pro](https://fonts.google.com/specimen/Maven+Pro)
+- [Prompt](https://fonts.google.com/specimen/Prompt)
+- [Assistant](http://fonts.google.com/specimen/Assistant)
+- [Noto Sans SC](https://fonts.google.com/specimen/Noto+Sans+SC)
 	
 ## <a name="mathematics">Mathematics
 *[&#8593; top](#contents)*
@@ -302,6 +320,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Detailed explanation of Abstraction in Software](https://thevaluable.dev/abstraction_software_development/)
 - [How can we develop transformative tools for thought ?](https://numinous.productions/ttft/)
 - [Nick Szabo Essays, Papers](https://archive.is/Zqi9H)
