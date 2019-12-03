@@ -12,7 +12,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Other lists](#other-lists)
 - [Computer science](#computer-science)
 	- [Theories and Concepts](#theories-and-concepts)
-    	- [Programming Languages](#programming-languages)
+    - [Programming Languages](#programming-languages)
 	- [Programming](#programming)
 	- [Beautiful codebases](#beautiful-codebases)
 	- [AI and Machine learning](#ai)
@@ -38,6 +38,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Books](#books)
 
 ## <a name="other-lists"></a>Other awesome lists
+- [Awesome](https://github.com/sindresorhus/awesome)
 - [Creative Portfolios](https://creative-portfolios.now.sh/)
 - [Awesome GitHub actions](https://github.com/sdras/awesome-actions)
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
@@ -229,6 +230,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="graphic-design">Graphic Design
 *[&#8593; top](#contents)*
 
+- [Awwwards](https://www.awwwards.com/)
+- [Design assets for Figma](https://www.motive.studio/shop)
 - [Burst](https://burst.shopify.com/)
 - [Unsplash](https://unsplash.com/)
 - [Font Spark](https://fontspark.app/)

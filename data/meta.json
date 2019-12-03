@@ -1,4 +1,11 @@
 {
+    "https://github.com/sindresorhus/awesome": {
+        "url": "https://github.com/sindresorhus/awesome",
+        "title": "GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "😎 Awesome lists about all kinds of interesting topics - sindresorhus/awesome",
+        "image": "https://avatars3.githubusercontent.com/u/170270?s=400&v=4"
+    },
     "https://creative-portfolios.now.sh/": {
         "url": "https://creative-portfolios.now.sh/",
         "title": "Creative Portfolios"
@@ -436,6 +443,12 @@
         "description": "Easily add high-quality animation to any native app. Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images.",
         "image": "http://airbnb.design/lottie/static/images/lottie.png"
     },
+    "https://www.vantajs.com": {
+        "url": "https://www.vantajs.com",
+        "title": "Vanta.js - 3D & WebGL Background Animations For Your Website",
+        "description": "3D & WebGL Background Animations For Your Website",
+        "image": "https://www.vantajs.com/gallery/fb-share-image.jpg"
+    },
     "https://www.markdowntopdf.com/": {
         "url": "https://www.markdowntopdf.com/",
         "title": "Convert your markdown files to PDF with our online converter for free!",
@@ -656,6 +669,13 @@
         "title": "The little book about OS development",
         "author": "Erik Helin, Adam Renberg"
     },
+    "https://github.com/sos-os/kernel": {
+        "url": "https://github.com/sos-os/kernel",
+        "title": "GitHub - sos-os/kernel: The Stupid Operating System",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "The Stupid Operating System. Contribute to sos-os/kernel development by creating an account on GitHub.",
+        "image": "https://avatars1.githubusercontent.com/u/36111461?s=400&v=4"
+    },
     "https://ericsink.com/scm/source_control.html": {
         "url": "https://ericsink.com/scm/source_control.html",
         "title": "Source Control HOWTO"
@@ -836,76 +856,6 @@
         "url": "http://astrangertowords.com/",
         "title": ""
     },
-    "https://www.svgbackgrounds.com/": {
-        "url": "https://www.svgbackgrounds.com/",
-        "title": "Create Customizable, Hi-Def, and Scalable Backgrounds",
-        "icon": "https://www.svgbackgrounds.com/favicon-32x32.png",
-        "description": "SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.",
-        "image": "https://svgbackgrounds.com/img/fb-svg-backgrounds.png"
-    },
-    "https://icons8.com/ouch/": {
-        "url": "https://icons8.com/ouch/",
-        "title": "Free vector illustrations – Ouch.pics",
-        "icon": "https://icons8.com/vue-static/ouch/favs/ouch_fav_16x16.png",
-        "description": "Ouch helps creators who don’t draw overcome the lack of quality graphics. Download the free illustrations from top Dribbble artists to class up your product."
-    },
-    "https://www.drawkit.io/": {
-        "url": "https://www.drawkit.io/",
-        "title": "DrawKit - Beautiful free illustrations",
-        "description": "MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!",
-        "image": "https://uploads-ssl.webflow.com/5bcb46130508ef456a7b2930/5bcdef83d44cf459d171d6a7_og-image.png"
-    },
-    "https://www.freepik.com/free-vectors/illustrations": {
-        "url": "https://www.freepik.com/free-vectors/illustrations",
-        "title": "Illustrations vectors, +314,000 free files in .AI, .EPS format",
-        "icon": "https://freepik.cdnpk.net/img/favicons/favicon-32x32.png?v=2018082101",
-        "description": "Free Illustrations vectors: download now the most popular Illustrations vectors on Freepik. Free resources for both personal and commercial use",
-        "image": "https://image.freepik.com/free-vector/vector-illustration-cosmonaut_1441-11.jpg"
-    },
-    "https://undraw.co/": {
-        "url": "https://undraw.co/",
-        "title": "unDraw",
-        "icon": "https://undraw.co/favicon-32x32.png?v=pgqYQdw7OR",
-        "description": "Open-source illustrations for every project you can imagine and create.",
-        "image": "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/assets/share_new.jpg"
-    },
-    "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/": {
-        "url": "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
-        "title": "Introduction to design systems | Storybook Tutorials",
-        "description": "A guide to the latest production-ready tools for design systems",
-        "image": "https://learnstorybook.com/design-systems-for-developers/opengraph-cover.jpg"
-    },
-    "https://mobile.twitter.com/i/moments/994601867987619840": {
-        "url": "https://mobile.twitter.com/i/moments/994601867987619840",
-        "title": "Twitter",
-        "icon": "https://ma.twimg.com/twitter-mobile/a8491f04da4e54be98cff3a86c58f23a770c26bd/images/favicon.ico"
-    },
-    "http://bradfrost.com/blog/post/atomic-web-design/": {
-        "url": "http://bradfrost.com/blog/post/atomic-web-design/",
-        "title": "  Atomic Design | Brad Frost",
-        "description": "Hey there! I wrote a book called Atomic Design that dives into this topic in more detail, which you can buy as an ebook.\nWe’re not designing pages, we’re designing systems of components.—Stephen Hay\nAs the craft of Web design continues to evolve, we're recognizing the need to develop thoughtful de",
-        "image": "http://bradfrost.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-13-at-5.15.05-PM.png"
-    },
-    "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886": {
-        "url": "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886",
-        "title": "7 Practical Tips for Cheating at Design - Refactoring UI - Medium",
-        "description": " Every web developer inevitably runs into situations where they need to make visual design decisions, whether they like it or not. Maybe the company you work for doesn’t have a full-time designer and…",
-        "image": "https://miro.medium.com/max/1200/1*2YuCOOCjdMEJxg-Lb6G2FA.png",
-        "author": "Adam Wathan & Steve Schoger"
-    },
-    "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914": {
-        "url": "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914",
-        "title": "UI/UX design guide with terms, explanations, tips and trends",
-        "description": " A longread aimed to gather all the theory about UX and UI design processes for creating web and mobile application design Originally I shared this guide to Syndicode blog to describe UI and UX…",
-        "image": "https://miro.medium.com/max/1024/1*9iH4E4au_LpP2WXmpisiUw.png",
-        "author": "Iren Korkishko"
-    },
-    "https://search.muz.li/inspiration/mobile-app-design-inspiration/": {
-        "url": "https://search.muz.li/inspiration/mobile-app-design-inspiration/",
-        "title": "420+ Mobile app dseign inspiration, ideas and examples - Muzli Design Inspiration",
-        "description": "Constantly-updated list of well designed mobile apps from the always-fresh Muzli inventory, to inspire you in your mobile UI/UXdesign process.",
-        "image": "https://uimovement.com/media/resource_image/image_7504.gif"
-    },
     "https://www.styled-components.com/": {
         "url": "https://www.styled-components.com/",
         "title": "styled-components",
@@ -965,6 +915,62 @@
         "url": "https://randomuser.me/api/",
         "title": ""
     },
+    "https://fonts.google.com/specimen/Raleway": {
+        "url": "https://fonts.google.com/specimen/Raleway",
+        "title": "Google Fonts",
+        "icon": "https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico",
+        "description": "Making the web more beautiful, fast, and open through great typography",
+        "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
+    },
+    "https://fonts.google.com/specimen/Ubuntu": {
+        "url": "https://fonts.google.com/specimen/Ubuntu",
+        "title": "Google Fonts",
+        "icon": "https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico",
+        "description": "Making the web more beautiful, fast, and open through great typography",
+        "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
+    },
+    "https://fonts.google.com/specimen/Nunito+Sans": {
+        "url": "https://fonts.google.com/specimen/Nunito+Sans",
+        "title": "Google Fonts",
+        "icon": "https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico",
+        "description": "Making the web more beautiful, fast, and open through great typography",
+        "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
+    },
+    "https://fonts.google.com/specimen/Libre+Franklin": {
+        "url": "https://fonts.google.com/specimen/Libre+Franklin",
+        "title": "Google Fonts",
+        "icon": "https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico",
+        "description": "Making the web more beautiful, fast, and open through great typography",
+        "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
+    },
+    "https://fonts.google.com/specimen/Maven+Pro": {
+        "url": "https://fonts.google.com/specimen/Maven+Pro",
+        "title": "Google Fonts",
+        "icon": "https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico",
+        "description": "Making the web more beautiful, fast, and open through great typography",
+        "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
+    },
+    "https://fonts.google.com/specimen/Prompt": {
+        "url": "https://fonts.google.com/specimen/Prompt",
+        "title": "Google Fonts",
+        "icon": "https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico",
+        "description": "Making the web more beautiful, fast, and open through great typography",
+        "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
+    },
+    "http://fonts.google.com/specimen/Assistant": {
+        "url": "http://fonts.google.com/specimen/Assistant",
+        "title": "Google Fonts",
+        "icon": "https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico",
+        "description": "Making the web more beautiful, fast, and open through great typography",
+        "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
+    },
+    "https://fonts.google.com/specimen/Noto+Sans+SC": {
+        "url": "https://fonts.google.com/specimen/Noto+Sans+SC",
+        "title": "Google Fonts",
+        "icon": "https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico",
+        "description": "Making the web more beautiful, fast, and open through great typography",
+        "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
+    },
     "https://paveldogreat.github.io/WebGL-Fluid-Simulation/": {
         "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
         "title": "WebGL Fluid Simulation",
@@ -991,10 +997,7 @@
     },
     "https://chaos-equations.glitch.me/?p=VNYAVO": {
         "url": "https://chaos-equations.glitch.me/?p=VNYAVO",
-        "title": "c h a o s - e q u a t i o n s",
-        "icon": "https://cdn.glitch.com/eaf94e93-186e-4a8d-83c9-13ead0effa8f%2Ffavicon-32x32.png?1555525173039",
-        "description": "Real time visualization and animation of dynamic chaos equations",
-        "image": "https://cdn.glitch.com/eaf94e93-186e-4a8d-83c9-13ead0effa8f%2Fog-image.jpg?1555525344870"
+        "title": "502 Bad Gateway"
     },
     "https://conceptviz.github.io/": {
         "url": "https://conceptviz.github.io/",
@@ -1074,7 +1077,7 @@
     "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html": {
         "url": "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
         "title": "Driving Dataset > Audi Electronics Venture",
-        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191113054128/cms4i-nemo/assets/icons/favicon/favicon.png"
+        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191203080243/cms4i-nemo/assets/icons/favicon/favicon.png"
     },
     "https://www.yelp.com/dataset/challenge": {
         "url": "https://www.yelp.com/dataset/challenge",
@@ -1131,7 +1134,7 @@
     "https://developers.google.com/books/docs/v1/getting_started": {
         "url": "https://developers.google.com/books/docs/v1/getting_started",
         "title": "Getting Started  |  Google Books APIs  |  Google Developers",
-        "image": "https://www.gstatic.com/devrel-devsite/prod/v9d570efc814a28024c8ff149d6de123f7f820fa81162ad936a6bcae349b1b74d/developers/images/opengraph/google-blue.png"
+        "image": "https://www.gstatic.com/devrel-devsite/prod/v15f72515e1c53f03e6d573e85fc193d888eb8fb1758082e4a5ecf80f00fa48ef/developers/images/opengraph/google-blue.png"
     },
     "http://genemania.org/": {
         "url": "http://genemania.org/",
@@ -1140,6 +1143,13 @@
     "http://www.enron-mail.com/email/skilling-j/": {
         "url": "http://www.enron-mail.com/email/skilling-j/",
         "title": "Index of /email/skilling-j"
+    },
+    "https://www.smashingmagazine.com/": {
+        "url": "https://www.smashingmagazine.com/",
+        "title": "Smashing Magazine — For Web Designers And Developers — Smashing Magazine",
+        "icon": "https://www.smashingmagazine.com/images/favicon/favicon.png",
+        "description": "Smashing Magazine — for web designers and developers",
+        "image": "https:"
     },
     "https://thevaluable.dev/abstraction_software_development/": {
         "url": "https://thevaluable.dev/abstraction_software_development/",
@@ -1253,12 +1263,6 @@
     "http://worrydream.com/ClimateChange/": {
         "url": "http://worrydream.com/ClimateChange/",
         "title": "What can a technologist do about climate change? A personal view."
-    },
-    "https://www.ventusky.com/?p=46.7;10.3;4&l=temperature-2m": {
-        "url": "https://www.ventusky.com/?p=46.7;10.3;4&l=temperature-2m",
-        "title": "Ventusky - Wind, Rain and Temperature Maps",
-        "description": "Live wind, rain and temperature maps, detailed forecast for your place, data from the best weather forecast models such as GFS, ICON, GEM",
-        "image": "https://www.ventusky.com/images/social.jpg"
     },
     "https://opensource.guide/legal/": {
         "url": "https://opensource.guide/legal/",
@@ -1385,11 +1389,6 @@
         "url": "https://www.elastos.org/",
         "title": "Elastos | Welcome to the Modern Internet"
     },
-    "https://humanetech.com/": {
-        "url": "https://humanetech.com/",
-        "title": "Center for Humane Technology: Realigning Technology with Humanity",
-        "description": "We are a nonprofit addressing the harmful extractive attention economy by inspiring a new race to build Humane Technology that aligns with humanity."
-    },
     "https://github.com/devhubapp/devhub": {
         "url": "https://github.com/devhubapp/devhub",
         "title": "GitHub - devhubapp/devhub: TweetDeck for GitHub - Issues, Activities & Notifications - Web, Mobile & Desktop",
@@ -1436,12 +1435,6 @@
         "title": "kepler.gl",
         "description": "Kepler.gl is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations.",
         "image": "https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/kepler.gl-meta-tag.png"
-    },
-    "https://www.youtube.com/watch?v=vKYRdmg7lzk": {
-        "url": "https://www.youtube.com/watch?v=vKYRdmg7lzk",
-        "title": "Skinshape -  Stabo (feat. Anina) - YouTube",
-        "description": "☞ Follow Skinshape ● Bandcamp / https://skinshape.bandcamp.com/album/oracolo ● Soundcloud / https://soundcloud.com/skinshape ● Facebook / https://fr-fr.faceb...",
-        "image": "https://i.ytimg.com/vi/vKYRdmg7lzk/maxresdefault.jpg"
     },
     "https://threejs.org/examples/webgl_kinect.html": {
         "url": "https://threejs.org/examples/webgl_kinect.html",
@@ -1527,7 +1520,8 @@
     },
     "https://openai.com/blog/": {
         "url": "https://openai.com/blog/",
-        "title": "OpenAI Blog"
+        "title": "OpenAI Blog",
+        "description": "OpenAI is an AI research company, discovering and enacting the path to safe artificial general intelligence."
     },
     "https://engineering.microsoft.com/": {
         "url": "https://engineering.microsoft.com/",
@@ -1575,12 +1569,6 @@
         "description": "Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.",
         "image": "https://blog.risingstack.com/content/images/2018/02/risingstack-blog-metapic.png"
     },
-    "https://www.joelonsoftware.com/": {
-        "url": "https://www.joelonsoftware.com/",
-        "title": "Joel on Software",
-        "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
-        "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1"
-    },
     "https://gear.dev/blog/": {
         "url": "https://gear.dev/blog/",
         "title": "Jon Gear",
@@ -1595,12 +1583,6 @@
         "url": "https://statecharts.github.io/",
         "title": "Welcome to the world of Statecharts - Statecharts",
         "description": "The world of statecharts describes what statecharts are, their benefits and drawbacks, how they differ from state machines, and practical examples on how to use them."
-    },
-    "https://softwareengineeringdaily.com/": {
-        "url": "https://softwareengineeringdaily.com/",
-        "title": "Software Engineering Daily",
-        "icon": "https://softwareengineeringdaily.com/wp-content/uploads/fbrfg/favicon-32x32.png?v=PYYeqgEwMA",
-        "image": "http://softwareengineeringdaily.com/wp-content/uploads/2015/08/sed_logo_updated.png"
     },
     "https://overreacted.io/": {
         "url": "https://overreacted.io/",
@@ -1640,7 +1622,7 @@
     "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures": {
         "url": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures",
         "title": "Building Evolutionary Architectures: Support Constant Change by Neal Ford",
-        "description": "Building Evolutionary Architectures book. Read 54 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
+        "description": "Building Evolutionary Architectures book. Read 55 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507020307i/35755822._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/15857473-signals-and-boundaries": {
@@ -1687,7 +1669,8 @@
     },
     "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219": {
         "url": "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219",
-        "title": "Robot Check"
+        "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto): Nassim Nicholas Taleb: 8581000020738: Amazon.com: Books",
+        "description": "Buy Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto) on Amazon.com ✓ FREE SHIPPING on qualified orders"
     },
     "https://www.goodreads.com/book/show/896539.Emergence": {
         "url": "https://www.goodreads.com/book/show/896539.Emergence",
@@ -1722,7 +1705,7 @@
     "https://www.goodreads.com/book/show/3828902-thinking-in-systems": {
         "url": "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
         "title": "Thinking in Systems: A Primer by Donella H. Meadows",
-        "description": "Thinking in Systems book. Read 596 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
+        "description": "Thinking in Systems book. Read 597 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859i/3828902._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/39088592-the-model-thinker": {

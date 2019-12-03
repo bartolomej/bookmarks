@@ -3,6 +3,7 @@
         "title": "Other awesome lists",
         "name": "other-lists",
         "links": [
+            "https://github.com/sindresorhus/awesome",
             "https://creative-portfolios.now.sh/",
             "https://github.com/sdras/awesome-actions",
             "https://github.com/danistefanovic/build-your-own-x",
@@ -223,24 +224,6 @@
                 ]
             },
             {
-                "title": "Graphic Design",
-                "name": "graphic-design",
-                "links": [
-                    "https://www.svgbackgrounds.com/",
-                    "https://icons8.com/ouch/",
-                    "https://www.drawkit.io/",
-                    "https://www.freepik.com/free-vectors/illustrations",
-                    "https://undraw.co/",
-                    "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
-                    "https://mobile.twitter.com/i/moments/994601867987619840",
-                    "http://bradfrost.com/blog/post/atomic-web-design/",
-                    "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886",
-                    "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914",
-                    "https://search.muz.li/inspiration/mobile-app-design-inspiration/",
-                    "https://www.figma.com/"
-                ]
-            },
-            {
                 "title": "React.js",
                 "name": "reactjs",
                 "links": [
@@ -260,6 +243,26 @@
                     "https://mockaroo.com/",
                     "https://picsum.photos/",
                     "https://randomuser.me/api/"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Graphic Design",
+        "name": "graphic-design",
+        "subsections": [
+            {
+                "title": "Fonts",
+                "name": "fonts",
+                "links": [
+                    "https://fonts.google.com/specimen/Raleway",
+                    "https://fonts.google.com/specimen/Ubuntu",
+                    "https://fonts.google.com/specimen/Nunito+Sans",
+                    "https://fonts.google.com/specimen/Libre+Franklin",
+                    "https://fonts.google.com/specimen/Maven+Pro",
+                    "https://fonts.google.com/specimen/Prompt",
+                    "http://fonts.google.com/specimen/Assistant",
+                    "https://fonts.google.com/specimen/Noto+Sans+SC"
                 ]
             }
         ]
@@ -334,6 +337,7 @@
         "title": "Other websites and articles",
         "name": "websites-and-articles",
         "links": [
+            "https://www.smashingmagazine.com/",
             "https://thevaluable.dev/abstraction_software_development/",
             "https://numinous.productions/ttft/",
             "https://archive.is/Zqi9H",
