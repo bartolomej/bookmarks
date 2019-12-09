@@ -43,6 +43,7 @@
                 "title": "Programming",
                 "name": "programming",
                 "links": [
+                    "https://www.30secondsofcode.org/js/p/1",
                     "https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/",
                     "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/",
                     "https://designingprograms.bitbucket.io/index.html",
@@ -74,6 +75,7 @@
                 "title": "AI and Machine Learning",
                 "name": "ai",
                 "links": [
+                    "https://deepdreamer.fq.nz/#requirements",
                     "https://aijs.rocks/",
                     "https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation",
                     "https://distill.pub/2017/feature-visualization/",
@@ -120,6 +122,7 @@
                 "title": "Frameworks and tools",
                 "name": "frameworks-and-tools",
                 "links": [
+                    "https://greensock.com/",
                     "https://xstate.js.org/docs/",
                     "https://github.com/ianstormtaylor/slate",
                     "https://github.com/src-d/hercules",
@@ -255,6 +258,8 @@
                 "title": "Design assets",
                 "name": "fonts",
                 "links": [
+                    "https://thenounproject.com/",
+                    "https://loading.io/",
                     "https://www.motive.studio/shop",
                     "https://burst.shopify.com/",
                     "https://unsplash.com/",
@@ -378,6 +383,7 @@
         "title": "Other websites and articles",
         "name": "websites-and-articles",
         "links": [
+            "https://parametric.press/issue-01/",
             "https://www.smashingmagazine.com/",
             "https://thevaluable.dev/abstraction_software_development/",
             "https://numinous.productions/ttft/",

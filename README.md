@@ -67,6 +67,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [JavaScript promises cookbook](https://github.com/mattdesl/promise-cookbook)
 
 #### <a name="programming">Programming
+- [30 seconds of code](https://www.30secondsofcode.org/js/p/1) - daily code snippets
 - [Implementing a simple compiler](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
 - [Crash Course in JIT](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 - [Designing Programs](https://designingprograms.bitbucket.io/index.html) - Practical and pedagogical approach to programming
@@ -91,6 +92,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="ai">AI and Machine Learning
+- [DeepDreamer](https://deepdreamer.fq.nz/#requirements)
 - [aijs.rocks](https://aijs.rocks/) - A curated collection of inspirational AI-powered JavaScript apps
 - [ANN Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
 - [ANN feature visualization](https://distill.pub/2017/feature-visualization/)
@@ -126,6 +128,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+- [GreenSock](https://greensock.com/) - svg animation library
 - [XState finite state machine and state charts for the web](https://xstate.js.org/docs/)
 - [Slate](https://github.com/ianstormtaylor/slate) - framework for building rich text editors
 - [Hercules](https://github.com/src-d/hercules) - git repo deep insights
@@ -184,6 +187,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="web3">Web 3.0
+- [Decentralized Thriving (eBook)](https://daostack.io/ebook)
 - [Tenderming - tools for distributed networks](https://tendermint.com/)
 - [Ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
 - [dOrg handbook](https://dorg.gitbook.io/-/our-organization/values-and-operating-principles)
@@ -233,6 +237,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 *[&#8593; top](#contents)*
 
 #### <a name="fonts">Design assets
+- [The Noun Project](https://thenounproject.com/)
+- [Loading.io](https://loading.io/)
 - [Design assets for Figma](https://www.motive.studio/shop)
 - [Burst](https://burst.shopify.com/)
 - [Unsplash](https://unsplash.com/)
@@ -334,6 +340,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [Parametric Press](https://parametric.press/issue-01/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Detailed explanation of Abstraction in Software](https://thevaluable.dev/abstraction_software_development/)
 - [How can we develop transformative tools for thought ?](https://numinous.productions/ttft/)

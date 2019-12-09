@@ -115,6 +115,10 @@
         "description": ":orange_book: a brief introduction to using Promises in JavaScript - mattdesl/promise-cookbook",
         "image": "https://avatars2.githubusercontent.com/u/1383811?s=400&v=4"
     },
+    "https://www.30secondsofcode.org/js/p/1": {
+        "url": "https://www.30secondsofcode.org/js/p/1",
+        "title": ""
+    },
     "https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/": {
         "url": "https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/",
         "title": "Implementing a Simple Compiler on 25 Lines of JavaScript · Minko Gechev's blog",
@@ -218,6 +222,11 @@
         "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Pug – robust, elegant, feature rich template engine for Node.js - pugjs/pug",
         "image": "https://avatars2.githubusercontent.com/u/9338635?s=400&v=4"
+    },
+    "https://deepdreamer.fq.nz/#requirements": {
+        "url": "https://deepdreamer.fq.nz/#requirements",
+        "title": "Deep Dreamer | deepdreamer",
+        "description": "Easy to configure Python program that make use of Google’s DeepDream."
     },
     "https://aijs.rocks/": {
         "url": "https://aijs.rocks/",
@@ -390,6 +399,12 @@
         "description": "💁‍♀️❤️📰 Frontend for the Supporter platform. Contribute to guardian/support-frontend development by creating an account on GitHub.",
         "image": "https://avatars0.githubusercontent.com/u/164318?s=400&v=4"
     },
+    "https://greensock.com/": {
+        "url": "https://greensock.com/",
+        "title": "GreenSock - GreenSock",
+        "description": "GreenSock community forums where questions about GSAP and HTML5/JavaScript animation are answered. Uncommonly kind and welcoming tone.",
+        "image": "https://greensock.com/uploads/monthly_2018_06/greensock-logo-300x300.gif.8023a3dcf1be729a9c88bdaa2f441a05.gif"
+    },
     "https://xstate.js.org/docs/": {
         "url": "https://xstate.js.org/docs/",
         "title": "XState Docs",
@@ -544,9 +559,9 @@
     },
     "https://www.2dimensions.com/about-flare": {
         "url": "https://www.2dimensions.com/about-flare",
-        "title": "2D - Flare by 2Dimensions. Bring your apps and games to life with real-time animation.",
+        "title": "Error",
         "icon": "https://www.2dimensions.com/favicon-32x32.png",
-        "description": "Bring your apps and games to life with real-time animation. Flare is a powerful design and animation tool, which allows designers and developers to easily add high-quality animation to Flutter, iOS, Android, Unity, OpenGL, C++, C#, OpenTK, HTML, JS, and other apps and games."
+        "description": "Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily add high-quality animation to Flutter, iOS, Android, Unity, OpenGL, C++, C#, OpenTK, HTML, JS, and other apps and games."
     },
     "https://fontflipper.com/upload": {
         "url": "https://fontflipper.com/upload",
@@ -557,9 +572,9 @@
     },
     "https://github.com/GoogleChromeLabs/ProjectVisBug": {
         "url": "https://github.com/GoogleChromeLabs/ProjectVisBug",
-        "title": "GitHub - GoogleChromeLabs/ProjectVisBug: FireBug for designers › Makes any webpage feel like an artboard via a little extension https://a.nerdy.dev/gimme-visbug",
+        "title": "GitHub - GoogleChromeLabs/ProjectVisBug: FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug",
         "icon": "https://github.githubassets.com/favicon.ico",
-        "description": "FireBug for designers › Makes any webpage feel like an artboard via a little extension https://a.nerdy.dev/gimme-visbug - GoogleChromeLabs/ProjectVisBug",
+        "description": "FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug - GoogleChromeLabs/ProjectVisBug",
         "image": "https://repository-images.githubusercontent.com/137987910/f6f1e400-cfc7-11e9-8df7-cc0d9d7b4a04"
     },
     "https://cloudcraft.co/": {
@@ -692,9 +707,8 @@
     },
     "https://ethereum.consensys.net/": {
         "url": "https://ethereum.consensys.net/",
-        "title": "Ethereum Blockchain Developer Portal",
-        "description": "Ethereum Blockchain Developer Portal: developer tools, resources, guides, programming libraries, and more.",
-        "image": "https://i1.wp.com/content.consensys.net/wp-content/uploads/dev-portal-featured.png?ssl=1&resize=1200,630"
+        "title": "Developers | ConsenSys | ConsenSys",
+        "image": "https://i1.wp.com/content.consensys.net/wp-content/uploads/dev-portal-featured.png?resize=1200,600"
     },
     "https://docs.microsoft.com/en-us/azure/devops/learn/": {
         "url": "https://docs.microsoft.com/en-us/azure/devops/learn/",
@@ -854,7 +868,9 @@
     },
     "http://astrangertowords.com/": {
         "url": "http://astrangertowords.com/",
-        "title": ""
+        "title": "A Stranger to Words – Interactive Data Visualization",
+        "description": "Experience beautiful data art with words.",
+        "author": "Meng Chih Chiang"
     },
     "https://www.styled-components.com/": {
         "url": "https://www.styled-components.com/",
@@ -915,6 +931,20 @@
         "url": "https://randomuser.me/api/",
         "title": ""
     },
+    "https://thenounproject.com/": {
+        "url": "https://thenounproject.com/",
+        "title": "Free Icons for Everything - Noun Project",
+        "icon": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png",
+        "description": "The most diverse collection of icons ever. Download SVG and PNG. Millions of free icons or unlimited royalty-free icons with NounPro.",
+        "image": "https://static.production.thenounproject.com/img/nounproject_logo.60e860f212a5.png"
+    },
+    "https://loading.io/": {
+        "url": "https://loading.io/",
+        "title": "loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator",
+        "icon": "https://loading.io/favicon.ico",
+        "description": "Build Your Ajax Loading Icons, Animated Text and More with SVG / CSS / GIF / PNG !",
+        "image": "https://loading.io/assets/img/thumbnail.jpg"
+    },
     "https://www.motive.studio/shop": {
         "url": "https://www.motive.studio/shop",
         "title": "Design resources for Figma",
@@ -931,7 +961,7 @@
         "title": "Beautiful Free Images & Pictures | Unsplash",
         "icon": "https://unsplash.com/favicon-32x32.png",
         "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "image": "http://images.unsplash.com/photo-1558981420-c532902e58b4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
+        "image": "http://images.unsplash.com/photo-1562887106-2588234e7b77?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
         "author": "Unsplash"
     },
     "https://fontspark.app/": {
@@ -978,7 +1008,7 @@
     },
     "https://www.freepik.com/free-vectors/illustrations": {
         "url": "https://www.freepik.com/free-vectors/illustrations",
-        "title": "Illustrations vectors, +315,000 free files in .AI, .EPS format",
+        "title": "Illustrations vectors, +317,000 free files in .AI, .EPS format",
         "icon": "https://freepik.cdnpk.net/img/favicons/favicon-32x32.png?v=2018082101",
         "description": "Free Illustrations vectors: download now the most popular Illustrations vectors on Freepik. Free resources for both personal and commercial use",
         "image": "https://image.freepik.com/free-vector/vector-illustration-cosmonaut_1441-11.jpg"
@@ -1163,12 +1193,6 @@
         "description": "Fourier transforms are a tool used in a whole bunch of different things. This is a explanation of what a Fourier transform does, and some different ways it can be useful.",
         "image": "http://www.jezzamon.com/fourier/preview.png"
     },
-    "https://visualizingmath.tumblr.com/": {
-        "url": "https://visualizingmath.tumblr.com/",
-        "title": "Visualizing Math",
-        "description": "A blog dedicated to mathematics.",
-        "image": "https://66.media.tumblr.com/avatar_1c7ef7c9144c_128.pnj"
-    },
     "https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM": {
         "url": "https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM",
         "title": "NATURE AND LEVELS OF CONFLICT"
@@ -1176,12 +1200,13 @@
     "https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation": {
         "url": "https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation",
         "title": "The Evolution of Cooperation by Robert Axelrod",
-        "description": "The Evolution of Cooperation book. Read 115 reviews from the world's largest community for readers. The Evolution of Cooperation provides valuable insigh...",
+        "description": "The Evolution of Cooperation book. Read 116 reviews from the world's largest community for readers. The Evolution of Cooperation provides valuable insigh...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388197031i/366821._UY630_SR1200,630_.jpg"
     },
     "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678": {
         "url": "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678",
-        "title": "Robot Check"
+        "title": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration: Robert Axelrod: 9780691015675: Amazon.com: Books",
+        "description": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration [Robert Axelrod] on Amazon.com. *FREE* shipping on qualifying offers. Robert Axelrod is widely known for his groundbreaking work in game theory and complexity theory. He is a leader in applying computer modeling to social science problems. His book The Evolution of Cooperation</i> has been hailed as a seminal contribution and has been translated into eight languages since its initial publication. The Complexity of Cooperation</i> is a sequel to that landmark book. It collects seven essays"
     },
     "https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1": {
         "url": "https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1",
@@ -1284,6 +1309,12 @@
     "http://www.enron-mail.com/email/skilling-j/": {
         "url": "http://www.enron-mail.com/email/skilling-j/",
         "title": "Index of /email/skilling-j"
+    },
+    "https://parametric.press/issue-01/": {
+        "url": "https://parametric.press/issue-01/",
+        "title": "Parametric Press | Science + Society",
+        "description": "The Parametric Press is an experimental new project, a born-digital magazine dedicated to showcasing the expository power that's possible when the audio, visual, and interactive capabilities of dynamic media are effectively combined.",
+        "image": "https://parametric.press/issue-01/static/images/share.png"
     },
     "https://www.smashingmagazine.com/": {
         "url": "https://www.smashingmagazine.com/",
@@ -1506,7 +1537,7 @@
     },
     "https://miro.com/": {
         "url": "https://miro.com/",
-        "title": "Miro: the collaborative whiteboarding solution for distributed teams",
+        "title": "Miro: the collaborative whiteboarding platform for distributed teams",
         "icon": "https://miro.com/static/favicons/favicon-32x32.png?v=00zdoEw6N6",
         "description": "Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 2M+ users & 8000+ teams from around the world.",
         "image": "https://miro.com/static/images/share/miro.png?00001"
@@ -1630,7 +1661,7 @@
         "title": "Softwareontheroad: articles on node, react, angular, AWS",
         "icon": "https://softwareontheroad.com/favicon-32x32.png",
         "description": "Advanced articles about Node.js, React, Typescript and Amazon Web Services",
-        "image": "https://softwareontheroad.com/static/b4ee6548cfe2ec74df59c9bd14e71cab/36e49/blog-cover.jpg"
+        "image": "https://softwareontheroad.com/static/b4ee6548cfe2ec74df59c9bd14e71cab/95f85/blog-cover.jpg"
     },
     "https://devconnected.com/": {
         "url": "https://devconnected.com/",
@@ -1772,7 +1803,7 @@
     "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures": {
         "url": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures",
         "title": "Building Evolutionary Architectures: Support Constant Change by Neal Ford",
-        "description": "Building Evolutionary Architectures book. Read 55 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
+        "description": "Building Evolutionary Architectures book. Read 56 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507020307i/35755822._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/15857473-signals-and-boundaries": {
@@ -1796,7 +1827,7 @@
     "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight": {
         "url": "https://www.goodreads.com/book/show/45700960-worlds-hidden-in-plain-sight",
         "title": "Worlds Hidden in Plain Sight: The Evolving Idea of Complexity at the Santa Fe Institute, 1984–2019 by David C. Krakauer",
-        "description": "Worlds Hidden in Plain Sight book. Read 2 reviews from the world's largest community for readers. Over the last three decades, the Santa Fe Institute and...",
+        "description": "Worlds Hidden in Plain Sight book. Read 3 reviews from the world's largest community for readers. Over the last three decades, the Santa Fe Institute and...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557435815i/45700960._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets": {
@@ -1808,7 +1839,7 @@
     "https://www.goodreads.com/book/show/64582.Chaos": {
         "url": "https://www.goodreads.com/book/show/64582.Chaos",
         "title": "Chaos: Making a New Science by James Gleick",
-        "description": "Chaos book. Read 879 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
+        "description": "Chaos book. Read 882 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941595i/64582._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/869836.How_Nature_Works": {
@@ -1854,13 +1885,13 @@
     "https://www.goodreads.com/book/show/3828902-thinking-in-systems": {
         "url": "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
         "title": "Thinking in Systems: A Primer by Donella H. Meadows",
-        "description": "Thinking in Systems book. Read 597 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
+        "description": "Thinking in Systems book. Read 598 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859i/3828902._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/39088592-the-model-thinker": {
         "url": "https://www.goodreads.com/book/show/39088592-the-model-thinker",
         "title": "The Model Thinker: What You Need to Know to Make Data Work for You by Scott E. Page",
-        "description": "The Model Thinker book. Read 28 reviews from the world's largest community for readers. How anyone can become a data ninja From the stock market to genom...",
+        "description": "The Model Thinker book. Read 29 reviews from the world's largest community for readers. How anyone can become a data ninja From the stock market to genom...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538512393i/39088592._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/41580312-be-here-now": {
