@@ -3,6 +3,7 @@
         "title": "Other awesome lists",
         "name": "other-lists",
         "links": [
+            "https://github.com/lorien/awesome-web-scraping",
             "https://github.com/sindresorhus/awesome",
             "https://creative-portfolios.now.sh/",
             "https://github.com/sdras/awesome-actions",
@@ -31,6 +32,7 @@
                 "title": "Programming Languages",
                 "name": "programming-languages",
                 "links": [
+                    "https://benchmarksgame-team.pages.debian.net/benchmarksgame/",
                     "https://github.com/golang/go/wiki/LearnServerProgramming",
                     "https://nodejs.dev/",
                     "https://github.com/airbnb/javascript",
@@ -43,6 +45,7 @@
                 "title": "Programming",
                 "name": "programming",
                 "links": [
+                    "https://www.devdungeon.com/content/web-scraping-go",
                     "https://www.30secondsofcode.org/js/p/1",
                     "https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/",
                     "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/",
@@ -187,6 +190,8 @@
                 "title": "Web 3.0",
                 "name": "web3",
                 "links": [
+                    "https://docs.assemblyscript.org/s",
+                    "https://wasmbyexample.dev/",
                     "https://tendermint.com/",
                     "https://github.com/ConsenSys/ethereum-developer-tools-list",
                     "https://dorg.gitbook.io/-/our-organization/values-and-operating-principles",

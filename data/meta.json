@@ -1,4 +1,11 @@
 {
+    "https://github.com/lorien/awesome-web-scraping": {
+        "url": "https://github.com/lorien/awesome-web-scraping",
+        "title": "GitHub - lorien/awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing.",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "List of libraries, tools and APIs for web scraping and data processing. - lorien/awesome-web-scraping",
+        "image": "https://avatars1.githubusercontent.com/u/35171?s=400&v=4"
+    },
     "https://github.com/sindresorhus/awesome": {
         "url": "https://github.com/sindresorhus/awesome",
         "title": "GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics",
@@ -75,6 +82,11 @@
         "description": "Presented in an experimental mnemonic medium that makes it almost effortless to remember what you read",
         "image": "https://quantum.country/assets/social.png"
     },
+    "https://benchmarksgame-team.pages.debian.net/benchmarksgame/": {
+        "url": "https://benchmarksgame-team.pages.debian.net/benchmarksgame/",
+        "title": "Which programming language is fastest? | Computer Language Benchmarks Game",
+        "description": "Which programs written in different programming languages are fastest?"
+    },
     "https://github.com/golang/go/wiki/LearnServerProgramming": {
         "url": "https://github.com/golang/go/wiki/LearnServerProgramming",
         "title": "LearnServerProgramming · golang/go Wiki · GitHub",
@@ -114,6 +126,12 @@
         "icon": "https://github.githubassets.com/favicon.ico",
         "description": ":orange_book: a brief introduction to using Promises in JavaScript - mattdesl/promise-cookbook",
         "image": "https://avatars2.githubusercontent.com/u/1383811?s=400&v=4"
+    },
+    "https://www.devdungeon.com/content/web-scraping-go": {
+        "url": "https://www.devdungeon.com/content/web-scraping-go",
+        "title": "Web Scraping with Go | DevDungeon",
+        "description": "Virtual Hackerspace and Resources for Software Developers of all Skill Levels.",
+        "image": "https://www.devdungeon.com/sites/default/static/devdungeon500x500.png"
     },
     "https://www.30secondsofcode.org/js/p/1": {
         "url": "https://www.30secondsofcode.org/js/p/1",
@@ -707,8 +725,9 @@
     },
     "https://ethereum.consensys.net/": {
         "url": "https://ethereum.consensys.net/",
-        "title": "Developers | ConsenSys | ConsenSys",
-        "image": "https://i1.wp.com/content.consensys.net/wp-content/uploads/dev-portal-featured.png?resize=1200,600"
+        "title": "Ethereum Blockchain Developer Portal",
+        "description": "Ethereum Blockchain Developer Portal: developer tools, resources, guides, programming libraries, and more.",
+        "image": "https://i1.wp.com/content.consensys.net/wp-content/uploads/dev-portal-featured.png?resize=1200,630"
     },
     "https://docs.microsoft.com/en-us/azure/devops/learn/": {
         "url": "https://docs.microsoft.com/en-us/azure/devops/learn/",
@@ -722,6 +741,17 @@
         "title": "Google AI",
         "description": "At Google, we think that AI can meaningfully improve people’s lives and that the biggest impact will come when everyone can access it. Learn more about our projects and tools.",
         "image": "https://ai.google/static/images/share.png"
+    },
+    "https://docs.assemblyscript.org/s": {
+        "url": "https://docs.assemblyscript.org/s",
+        "title": "Page not found - The AssemblyScript Book",
+        "image": "https://app.gitbook.com/share/space/thumbnail/-Lg3lDGM2K6jDzQKwDU2.png"
+    },
+    "https://wasmbyexample.dev/": {
+        "url": "https://wasmbyexample.dev/",
+        "title": "Wasm By Example",
+        "icon": "https://wasmbyexample.dev/favicon.ico",
+        "description": "A hands-on introduction into WebAssembly ( Wasm ). Containing simple wasm examples and wasm tutorials on how to implement concepts and various tasks using WebAssembly."
     },
     "https://tendermint.com/": {
         "url": "https://tendermint.com/",
@@ -961,7 +991,7 @@
         "title": "Beautiful Free Images & Pictures | Unsplash",
         "icon": "https://unsplash.com/favicon-32x32.png",
         "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "image": "http://images.unsplash.com/photo-1562887106-2588234e7b77?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
+        "image": "http://images.unsplash.com/photo-1562887042-ed962a48feaa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
         "author": "Unsplash"
     },
     "https://fontspark.app/": {
@@ -1011,7 +1041,7 @@
         "title": "Illustrations vectors, +317,000 free files in .AI, .EPS format",
         "icon": "https://freepik.cdnpk.net/img/favicons/favicon-32x32.png?v=2018082101",
         "description": "Free Illustrations vectors: download now the most popular Illustrations vectors on Freepik. Free resources for both personal and commercial use",
-        "image": "https://image.freepik.com/free-vector/vector-illustration-cosmonaut_1441-11.jpg"
+        "image": "https://image.freepik.com/free-vector/contact-us-concept-landing-page_52683-18636.jpg"
     },
     "https://undraw.co/": {
         "url": "https://undraw.co/",
@@ -1193,6 +1223,12 @@
         "description": "Fourier transforms are a tool used in a whole bunch of different things. This is a explanation of what a Fourier transform does, and some different ways it can be useful.",
         "image": "http://www.jezzamon.com/fourier/preview.png"
     },
+    "https://visualizingmath.tumblr.com/": {
+        "url": "https://visualizingmath.tumblr.com/",
+        "title": "Visualizing Math",
+        "description": "A blog dedicated to mathematics.",
+        "image": "https://66.media.tumblr.com/avatar_1c7ef7c9144c_128.pnj"
+    },
     "https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM": {
         "url": "https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM",
         "title": "NATURE AND LEVELS OF CONFLICT"
@@ -1205,8 +1241,7 @@
     },
     "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678": {
         "url": "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678",
-        "title": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration: Robert Axelrod: 9780691015675: Amazon.com: Books",
-        "description": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration [Robert Axelrod] on Amazon.com. *FREE* shipping on qualifying offers. Robert Axelrod is widely known for his groundbreaking work in game theory and complexity theory. He is a leader in applying computer modeling to social science problems. His book The Evolution of Cooperation</i> has been hailed as a seminal contribution and has been translated into eight languages since its initial publication. The Complexity of Cooperation</i> is a sequel to that landmark book. It collects seven essays"
+        "title": "Robot Check"
     },
     "https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1": {
         "url": "https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1",
@@ -1574,9 +1609,9 @@
     },
     "https://github.com/devhubapp/devhub": {
         "url": "https://github.com/devhubapp/devhub",
-        "title": "GitHub - devhubapp/devhub: TweetDeck for GitHub - Issues, Activities & Notifications - Web, Mobile & Desktop",
+        "title": "GitHub - devhubapp/devhub: TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop",
         "icon": "https://github.githubassets.com/favicon.ico",
-        "description": "TweetDeck for GitHub - Issues, Activities & Notifications - Web, Mobile & Desktop - devhubapp/devhub",
+        "description": "TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop - devhubapp/devhub",
         "image": "https://repository-images.githubusercontent.com/75236196/4459d880-ca3f-11e9-82c6-80a8fc2c63cd"
     },
     "https://www.balena.io/etcher/": {
@@ -1738,12 +1773,6 @@
         "description": "Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.",
         "image": "https://blog.risingstack.com/content/images/2018/02/risingstack-blog-metapic.png"
     },
-    "https://www.joelonsoftware.com/": {
-        "url": "https://www.joelonsoftware.com/",
-        "title": "Joel on Software",
-        "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
-        "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1"
-    },
     "https://gear.dev/blog/": {
         "url": "https://gear.dev/blog/",
         "title": "Jon Gear",
@@ -1885,7 +1914,7 @@
     "https://www.goodreads.com/book/show/3828902-thinking-in-systems": {
         "url": "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
         "title": "Thinking in Systems: A Primer by Donella H. Meadows",
-        "description": "Thinking in Systems book. Read 598 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
+        "description": "Thinking in Systems book. Read 599 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859i/3828902._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/39088592-the-model-thinker": {

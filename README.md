@@ -40,6 +40,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Books](#books)
 
 ## <a name="other-lists"></a>Other awesome lists
+- [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Creative Portfolios](https://creative-portfolios.now.sh/)
 - [Awesome GitHub actions](https://github.com/sdras/awesome-actions)
@@ -59,6 +60,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Quantum computing for the curious](https://quantum.country/qcvc)
 
 #### <a name="programming-languages">Programming Languages
+- [Computer Languages Benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 - [Learn server-side programming in Go](https://github.com/golang/go/wiki/LearnServerProgramming)
 - [Introduction to Nodejs](https://nodejs.dev/)
 - [JavaScript style guide](https://github.com/airbnb/javascript)
@@ -67,6 +69,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [JavaScript promises cookbook](https://github.com/mattdesl/promise-cookbook)
 
 #### <a name="programming">Programming
+- [Web Scraping in Go](https://www.devdungeon.com/content/web-scraping-go)
 - [30 seconds of code](https://www.30secondsofcode.org/js/p/1) - daily code snippets
 - [Implementing a simple compiler](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
 - [Crash Course in JIT](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
@@ -187,6 +190,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="web3">Web 3.0
+- [Assembly Script](https://docs.assemblyscript.org/s)
+- [Wasm by Example](https://wasmbyexample.dev/)
 - [Decentralized Thriving (eBook)](https://daostack.io/ebook)
 - [Tenderming - tools for distributed networks](https://tendermint.com/)
 - [Ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
