@@ -69,6 +69,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [JavaScript promises cookbook](https://github.com/mattdesl/promise-cookbook)
 
 #### <a name="programming">Programming
+- [1500 coding projects ideas](https://www.linuxtrainingacademy.com/projects/)
+- [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
 - [Web Scraping in Go](https://www.devdungeon.com/content/web-scraping-go)
 - [30 seconds of code](https://www.30secondsofcode.org/js/p/1) - daily code snippets
 - [Implementing a simple compiler](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
@@ -95,6 +97,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="ai">AI and Machine Learning
+- [Testifying at the Senate about AI](https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/)
 - [DeepDreamer](https://deepdreamer.fq.nz/#requirements)
 - [aijs.rocks](https://aijs.rocks/) - A curated collection of inspirational AI-powered JavaScript apps
 - [ANN Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
@@ -345,6 +348,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [Bekk Christmas](https://bekk.christmas/)
 - [Parametric Press](https://parametric.press/issue-01/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Detailed explanation of Abstraction in Software](https://thevaluable.dev/abstraction_software_development/)

@@ -45,6 +45,8 @@
                 "title": "Programming",
                 "name": "programming",
                 "links": [
+                    "https://www.linuxtrainingacademy.com/projects/",
+                    "https://tuhdo.github.io/os01/",
                     "https://www.devdungeon.com/content/web-scraping-go",
                     "https://www.30secondsofcode.org/js/p/1",
                     "https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/",
@@ -78,6 +80,7 @@
                 "title": "AI and Machine Learning",
                 "name": "ai",
                 "links": [
+                    "https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/",
                     "https://deepdreamer.fq.nz/#requirements",
                     "https://aijs.rocks/",
                     "https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation",
@@ -388,6 +391,7 @@
         "title": "Other websites and articles",
         "name": "websites-and-articles",
         "links": [
+            "https://bekk.christmas/",
             "https://parametric.press/issue-01/",
             "https://www.smashingmagazine.com/",
             "https://thevaluable.dev/abstraction_software_development/",

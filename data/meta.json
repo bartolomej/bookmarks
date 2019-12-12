@@ -127,6 +127,17 @@
         "description": ":orange_book: a brief introduction to using Promises in JavaScript - mattdesl/promise-cookbook",
         "image": "https://avatars2.githubusercontent.com/u/1383811?s=400&v=4"
     },
+    "https://www.linuxtrainingacademy.com/projects/": {
+        "url": "https://www.linuxtrainingacademy.com/projects/",
+        "title": "Over 1,500 Coding Project Ideas | Linux Training Academy",
+        "description": "Below you will find links to over one thousand computer programming project ideas. Use this list to hone your coding skills or start building your online",
+        "image": "https://www.linuxtrainingacademy.com/wp-content/uploads/2014/10/linux-admin2.jpg"
+    },
+    "https://tuhdo.github.io/os01/": {
+        "url": "https://tuhdo.github.io/os01/",
+        "title": "os01 | Bootstrap yourself to write an OS from scratch. A book for self-learner.",
+        "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner."
+    },
     "https://www.devdungeon.com/content/web-scraping-go": {
         "url": "https://www.devdungeon.com/content/web-scraping-go",
         "title": "Web Scraping with Go | DevDungeon",
@@ -240,6 +251,11 @@
         "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Pug – robust, elegant, feature rich template engine for Node.js - pugjs/pug",
         "image": "https://avatars2.githubusercontent.com/u/9338635?s=400&v=4"
+    },
+    "https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/": {
+        "url": "https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/",
+        "title": "Testifying at the Senate about A.I.‑Selected Content on the Internet—Stephen Wolfram Writings",
+        "description": "Stephen Wolfram’s written testimony to the US Senate regarding algorithm transparency. He explains some of the complex intellectual and scientific problems involved, then offers two possible suggestions for paths forward."
     },
     "https://deepdreamer.fq.nz/#requirements": {
         "url": "https://deepdreamer.fq.nz/#requirements",
@@ -360,7 +376,7 @@
     "https://repl.it/@cmihai/Oak-Programming-Language": {
         "url": "https://repl.it/@cmihai/Oak-Programming-Language",
         "title": "Repl.it - Oak Programming Language",
-        "description": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 50+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, Python, Nodejs, Enzyme, Go, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, Bash, Quil, Crystal, Julia, Elixir, Nim, Dart, Reason NodeJs, Erlang, TypeScript, Pygame, Love2D, Tkinter, Java Swing, Emacs Lisp (Elisp), PHP Web Server, SQLite, Java, PHP CLI, Pyxel",
+        "description": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 50+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, Python, Nodejs, Go, C++, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, Bash, Quil, Crystal, Julia, Elixir, Nim, Dart, Reason NodeJs, Erlang, TypeScript, Pygame, Love2D, Tkinter, Java Swing, Emacs Lisp (Elisp), PHP Web Server, SQLite, Java, PHP CLI, Pyxel",
         "image": "https://www.gravatar.com/avatar/566c4de899964c7361958054a7e1aa25?d=https://repl.it/public/images/evalbot/evalbot_24.png&s=256",
         "author": "repl.it"
     },
@@ -991,7 +1007,7 @@
         "title": "Beautiful Free Images & Pictures | Unsplash",
         "icon": "https://unsplash.com/favicon-32x32.png",
         "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "image": "http://images.unsplash.com/photo-1562887042-ed962a48feaa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
+        "image": "http://images.unsplash.com/photo-1562886877-f12251816e01?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
         "author": "Unsplash"
     },
     "https://fontspark.app/": {
@@ -1038,7 +1054,7 @@
     },
     "https://www.freepik.com/free-vectors/illustrations": {
         "url": "https://www.freepik.com/free-vectors/illustrations",
-        "title": "Illustrations vectors, +317,000 free files in .AI, .EPS format",
+        "title": "Illustrations vectors, +319,000 free files in .AI, .EPS format",
         "icon": "https://freepik.cdnpk.net/img/favicons/favicon-32x32.png?v=2018082101",
         "description": "Free Illustrations vectors: download now the most popular Illustrations vectors on Freepik. Free resources for both personal and commercial use",
         "image": "https://image.freepik.com/free-vector/contact-us-concept-landing-page_52683-18636.jpg"
@@ -1335,7 +1351,7 @@
     "https://developers.google.com/books/docs/v1/getting_started": {
         "url": "https://developers.google.com/books/docs/v1/getting_started",
         "title": "Getting Started  |  Google Books APIs  |  Google Developers",
-        "image": "https://www.gstatic.com/devrel-devsite/prod/v15f72515e1c53f03e6d573e85fc193d888eb8fb1758082e4a5ecf80f00fa48ef/developers/images/opengraph/google-blue.png"
+        "image": "https://www.gstatic.com/devrel-devsite/prod/v2c9ac76a465325deeadecadac5c42eb727c931f99890694a7bf49d2cede0da04/developers/images/opengraph/google-blue.png"
     },
     "http://genemania.org/": {
         "url": "http://genemania.org/",
@@ -1344,6 +1360,12 @@
     "http://www.enron-mail.com/email/skilling-j/": {
         "url": "http://www.enron-mail.com/email/skilling-j/",
         "title": "Index of /email/skilling-j"
+    },
+    "https://bekk.christmas/": {
+        "url": "https://bekk.christmas/",
+        "title": "Bekk Christmas",
+        "description": "Bekk is getting in the Christmas spirit with 24 days of articles",
+        "image": "https://bekk.christmas/static/teaser-1-95bcc16151dc1d561bd79ede903e9e7c.jpg"
     },
     "https://parametric.press/issue-01/": {
         "url": "https://parametric.press/issue-01/",
@@ -1914,7 +1936,7 @@
     "https://www.goodreads.com/book/show/3828902-thinking-in-systems": {
         "url": "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
         "title": "Thinking in Systems: A Primer by Donella H. Meadows",
-        "description": "Thinking in Systems book. Read 599 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
+        "description": "Thinking in Systems book. Read 600 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859i/3828902._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/39088592-the-model-thinker": {
