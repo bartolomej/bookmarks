@@ -16,10 +16,11 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 	- [Programming](#programming)
 	- [Beautiful codebases](#beautiful-codebases)
 	- [AI and Machine learning](#ai)
+	- [Version Control](#vcs)
 	- [Code practises, patterns, tutorials and tips](#practises)
 	- [Example projects](#example-projects)
 	- [Frameworks and tools](#frameworks-and-tools)
-	- [Web 3.0](#web3)
+	- [Web](#web3)
 	- [Software engineering and architecture](#software-endineering-and-architecture)
 	- [Distributed systems](#distributed-systems)
 	- [Graph Theory](#graph-theory)
@@ -55,11 +56,13 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 *[&#8593; top](#contents)*
 
 #### <a name="theories-and-conceprs">Theories and concepts
+- [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/)
 - [DAO](https://github.com/the-dao/whitepaper) - Decentralized Autonomous Organisation
 - [Markov chains explained visually](http://setosa.io/ev/markov-chains/)
 - [Quantum computing for the curious](https://quantum.country/qcvc)
 
 #### <a name="programming-languages">Programming Languages
+- [JavaScript engine visualized](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [Computer Languages Benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 - [Learn server-side programming in Go](https://github.com/golang/go/wiki/LearnServerProgramming)
 - [Introduction to Nodejs](https://nodejs.dev/)
@@ -69,6 +72,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [JavaScript promises cookbook](https://github.com/mattdesl/promise-cookbook)
 
 #### <a name="programming">Programming
+- [JSON parser with JavaScript](https://lihautan.com/json-parser-with-javascript/)
 - [1500 coding projects ideas](https://www.linuxtrainingacademy.com/projects/)
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
 - [Web Scraping in Go](https://www.devdungeon.com/content/web-scraping-go)
@@ -89,8 +93,6 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Cool programming articles website](https://peeke.nl/)
 - [Informal History Of Programming Ideas](http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas)
 - [People Projects And Patterns](http://wiki.c2.com/?PeopleProjectsAndPatterns)
-- [GitHub flow](https://guides.github.com/introduction/flow/)
-- [Git flow by Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 #### <a name="beautiful-codebases">Beautiful codebases
 - [Pug](https://github.com/pugjs/pug)
@@ -105,12 +107,17 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Classifying text](https://www.nltk.org/book/ch06.html)
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
-#### <a name="practises">Code practises, patterns, tutorials and tips
+#### <a name="vcs">Version Control and Open Source ecosystem
 - [First contributions to Open Source](https://firstcontributions.github.io/)
 - [Git commit practises](https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/)
+- [How to write a Git commit message](https://chris.beams.io/posts/git-commit/)
+- [Git flow by Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [GitHub flow](https://guides.github.com/introduction/flow/)
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
+#### <a name="practises">Code practises, patterns, tutorials and tips
 - [Faster feedback loops while coding](https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html)
 - [Free up Mac disk storage](https://fluffy.es/free-up-mac-storage/)
-- [How to write a Git commit message](https://chris.beams.io/posts/git-commit/)
 - [Nodejs best practises](https://github.com/goldbergyoni/nodebestpractices)
 - [Coding university](https://github.com/jwasham/coding-interview-university)
 - [System Design primer](https://github.com/donnemartin/system-design-primer)
@@ -192,7 +199,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Google AI](https://ai.google/)
 
 
-#### <a name="web3">Web 3.0
+#### <a name="web3">Web
+- [The History of The Web](https://thehistoryoftheweb.com/)
 - [Assembly Script](https://docs.assemblyscript.org/s)
 - [Wasm by Example](https://wasmbyexample.dev/)
 - [Decentralized Thriving (eBook)](https://daostack.io/ebook)

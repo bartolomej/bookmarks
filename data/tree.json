@@ -23,6 +23,7 @@
                 "title": "Theories and concepts",
                 "name": "theories-and-conceprs",
                 "links": [
+                    "https://plato.stanford.edu/entries/computational-mind/",
                     "https://github.com/the-dao/whitepaper",
                     "http://setosa.io/ev/markov-chains/",
                     "https://quantum.country/qcvc"
@@ -32,6 +33,7 @@
                 "title": "Programming Languages",
                 "name": "programming-languages",
                 "links": [
+                    "https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf",
                     "https://benchmarksgame-team.pages.debian.net/benchmarksgame/",
                     "https://github.com/golang/go/wiki/LearnServerProgramming",
                     "https://nodejs.dev/",
@@ -45,6 +47,7 @@
                 "title": "Programming",
                 "name": "programming",
                 "links": [
+                    "https://lihautan.com/json-parser-with-javascript/",
                     "https://www.linuxtrainingacademy.com/projects/",
                     "https://tuhdo.github.io/os01/",
                     "https://www.devdungeon.com/content/web-scraping-go",
@@ -64,9 +67,7 @@
                     "https://www.debuggex.com/",
                     "https://peeke.nl/",
                     "http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas",
-                    "http://wiki.c2.com/?PeopleProjectsAndPatterns",
-                    "https://guides.github.com/introduction/flow/",
-                    "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow"
+                    "http://wiki.c2.com/?PeopleProjectsAndPatterns"
                 ]
             },
             {
@@ -90,14 +91,23 @@
                 ]
             },
             {
-                "title": "Code practises, patterns, tutorials and tips",
-                "name": "practises",
+                "title": "Version Control and Open Source ecosystem",
+                "name": "vcs",
                 "links": [
                     "https://firstcontributions.github.io/",
                     "https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/",
+                    "https://chris.beams.io/posts/git-commit/",
+                    "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+                    "https://guides.github.com/introduction/flow/",
+                    "https://nvie.com/posts/a-successful-git-branching-model/"
+                ]
+            },
+            {
+                "title": "Code practises, patterns, tutorials and tips",
+                "name": "practises",
+                "links": [
                     "https://www.tedinski.com/2019/03/11/fast-feedback-from-tests.html",
                     "https://fluffy.es/free-up-mac-storage/",
-                    "https://chris.beams.io/posts/git-commit/",
                     "https://github.com/goldbergyoni/nodebestpractices",
                     "https://github.com/jwasham/coding-interview-university",
                     "https://github.com/donnemartin/system-design-primer",
@@ -190,9 +200,10 @@
                 ]
             },
             {
-                "title": "Web 3.0",
+                "title": "Web",
                 "name": "web3",
                 "links": [
+                    "https://thehistoryoftheweb.com/",
                     "https://docs.assemblyscript.org/s",
                     "https://wasmbyexample.dev/",
                     "https://tendermint.com/",

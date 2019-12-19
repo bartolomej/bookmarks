@@ -55,7 +55,7 @@ export default function ({ tree, metadata }) {
 }
 
 const MainListItem = styled.li`
-  padding-top: 30px;
+  padding: 30px 20px;
   list-style-type: none;
 `;
 

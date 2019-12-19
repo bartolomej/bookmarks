@@ -70,11 +70,11 @@ export default function () {
       <Header>
         <h1>Cool links <span role="img" aria-label="Links emoji">💾📚📖</span></h1>
         <p>Links of different interesting ideas, resources, blogs, articles, books etc.</p>
-        <ArrowSvg/>
+        <ArrowBtn href="#landing"><ArrowSvg/></ArrowBtn>
       </Header>
       <Body>
         {loading && (
-          <LoadingContainer>
+          <LoadingContainer id="landing">
             <h1>Loading....</h1>
           </LoadingContainer>
         )}
@@ -156,10 +156,17 @@ function apiUrl (file) {
 const ArrowSvg = styled(ArrowAsset)`
   height: 100px;
   padding-top: 150px;
-  animation: slide-down-up 3s ease-in-out .1s infinite;
+  transition: 0.2s ease-in-out;
   #arrowPath {
     fill: white;
   }
+  &:hover {
+    transform: scale(1.3);
+  }
+`;
+
+const ArrowBtn = styled('a')`
+  animation: slide-down-up 3s ease-in-out .1s infinite;
   @keyframes slide-down-up {
     0% {
         transform: translateY(-30%);
@@ -170,7 +177,7 @@ const ArrowSvg = styled(ArrowAsset)`
     100% {
         transform: translateY(-30%);
     }
-}
+  }
 `;
 
 const Container = styled.div`
