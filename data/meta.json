@@ -44,11 +44,7 @@
     },
     "https://nicedoc.io/brillout/awesome-react-components?theme=light#user-content-table--data-grid": {
         "url": "https://nicedoc.io/brillout/awesome-react-components?theme=light#user-content-table--data-grid",
-        "title": "brillout/awesome-react-components: Curated List of React Components & Libraries.",
-        "icon": "https://nicedoc.io/static/favicon-32x32.png",
-        "description": "Curated List of React Components & Libraries.",
-        "image": "https://nicedoc.io/static/banner.jpg",
-        "author": "brillout"
+        "title": "nicedoc.io | 522: Connection timed out"
     },
     "https://github.com/sp4ke/awesome-explorables": {
         "url": "https://github.com/sp4ke/awesome-explorables",
@@ -146,7 +142,7 @@
         "url": "https://www.linuxtrainingacademy.com/projects/",
         "title": "Over 1,500 Coding Project Ideas | Linux Training Academy",
         "description": "Below you will find links to over one thousand computer programming project ideas. Use this list to hone your coding skills or start building your online",
-        "image": "https://www.linuxtrainingacademy.com/wp-content/uploads/2014/10/linux-admin2.jpg"
+        "image": "https://www.linuxtrainingacademy.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
     },
     "https://tuhdo.github.io/os01/": {
         "url": "https://tuhdo.github.io/os01/",
@@ -453,6 +449,20 @@
         "icon": "https://github.githubassets.com/favicon.ico",
         "description": "💁‍♀️❤️📰 Frontend for the Supporter platform. Contribute to guardian/support-frontend development by creating an account on GitHub.",
         "image": "https://avatars0.githubusercontent.com/u/164318?s=400&v=4"
+    },
+    "https://github.com/vladocar/nanoJS": {
+        "url": "https://github.com/vladocar/nanoJS",
+        "title": "GitHub - vladocar/nanoJS: Minimal standalone JS library for DOM manipulation",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "Minimal standalone JS library for DOM manipulation - vladocar/nanoJS",
+        "image": "https://avatars3.githubusercontent.com/u/34764?s=400&v=4"
+    },
+    "https://github.com/zadam/trilium": {
+        "url": "https://github.com/zadam/trilium",
+        "title": "GitHub - zadam/trilium: Build your personal knowledge base with Trilium Notes",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "Build your personal knowledge base with Trilium Notes - zadam/trilium",
+        "image": "https://avatars2.githubusercontent.com/u/617641?s=400&v=4"
     },
     "https://greensock.com/": {
         "url": "https://greensock.com/",
@@ -764,7 +774,7 @@
         "url": "https://ethereum.consensys.net/",
         "title": "Ethereum Blockchain Developer Portal",
         "description": "Ethereum Blockchain Developer Portal: developer tools, resources, guides, programming libraries, and more.",
-        "image": "https://i0.wp.com/content.consensys.net/wp-content/uploads/dev-portal-featured.png?resize=1200,630"
+        "image": "https://content.consensys.net/wp-content/uploads/dev-portal-featured.png?resize=1200,630"
     },
     "https://docs.microsoft.com/en-us/azure/devops/learn/": {
         "url": "https://docs.microsoft.com/en-us/azure/devops/learn/",
@@ -810,7 +820,7 @@
     },
     "https://dorg.gitbook.io/-/our-organization/values-and-operating-principles": {
         "url": "https://dorg.gitbook.io/-/our-organization/values-and-operating-principles",
-        "title": "Values & Operating Principles - dOrg Handbook",
+        "title": "Values - dOrg Handbook",
         "image": "https://app.gitbook.com/share/space/thumbnail/-LoFU_36XFy2Gb-YCojF.png"
     },
     "https://liviade.gitbook.io/genesisdao/": {
@@ -939,6 +949,12 @@
         "url": "http://textexture.com",
         "title": "Visualize any Text as a Network - Textexture"
     },
+    "http://astrangertowords.com/": {
+        "url": "http://astrangertowords.com/",
+        "title": "A Stranger to Words – Interactive Data Visualization",
+        "description": "Experience beautiful data art with words.",
+        "author": "Meng Chih Chiang"
+    },
     "https://www.styled-components.com/": {
         "url": "https://www.styled-components.com/",
         "title": "styled-components",
@@ -981,6 +997,24 @@
         "image": "https://miro.medium.com/focal/1200/632/52/42/1*9VubAng-r08AkzxMzRN-5A.jpeg",
         "author": "Rodrigo Pombo"
     },
+    "https://www.seoptimer.com/": {
+        "url": "https://www.seoptimer.com/",
+        "title": "Analyze Websites With Free SEO Audit & Reporting Tool - SEOptimer",
+        "description": "Looking for the best SEO Audit Tool to analyze and grade your website? SEOptimer is the web's best SEO Checker. Improve your website, rank better in Search Engines and win more customers with beautiful SEO Reports. Audit your SEO today!",
+        "image": "https://www.seoptimer.com/wp-content/themes/startit/assets/img/seoptimerlogo.png"
+    },
+    "https://htmlhead.dev/": {
+        "url": "https://htmlhead.dev/",
+        "title": "HEAD - A free guide to <head> elements ",
+        "description": "A free guide to <head> elements"
+    },
+    "https://animista.net/play/": {
+        "url": "https://animista.net/play/",
+        "title": "Animista",
+        "icon": "https://animista.netfavicon-16x16.png",
+        "description": "Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.",
+        "image": "http://animista.net/animista-media-img.gif"
+    },
     "https://mockaroo.com/": {
         "url": "https://mockaroo.com/",
         "title": "Mockaroo  - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel",
@@ -997,6 +1031,111 @@
     "https://randomuser.me/api/": {
         "url": "https://randomuser.me/api/",
         "title": ""
+    },
+    "https://iconmonstr.com/": {
+        "url": "https://iconmonstr.com/",
+        "title": "iconmonstr - Free simple icons for your next project",
+        "description": "Free simple icons for your next project"
+    },
+    "https://www.manypixels.co/gallery/": {
+        "url": "https://www.manypixels.co/gallery/",
+        "title": "Illustration Gallery by ManyPixels | Open-Source Editable Illustrations",
+        "description": "Each week, discover royalty-free illustrations to power up your projects. Use them in a commercial or non-commercial way.",
+        "image": "https://www.manypixels.co/gallery/share-mp.png"
+    },
+    "https://www.glazestock.com/": {
+        "url": "https://www.glazestock.com/",
+        "title": "Glaze | Illustrations",
+        "icon": "https://www.glazestock.com/img/icons/favicon-32x32.png"
+    },
+    "https://illlustrations.co/": {
+        "url": "https://illlustrations.co/",
+        "title": "illlustrations - open source illustrations kit",
+        "description": "Large set of opensource illustrations. You can use completely free and without attribution.",
+        "image": "https://illlustrations.co/preview.jpg"
+    },
+    "https://isometric.online/": {
+        "url": "https://isometric.online/",
+        "title": "Isometric | Download free isometric illustrations",
+        "description": "Free vector isometric illustrations for designers, startups and companies without the need to include attribution",
+        "image": "https://isometric.online/wp-content/uploads/2019/07/socimg.png"
+    },
+    "https://woobro.design/": {
+        "url": "https://woobro.design/",
+        "title": "Free Vector Images for Commercial Use",
+        "description": "Free Vector Images for Commercial Use. Download Illustrations in SVG, SKETCH, AI and PNG formats."
+    },
+    "https://lukaszadam.com/illustrations": {
+        "url": "https://lukaszadam.com/illustrations",
+        "title": "Free Illustrations [Free SVG Illustrations] MIT Vectors",
+        "icon": "https://lukaszadam.com/favicon.ico",
+        "description": "Free Illustrations and Icons for everyone. Use them for anything you like. Free for commercial and personal use."
+    },
+    "https://www.humaaans.com/": {
+        "url": "https://www.humaaans.com/",
+        "title": "Humaaans: Mix-&-Match illustration library",
+        "description": "Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.",
+        "image": "https://assets.website-files.com/5bff8886c3964a992e90d465/5c050a75fc73fba30bf816f1_seo-rectangle.jpg"
+    },
+    "https://fresh-folk.com/": {
+        "url": "https://fresh-folk.com/",
+        "title": "Fresh Folk",
+        "description": "An illustration library of people and objects",
+        "image": "https://fresh-folk.com/assets/images/card.jpg?v48295323567751"
+    },
+    "https://game-icons.net/": {
+        "url": "https://game-icons.net/",
+        "title": "3742 free SVG and PNG icons for your games or apps | Game-icons.net",
+        "icon": "https://game-icons.net/favicon.ico"
+    },
+    "https://www.opendoodles.com/": {
+        "url": "https://www.opendoodles.com/",
+        "title": "Open Doodles - Free sketchy illustrations",
+        "description": "A library of sketchy illustrations of people free for personal and commercial use.",
+        "image": "https://assets.website-files.com/5d5d5904f8a21bfe5ff69367/5da4cb5454976755fcac7930_seo-doodles.jpg"
+    },
+    "https://getavataaars.com/": {
+        "url": "https://getavataaars.com/",
+        "title": "Avataaars Generator - A free online avatar generator for anyone to make their beautiful personal avatar easily!",
+        "icon": "https://getavataaars.com/favicon.png",
+        "description": "A free online avatar generator for anyone to make their beautiful personal avatar easily!"
+    },
+    "https://personas.draftbit.com/": {
+        "url": "https://personas.draftbit.com/",
+        "title": "Personas by Draftbit | A playful avatar generator for the modern age.",
+        "description": "A playful avatar generator for the modern age.",
+        "image": "https://personas.draftbit.com/web-preview.png"
+    },
+    "https://www.isometriclove.com/": {
+        "url": "https://www.isometriclove.com/",
+        "title": "Cute Isometric Objects For Design | Isometriclove"
+    },
+    "https://iradesign.io/": {
+        "url": "https://iradesign.io/",
+        "title": "IRA Design - Build your own amazing illustrations @ Creative Tim",
+        "icon": "https://iradesign.io./assets/img/favicon.png",
+        "description": "Build your own amazing illustrations.",
+        "image": "https://raw.githack.com/ira-design/ira-design.github.io/master/assets/img/iradesign.jpg"
+    },
+    "https://absurd.design/": {
+        "url": "https://absurd.design/",
+        "title": "Absurd Design - Free Surrealist Illustrations and Vector Art",
+        "icon": "https://absurd.design/assets/img/favicon/favicon-196x196.png",
+        "description": "Download surrealist illustrations. Use free vector art for your landing pages, presentations and apps. These artworks combine the absurdity and childishness. ",
+        "image": "https://absurd.design/assets/img/social.jpg"
+    },
+    "https://konpa.github.io/devicon/": {
+        "url": "https://konpa.github.io/devicon/",
+        "title": "DEVICON | All programming languages and development tools related icons font",
+        "icon": "https://konpa.github.iofavicon.png",
+        "description": "devicon aims to gather all logos representing development languages and tools in one font."
+    },
+    "https://github.com/MariaLetta/mega-doodles-pack": {
+        "url": "https://github.com/MariaLetta/mega-doodles-pack",
+        "title": "GitHub - MariaLetta/mega-doodles-pack: 🔥 Big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "🔥 Big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on  - MariaLetta/mega-doodles-pack",
+        "image": "https://avatars2.githubusercontent.com/u/49082826?s=400&v=4"
     },
     "https://thenounproject.com/": {
         "url": "https://thenounproject.com/",
@@ -1028,7 +1167,7 @@
         "title": "Beautiful Free Images & Pictures | Unsplash",
         "icon": "https://unsplash.com/favicon-32x32.png",
         "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "image": "http://images.unsplash.com/photo-1562887194-a50958050e39?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
+        "image": "http://images.unsplash.com/photo-1562886877-aaaa5c0b3225?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
         "author": "Unsplash"
     },
     "https://fontspark.app/": {
@@ -1075,7 +1214,7 @@
     },
     "https://www.freepik.com/free-vectors/illustrations": {
         "url": "https://www.freepik.com/free-vectors/illustrations",
-        "title": "Illustrations vectors, +321,000 free files in .AI, .EPS format",
+        "title": "Illustrations vectors, +324,000 free files in .AI, .EPS format",
         "icon": "https://freepik.cdnpk.net/img/favicons/favicon-32x32.png?v=2018082101",
         "description": "Free Illustrations vectors: download now the most popular Illustrations vectors on Freepik. Free resources for both personal and commercial use",
         "image": "https://image.freepik.com/free-vector/contact-us-concept-landing-page_52683-18636.jpg"
@@ -1267,7 +1406,7 @@
     "https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation": {
         "url": "https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation",
         "title": "The Evolution of Cooperation by Robert Axelrod",
-        "description": "The Evolution of Cooperation book. Read 116 reviews from the world's largest community for readers. The Evolution of Cooperation provides valuable insigh...",
+        "description": "The Evolution of Cooperation book. Read 117 reviews from the world's largest community for readers. The Evolution of Cooperation provides valuable insigh...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388197031i/366821._UY630_SR1200,630_.jpg"
     },
     "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678": {
@@ -1301,6 +1440,16 @@
         "title": "Home | Santa Fe Institute",
         "description": "Welcome to Santa Fe Institute.",
         "image": "https://s3.amazonaws.com/sfi-edu/sfi-edu/production/static/sfi-share-default.jpg"
+    },
+    "https://public-apis.xyz/": {
+        "url": "https://public-apis.xyz/",
+        "title": "Public APIs: A Collection of Public and Free APIs for Development",
+        "description": "Get the best collection of public and open APIs like movie APIs, weather APIs, Food APIs, music APIs, games and comics APIs, meme APIs, news API, etc.",
+        "image": "https://public-apis.xyz/images/banner.png"
+    },
+    "http://www.cs.cmu.edu/~enron/": {
+        "url": "http://www.cs.cmu.edu/~enron/",
+        "title": "Enron Email Dataset"
     },
     "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html": {
         "url": "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
@@ -1372,6 +1521,10 @@
         "url": "http://www.enron-mail.com/email/skilling-j/",
         "title": "Index of /email/skilling-j"
     },
+    "https://www.xefer.com/wikipedia": {
+        "url": "https://www.xefer.com/wikipedia",
+        "title": "502 Bad Gateway"
+    },
     "https://bekk.christmas/": {
         "url": "https://bekk.christmas/",
         "title": "Bekk Christmas",
@@ -1386,7 +1539,7 @@
     },
     "https://www.smashingmagazine.com/": {
         "url": "https://www.smashingmagazine.com/",
-        "title": "Smashing Magazine — For Web Designers And Developers — Smashing Magazine",
+        "title": "Smashing Magazine — For Web Designers And Developers",
         "icon": "https://www.smashingmagazine.com/images/favicon/favicon.png",
         "description": "Smashing Magazine — for web designers and developers",
         "image": "https:"
@@ -1426,6 +1579,12 @@
         "url": "https://clementmihailescu.github.io/Pathfinding-Visualizer/#",
         "title": "Pathfinding Visualizer"
     },
+    "http://frankforce.com/?p=6378": {
+        "url": "http://frankforce.com/?p=6378",
+        "title": "\nDissecting A Dweet #3: Mini Black Hole | Killed By A Pixel\t",
+        "description": "Today we will be examining my most popular dweet, a miniature black hole simulation! It’s one of my easiest dweets to explain and the code is fairly straightforward. Read on for a full analys…",
+        "image": "http://frankforce.com/wp-content/uploads/2019/07/black_hole_head.png"
+    },
     "https://fvcproductions.github.io/hire-me/#/": {
         "url": "https://fvcproductions.github.io/hire-me/#/",
         "title": "hire-me",
@@ -1448,7 +1607,7 @@
         "url": "https://devhints.io/",
         "title": "Devhints — TL;DR for developer documentation",
         "description": "A ridiculous collection of web development cheatsheets · One-page guide to ",
-        "image": "https://assets.devhints.io/previews/index.jpg?t=20191218024442"
+        "image": "https://assets.devhints.io/previews/index.jpg?t=20191231230944"
     },
     "https://mythbusters.js.org/#/": {
         "url": "https://mythbusters.js.org/#/",
@@ -1690,7 +1849,7 @@
     "https://www.taniarascia.com/": {
         "url": "https://www.taniarascia.com/",
         "title": "Tania Rascia – Developer & Writer",
-        "description": "Tania Rascia is a web developer and writer specializing in modern JavaScript.",
+        "description": "Tania Rascia is a front end software developer and writer specializing in modern JavaScript.",
         "image": "https://www.taniarascia.com/logos/logo-1024.png"
     },
     "https://www.tedinski.com/": {
@@ -1800,12 +1959,6 @@
         "description": "Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.",
         "image": "https://blog.risingstack.com/content/images/2018/02/risingstack-blog-metapic.png"
     },
-    "https://www.joelonsoftware.com/": {
-        "url": "https://www.joelonsoftware.com/",
-        "title": "Joel on Software",
-        "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
-        "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1"
-    },
     "https://gear.dev/blog/": {
         "url": "https://gear.dev/blog/",
         "title": "Jon Gear",
@@ -1865,7 +2018,7 @@
     "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures": {
         "url": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures",
         "title": "Building Evolutionary Architectures: Support Constant Change by Neal Ford",
-        "description": "Building Evolutionary Architectures book. Read 56 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
+        "description": "Building Evolutionary Architectures book. Read 57 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507020307i/35755822._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/15857473-signals-and-boundaries": {
@@ -1877,7 +2030,7 @@
     "https://www.goodreads.com/book/show/2296.Emergence": {
         "url": "https://www.goodreads.com/book/show/2296.Emergence",
         "title": "Emergence: The Connected Lives of Ants, Brains, Cities, and Software by Steven Johnson",
-        "description": "Emergence book. Read 235 reviews from the world's largest community for readers. In the tradition of Being Digital and The Tipping Point, Steven Johnson,...",
+        "description": "Emergence book. Read 237 reviews from the world's largest community for readers. In the tradition of Being Digital and The Tipping Point, Steven Johnson,...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294786433i/2296._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/259947.The_Complexity_of_Cooperation": {
@@ -1895,13 +2048,13 @@
     "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets": {
         "url": "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets",
         "title": "The (Mis)Behavior of Markets by Benoît B. Mandelbrot",
-        "description": "The (Mis)Behavior of Markets book. Read 186 reviews from the world's largest community for readers. Benoit B. Mandelbrot, one of the century's most influ...",
+        "description": "The (Mis)Behavior of Markets book. Read 187 reviews from the world's largest community for readers. Benoit B. Mandelbrot, one of the century's most influ...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387705519i/665134._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/64582.Chaos": {
         "url": "https://www.goodreads.com/book/show/64582.Chaos",
         "title": "Chaos: Making a New Science by James Gleick",
-        "description": "Chaos book. Read 883 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
+        "description": "Chaos book. Read 888 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941595i/64582._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/869836.How_Nature_Works": {
@@ -1918,7 +2071,7 @@
     "https://www.goodreads.com/book/show/896539.Emergence": {
         "url": "https://www.goodreads.com/book/show/896539.Emergence",
         "title": "Emergence: From Chaos To Order by John H. Holland",
-        "description": "Emergence book. Read 9 reviews from the world's largest community for readers. In this important book, John H. Holland dramatically shows us that the “em...",
+        "description": "Emergence book. Read 10 reviews from the world's largest community for readers. In this important book, John H. Holland dramatically shows us that the “e...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347554812i/896539._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/587906.Deep_Simplicity": {
@@ -1948,7 +2101,7 @@
     "https://www.goodreads.com/book/show/3828902-thinking-in-systems": {
         "url": "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
         "title": "Thinking in Systems: A Primer by Donella H. Meadows",
-        "description": "Thinking in Systems book. Read 601 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
+        "description": "Thinking in Systems book. Read 608 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859i/3828902._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/39088592-the-model-thinker": {
@@ -1960,7 +2113,7 @@
     "https://www.goodreads.com/book/show/41580312-be-here-now": {
         "url": "https://www.goodreads.com/book/show/41580312-be-here-now",
         "title": "Be Here Now by Ram Dass",
-        "description": "Be Here Now book. Read 783 reviews from the world's largest community for readers. Describes one man's transformation upon his acceptance of the principl...",
+        "description": "Be Here Now book. Read 797 reviews from the world's largest community for readers. Describes one man's transformation upon his acceptance of the principl...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535737556i/41580312._UY630_SR1200,630_.jpg"
     }
 }

@@ -25,9 +25,11 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 	- [Distributed systems](#distributed-systems)
 	- [Graph Theory](#graph-theory)
 	- [Reactjs](#reactjs)
+	- [Web Development](#web-dev)
 	- [Mock data generation](#mock-data-generation)
 - [Graphic Design](#graphic-design)
-	- [Design Resources](design-resources)
+	- [Free Design Assets](#free-design-assets)
+	- [Design resources](#design-resources)
 	- [Fonts](#fonts)
 	- [Cool Designs](cool-designs)
 - [Mathematics](#mathematics)
@@ -141,6 +143,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+- [Minimalistic jQuery](https://github.com/vladocar/nanoJS)
+- [Trillium](https://github.com/zadam/trilium)
 - [GreenSock](https://greensock.com/) - svg animation library
 - [XState finite state machine and state charts for the web](https://xstate.js.org/docs/)
 - [Slate](https://github.com/ianstormtaylor/slate) - framework for building rich text editors
@@ -244,6 +248,11 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Framer Motion](https://www.framer.com/motion/)
 - [Build your own React.js](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 
+#### <a name="web-dev">Web Development
+- [SEO optimizer tool](https://www.seoptimer.com/)
+- [HTML head elements guide](https://htmlhead.dev/)
+- [CSS animation generator](https://animista.net/play/)
+
 #### <a name="mock-data-generation">Mock data generation
 - [custom random data](https://mockaroo.com/)
 - [random picture api](https://picsum.photos/)
@@ -252,7 +261,25 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="graphic-design">Graphic Design
 *[&#8593; top](#contents)*
 
-#### <a name="fonts">Design assets
+#### <a name="free-design-assets">Free Design assets
+- [Icon monstr](https://iconmonstr.com/)
+- [Many pixels](https://www.manypixels.co/gallery/)
+- [Glaze](https://www.glazestock.com/)
+- [Illustrations](https://illlustrations.co/)
+- [Isometric](https://isometric.online/)
+- [Woobro design](https://woobro.design/)
+- [Free illustrations](https://lukaszadam.com/illustrations)
+- [Humaaans](https://www.humaaans.com/)
+- [Fresh folk](https://fresh-folk.com/)
+- [Game icons](https://game-icons.net/)
+- [Open doodles](https://www.opendoodles.com/)
+- [Avatar generator](https://getavataaars.com/)
+- [Personas avatar generator](https://personas.draftbit.com/)
+- [Isometric objects for your design](https://www.isometriclove.com/)
+- [IRA Design](https://iradesign.io/)
+- [Absurd illustrations](https://absurd.design/)
+- [Dev icons](https://konpa.github.io/devicon/)
+- [Mega doodles pack](https://github.com/MariaLetta/mega-doodles-pack)
 - [The Noun Project](https://thenounproject.com/)
 - [Loading.io](https://loading.io/)
 - [Design assets for Figma](https://www.motive.studio/shop)
@@ -334,6 +361,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="datasets-and-apis">Datasets and APIs
 *[&#8593; top](#contents)*
 
+- [Free Public APIs](https://public-apis.xyz/)
+- [Enrom Email Dataset](http://www.cs.cmu.edu/~enron/)
 - [CodeSearchNey challange](https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/)
 - [Audi Driving Dataset](https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html)
 - [Yelp dataset](https://www.yelp.com/dataset/challenge)
@@ -356,6 +385,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
+- [All pages lead to philoxophy](https://www.xefer.com/wikipedia)
 - [Bekk Christmas](https://bekk.christmas/)
 - [Parametric Press](https://parametric.press/issue-01/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)

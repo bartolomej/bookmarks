@@ -138,6 +138,8 @@
                 "title": "Frameworks and tools",
                 "name": "frameworks-and-tools",
                 "links": [
+                    "https://github.com/vladocar/nanoJS",
+                    "https://github.com/zadam/trilium",
                     "https://greensock.com/",
                     "https://xstate.js.org/docs/",
                     "https://github.com/ianstormtaylor/slate",
@@ -259,6 +261,15 @@
                 ]
             },
             {
+                "title": "Web Development",
+                "name": "web-dev",
+                "links": [
+                    "https://www.seoptimer.com/",
+                    "https://htmlhead.dev/",
+                    "https://animista.net/play/"
+                ]
+            },
+            {
                 "title": "Mock data generation",
                 "name": "mock-data-generation",
                 "links": [
@@ -274,9 +285,27 @@
         "name": "graphic-design",
         "subsections": [
             {
-                "title": "Design assets",
-                "name": "fonts",
+                "title": "Free Design assets",
+                "name": "free-design-assets",
                 "links": [
+                    "https://iconmonstr.com/",
+                    "https://www.manypixels.co/gallery/",
+                    "https://www.glazestock.com/",
+                    "https://illlustrations.co/",
+                    "https://isometric.online/",
+                    "https://woobro.design/",
+                    "https://lukaszadam.com/illustrations",
+                    "https://www.humaaans.com/",
+                    "https://fresh-folk.com/",
+                    "https://game-icons.net/",
+                    "https://www.opendoodles.com/",
+                    "https://getavataaars.com/",
+                    "https://personas.draftbit.com/",
+                    "https://www.isometriclove.com/",
+                    "https://iradesign.io/",
+                    "https://absurd.design/",
+                    "https://konpa.github.io/devicon/",
+                    "https://github.com/MariaLetta/mega-doodles-pack",
                     "https://thenounproject.com/",
                     "https://loading.io/",
                     "https://www.motive.studio/shop",
@@ -378,6 +407,8 @@
         "title": "Datasets and APIs",
         "name": "datasets-and-apis",
         "links": [
+            "https://public-apis.xyz/",
+            "http://www.cs.cmu.edu/~enron/",
             "https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/",
             "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
             "https://www.yelp.com/dataset/challenge",
@@ -402,6 +433,7 @@
         "title": "Other websites and articles",
         "name": "websites-and-articles",
         "links": [
+            "https://www.xefer.com/wikipedia",
             "https://bekk.christmas/",
             "https://parametric.press/issue-01/",
             "https://www.smashingmagazine.com/",
