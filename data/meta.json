@@ -132,6 +132,13 @@
         "description": ":orange_book: a brief introduction to using Promises in JavaScript - mattdesl/promise-cookbook",
         "image": "https://avatars2.githubusercontent.com/u/1383811?s=400&v=4"
     },
+    "https://visualgo.net/en": {
+        "url": "https://visualgo.net/en",
+        "title": "VisuAlgo - visualising data structures and algorithms through animation",
+        "icon": "https://visualgo.net/img/favicon.png",
+        "description": "VisuAlgo was conceptualised in 2011 by Dr Steven Halim as a tool to help his students better understand data structures and algorithms, by allowing them to learn the basics on their own and at their own pace. Together with his students from the National University of Singapore, a series of visualisations were developed and consolidated, from simple sorting algorithms to complex graph data structures. Though specifically designed for the use of NUS students taking various data structure and algorithm classes (CS1010, CS1020, CS2010, CS2020, and CS3233), as advocators of online learning, we hope that curious minds around the world will find these visualisations useful as well.",
+        "image": "https://visualgo.net/img/png.png"
+    },
     "https://lihautan.com/json-parser-with-javascript/": {
         "url": "https://lihautan.com/json-parser-with-javascript/",
         "title": "JSON Parser with JavaScript | Tan Li Hau",
@@ -250,6 +257,10 @@
         "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Pug – robust, elegant, feature rich template engine for Node.js - pugjs/pug",
         "image": "https://avatars2.githubusercontent.com/u/9338635?s=400&v=4"
+    },
+    "https://www.fast.ai/": {
+        "url": "https://www.fast.ai/",
+        "title": "\n    \n      fast.ai · Making neural nets uncool again\n    \n  "
     },
     "https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/": {
         "url": "https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/",
@@ -386,6 +397,20 @@
         "description": "GitHub Actions are still in beta and are changing quickly. But if you are looking to get started the possibilities are endless.",
         "image": "https://jeffrafter.com//static/b3f301cf766c1545df5fa5a1dfeda413/85cf5/hubot.png"
     },
+    "https://github.com/GoogleCloudPlatform/microservices-demo": {
+        "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+        "title": "GitHub - GoogleCloudPlatform/microservices-demo: Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. - GoogleCloudPlatform/microservices-demo",
+        "image": "https://avatars2.githubusercontent.com/u/2810941?s=400&v=4"
+    },
+    "https://github.com/lucaschen/microservices-demo": {
+        "url": "https://github.com/lucaschen/microservices-demo",
+        "title": "GitHub - lucaschen/microservices-demo: I've made a full tutorial series on building this! ==>",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "I've made a full tutorial series on building this! ==> - lucaschen/microservices-demo",
+        "image": "https://avatars1.githubusercontent.com/u/2109121?s=400&v=4"
+    },
     "http://stemkoski.github.io/Three.js/index.html": {
         "url": "http://stemkoski.github.io/Three.js/index.html",
         "title": "Three.js - examples"
@@ -449,6 +474,21 @@
         "icon": "https://github.githubassets.com/favicon.ico",
         "description": "💁‍♀️❤️📰 Frontend for the Supporter platform. Contribute to guardian/support-frontend development by creating an account on GitHub.",
         "image": "https://avatars0.githubusercontent.com/u/164318?s=400&v=4"
+    },
+    "https://carbon.now.sh/": {
+        "url": "https://carbon.now.sh/",
+        "title": "Carbon",
+        "description": "Carbon is the easiest way to create and share beautiful images of your source code."
+    },
+    "http://graphviz.it/#/gallery/clust.gv": {
+        "url": "http://graphviz.it/#/gallery/clust.gv",
+        "title": "Graphviz it! - fiddle with diagrams",
+        "description": "Interactive Graphviz editor with neat animations"
+    },
+    "https://runjs.dev/": {
+        "url": "https://runjs.dev/",
+        "title": "RunJS - Write and run JavaScript instantly",
+        "description": "A modern JavaScript playground, with Node and browser APIs and support for Babel and TypeScript. Write JavaScript and get instant feedback as you type."
     },
     "https://github.com/vladocar/nanoJS": {
         "url": "https://github.com/vladocar/nanoJS",
@@ -525,7 +565,7 @@
     },
     "https://www.vantajs.com": {
         "url": "https://www.vantajs.com",
-        "title": "Vanta.js - 3D & WebGL Background Animations For Your Website",
+        "title": "Vanta.js - Animated 3D Backgrounds For Your Website",
         "description": "3D & WebGL Background Animations For Your Website",
         "image": "https://www.vantajs.com/gallery/fb-share-image.jpg"
     },
@@ -540,7 +580,7 @@
         "title": "GitHub - sverweij/dependency-cruiser: Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.",
         "icon": "https://github.githubassets.com/favicon.ico",
         "description": "Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. - sverweij/dependency-cruiser",
-        "image": "https://avatars0.githubusercontent.com/u/4822597?s=400&v=4"
+        "image": "https://repository-images.githubusercontent.com/74299372/239ed080-370b-11ea-8fe7-140cf7b90a33"
     },
     "https://softwarebrothers.github.io/admin-bro-dev/": {
         "url": "https://softwarebrothers.github.io/admin-bro-dev/",
@@ -958,9 +998,9 @@
     "https://www.styled-components.com/": {
         "url": "https://www.styled-components.com/",
         "title": "styled-components",
-        "icon": "https://www.styled-components.com/static/favicon.png",
+        "icon": "https://www.styled-components.com/favicon.png",
         "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅",
-        "image": "https://www.styled-components.com/static/atom.png",
+        "image": "https://www.styled-components.com/atom.png",
         "author": "styled-components"
     },
     "https://github.com/hyperfuse/react-anime": {
@@ -996,6 +1036,24 @@
         "description": "Write a working version of React, in less than 200 lines of code, with the same API.",
         "image": "https://miro.medium.com/focal/1200/632/52/42/1*9VubAng-r08AkzxMzRN-5A.jpeg",
         "author": "Rodrigo Pombo"
+    },
+    "https://github.com/GoogleChrome/lighthouse": {
+        "url": "https://github.com/GoogleChrome/lighthouse",
+        "title": "GitHub - GoogleChrome/lighthouse: Automated auditing, performance metrics, and best practices for the web.",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "Automated auditing, performance metrics, and best practices for the web. - GoogleChrome/lighthouse",
+        "image": "https://avatars1.githubusercontent.com/u/1778935?s=400&v=4"
+    },
+    "https://search.google.com/search-console/about": {
+        "url": "https://search.google.com/search-console/about",
+        "title": "Google Search Console"
+    },
+    "https://github.com/teles/awesome-seo": {
+        "url": "https://github.com/teles/awesome-seo",
+        "title": "GitHub - teles/awesome-seo: :star2: A curated list of SEO (Search Engine Optimization) links.",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": ":star2: A curated list of SEO (Search Engine Optimization) links. - teles/awesome-seo",
+        "image": "https://avatars2.githubusercontent.com/u/762639?s=400&v=4"
     },
     "https://www.seoptimer.com/": {
         "url": "https://www.seoptimer.com/",
@@ -1067,7 +1125,7 @@
     },
     "https://lukaszadam.com/illustrations": {
         "url": "https://lukaszadam.com/illustrations",
-        "title": "Free Illustrations [Free SVG Illustrations] MIT Vectors",
+        "title": "Free Illustrations 2020 [Free SVG Illustrations] MIT Vectors",
         "icon": "https://lukaszadam.com/favicon.ico",
         "description": "Free Illustrations and Icons for everyone. Use them for anything you like. Free for commercial and personal use."
     },
@@ -1085,7 +1143,7 @@
     },
     "https://game-icons.net/": {
         "url": "https://game-icons.net/",
-        "title": "3742 free SVG and PNG icons for your games or apps | Game-icons.net",
+        "title": "3751 free SVG and PNG icons for your games or apps | Game-icons.net",
         "icon": "https://game-icons.net/favicon.ico"
     },
     "https://www.opendoodles.com/": {
@@ -1167,7 +1225,7 @@
         "title": "Beautiful Free Images & Pictures | Unsplash",
         "icon": "https://unsplash.com/favicon-32x32.png",
         "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-        "image": "http://images.unsplash.com/photo-1562886877-aaaa5c0b3225?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
+        "image": "http://images.unsplash.com/photo-1558981285-6f0c94958bb6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
         "author": "Unsplash"
     },
     "https://fontspark.app/": {
@@ -1214,7 +1272,7 @@
     },
     "https://www.freepik.com/free-vectors/illustrations": {
         "url": "https://www.freepik.com/free-vectors/illustrations",
-        "title": "Illustrations vectors, +324,000 free files in .AI, .EPS format",
+        "title": "Illustrations vectors, +329,000 free files in .AI, .EPS format",
         "icon": "https://freepik.cdnpk.net/img/favicons/favicon-32x32.png?v=2018082101",
         "description": "Free Illustrations vectors: download now the most popular Illustrations vectors on Freepik. Free resources for both personal and commercial use",
         "image": "https://image.freepik.com/free-vector/contact-us-concept-landing-page_52683-18636.jpg"
@@ -1225,12 +1283,6 @@
         "icon": "https://undraw.co/favicon-32x32.png?v=pgqYQdw7OR",
         "description": "Open-source illustrations for every project you can imagine and create.",
         "image": "https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/assets/share_new.jpg"
-    },
-    "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/": {
-        "url": "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
-        "title": "Introduction to design systems | Storybook Tutorials",
-        "description": "A guide to the latest production-ready tools for design systems",
-        "image": "https://learnstorybook.com/design-systems-for-developers/opengraph-cover.jpg"
     },
     "https://mobile.twitter.com/i/moments/994601867987619840": {
         "url": "https://mobile.twitter.com/i/moments/994601867987619840",
@@ -1249,6 +1301,12 @@
         "description": "Every web developer inevitably runs into situations where they need to make visual design decisions, whether they like it or not. Maybe the company you work for doesn’t have a full-time designer and…",
         "image": "https://miro.medium.com/max/1200/1*2YuCOOCjdMEJxg-Lb6G2FA.png",
         "author": "Adam Wathan & Steve Schoger"
+    },
+    "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/": {
+        "url": "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
+        "title": "Introduction to design systems | Storybook Tutorials",
+        "description": "A guide to the latest production-ready tools for design systems",
+        "image": "https://learnstorybook.com/design-systems-for-developers/opengraph-cover.jpg"
     },
     "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914": {
         "url": "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914",
@@ -1312,6 +1370,13 @@
         "icon": "https://www.gstatic.com/images/branding/product/ico/google_fonts_lodp.ico",
         "description": "Making the web more beautiful, fast, and open through great typography",
         "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/opengraph_color_1200dp.png"
+    },
+    "https://github.com/christiandavid/gatsby-theme-byfolio": {
+        "url": "https://github.com/christiandavid/gatsby-theme-byfolio",
+        "title": "GitHub - christiandavid/gatsby-theme-byfolio: A simplified way to create a portfolio using GatsbyJS",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "A simplified way to create a portfolio using GatsbyJS - christiandavid/gatsby-theme-byfolio",
+        "image": "https://avatars0.githubusercontent.com/u/709340?s=400&v=4"
     },
     "https://www.awwwards.com/": {
         "url": "https://www.awwwards.com/",
@@ -1389,7 +1454,7 @@
         "url": "http://www.coloring-book.co/",
         "title": "Beautiful Symmetry: A Coloring Book About Math",
         "description": "Math is about more than just numbers. In this 'book' the language of math is visual, shown in shapes and patterns. This is a coloring book about group theory.",
-        "image": "https://aberke.github.io/coloring-book/src/assets/img/dn/dihedral-shapes-d3-d4-d5-d6-d7-d8.gif",
+        "image": "https://aberke.github.io/coloring-book/src/assets/img/wallpaper/book-title-oranges.gif",
         "author": "Alex Berke | aberke"
     },
     "http://www.jezzamon.com/fourier/": {
@@ -1398,6 +1463,12 @@
         "icon": "http://www.jezzamon.com/favicon-32x32.png",
         "description": "Fourier transforms are a tool used in a whole bunch of different things. This is a explanation of what a Fourier transform does, and some different ways it can be useful.",
         "image": "http://www.jezzamon.com/fourier/preview.png"
+    },
+    "https://visualizingmath.tumblr.com/": {
+        "url": "https://visualizingmath.tumblr.com/",
+        "title": "Visualizing Math",
+        "description": "A blog dedicated to mathematics.",
+        "image": "https://66.media.tumblr.com/avatar_1c7ef7c9144c_128.pnj"
     },
     "https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM": {
         "url": "https://www.hawaii.edu/powerkills/TCH.CHAP26.HTM",
@@ -1412,7 +1483,7 @@
     "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678": {
         "url": "https://www.amazon.com/Complexity-Cooperation-Agent-Based-Competition-Collaboration/dp/0691015678",
         "title": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration: Robert Axelrod: 9780691015675: Amazon.com: Books",
-        "description": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration [Robert Axelrod] on Amazon.com. *FREE* shipping on qualifying offers. Robert Axelrod is widely known for his groundbreaking work in game theory and complexity theory. He is a leader in applying computer modeling to social science problems. His book The Evolution of Cooperation</i> has been hailed as a seminal contribution and has been translated into eight languages since its initial publication. The Complexity of Cooperation</i> is a sequel to that landmark book. It collects seven essays"
+        "description": "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration [Robert Axelrod] on Amazon.com. *FREE* shipping on qualifying offers. Robert Axelrod is widely known for his groundbreaking work in game theory and complexity theory. He is a leader in applying computer modeling to social science problems. His book The Evolution of Cooperation has been hailed as a seminal contribution and has been translated into eight languages since its initial publication. The Complexity of Cooperation is a sequel to that landmark book. It collects seven essays"
     },
     "https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1": {
         "url": "https://www.amazon.com/dp/B07F7JSNDH/ref=rdr_ext_sb_ti_hist_1",
@@ -1451,10 +1522,16 @@
         "url": "http://www.cs.cmu.edu/~enron/",
         "title": "Enron Email Dataset"
     },
+    "https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/": {
+        "url": "https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/",
+        "title": "Introducing the CodeSearchNet challenge - The GitHub Blog",
+        "description": "We’re announcing the CodeSearchNet Challenge and releasing a large dataset for natural language processing and machine learning.",
+        "image": "https://github.blog/wp-content/uploads/2019/03/engineering-social.png?fit=1201%2C630"
+    },
     "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html": {
         "url": "https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html",
         "title": "Driving Dataset > Audi Electronics Venture",
-        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20191203080243/cms4i-nemo/assets/icons/favicon/favicon.png"
+        "icon": "https://www.audi-electronics-venture.de/bin/nemo.static.20200114052430/cms4i-nemo/assets/icons/favicon/favicon.png"
     },
     "https://www.yelp.com/dataset/challenge": {
         "url": "https://www.yelp.com/dataset/challenge",
@@ -1511,7 +1588,7 @@
     "https://developers.google.com/books/docs/v1/getting_started": {
         "url": "https://developers.google.com/books/docs/v1/getting_started",
         "title": "Getting Started  |  Google Books APIs  |  Google Developers",
-        "image": "https://www.gstatic.com/devrel-devsite/prod/v18acaed6c9e1965881c7cfa6f3f9f69e7c37603f6d253114168821ce9e70c645/developers/images/opengraph/google-blue.png"
+        "image": "https://www.gstatic.com/devrel-devsite/prod/v0e4e104495105e7f1e0709003bc8740507426db77c74cec8d9625a7c35862984/developers/images/opengraph/google-blue.png"
     },
     "http://genemania.org/": {
         "url": "http://genemania.org/",
@@ -1520,10 +1597,6 @@
     "http://www.enron-mail.com/email/skilling-j/": {
         "url": "http://www.enron-mail.com/email/skilling-j/",
         "title": "Index of /email/skilling-j"
-    },
-    "https://www.xefer.com/wikipedia": {
-        "url": "https://www.xefer.com/wikipedia",
-        "title": "502 Bad Gateway"
     },
     "https://bekk.christmas/": {
         "url": "https://bekk.christmas/",
@@ -1607,7 +1680,7 @@
         "url": "https://devhints.io/",
         "title": "Devhints — TL;DR for developer documentation",
         "description": "A ridiculous collection of web development cheatsheets · One-page guide to ",
-        "image": "https://assets.devhints.io/previews/index.jpg?t=20191231230944"
+        "image": "https://assets.devhints.io/previews/index.jpg?t=20200104031405"
     },
     "https://mythbusters.js.org/#/": {
         "url": "https://mythbusters.js.org/#/",
@@ -1807,6 +1880,17 @@
         "description": "A cross-platform tool for flashing images to SD cards & USB drives.",
         "image": "https://www.balena.io/etcher/avatar.png"
     },
+    "https://www.xefer.com/wikipedia": {
+        "url": "https://www.xefer.com/wikipedia",
+        "title": "Xefer Wikipedia Radial Graph"
+    },
+    "https://github.com/Chakazul/Lenia": {
+        "url": "https://github.com/Chakazul/Lenia",
+        "title": "GitHub - Chakazul/Lenia: Lenia - Mathematical Life Forms",
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "description": "Lenia - Mathematical Life Forms. Contribute to Chakazul/Lenia development by creating an account on GitHub.",
+        "image": "https://avatars2.githubusercontent.com/u/36795411?s=400&v=4"
+    },
     "https://butterchurnviz.com/": {
         "url": "https://butterchurnviz.com/",
         "title": "Butterchurn Visualizer",
@@ -1959,6 +2043,12 @@
         "description": "Learn about Node.js, JavaScript & Mircoservices from the experts of RisingStack.",
         "image": "https://blog.risingstack.com/content/images/2018/02/risingstack-blog-metapic.png"
     },
+    "https://www.joelonsoftware.com/": {
+        "url": "https://www.joelonsoftware.com/",
+        "title": "Joel on Software",
+        "description": "A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.",
+        "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1"
+    },
     "https://gear.dev/blog/": {
         "url": "https://gear.dev/blog/",
         "title": "Jon Gear",
@@ -2018,7 +2108,7 @@
     "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures": {
         "url": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures",
         "title": "Building Evolutionary Architectures: Support Constant Change by Neal Ford",
-        "description": "Building Evolutionary Architectures book. Read 57 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
+        "description": "Building Evolutionary Architectures book. Read 59 reviews from the world's largest community for readers. The software development ecosystem is constantl...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507020307i/35755822._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/15857473-signals-and-boundaries": {
@@ -2048,13 +2138,13 @@
     "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets": {
         "url": "https://www.goodreads.com/book/show/665134.The_Mis_Behavior_of_Markets",
         "title": "The (Mis)Behavior of Markets by Benoît B. Mandelbrot",
-        "description": "The (Mis)Behavior of Markets book. Read 187 reviews from the world's largest community for readers. Benoit B. Mandelbrot, one of the century's most influ...",
+        "description": "The (Mis)Behavior of Markets book. Read 189 reviews from the world's largest community for readers. Benoit B. Mandelbrot, one of the century's most influ...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387705519i/665134._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/64582.Chaos": {
         "url": "https://www.goodreads.com/book/show/64582.Chaos",
         "title": "Chaos: Making a New Science by James Gleick",
-        "description": "Chaos book. Read 888 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
+        "description": "Chaos book. Read 892 reviews from the world's largest community for readers. Few writers distinguish themselves by their ability to write about complicat...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941595i/64582._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/869836.How_Nature_Works": {
@@ -2083,7 +2173,7 @@
     "https://www.goodreads.com/book/show/497570.Cosmic_Evolution": {
         "url": "https://www.goodreads.com/book/show/497570.Cosmic_Evolution",
         "title": "Cosmic Evolution: The Rise of Complexity in Nature by Eric Chaisson",
-        "description": "Cosmic Evolution book. Read 7 reviews from the world's largest community for readers. We are connected to distant space and time not only by our imaginat...",
+        "description": "Cosmic Evolution book. Read 8 reviews from the world's largest community for readers. We are connected to distant space and time not only by our imaginat...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349082547i/497570._UY630_SR1200,630_.jpg"
     },
     "https://press.princeton.edu/titles/7104.html": {
@@ -2101,7 +2191,7 @@
     "https://www.goodreads.com/book/show/3828902-thinking-in-systems": {
         "url": "https://www.goodreads.com/book/show/3828902-thinking-in-systems",
         "title": "Thinking in Systems: A Primer by Donella H. Meadows",
-        "description": "Thinking in Systems book. Read 608 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
+        "description": "Thinking in Systems book. Read 620 reviews from the world's largest community for readers. Meadows’ Thinking in Systems, is a concise and crucial book of...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859i/3828902._UY630_SR1200,630_.jpg"
     },
     "https://www.goodreads.com/book/show/39088592-the-model-thinker": {
@@ -2113,7 +2203,7 @@
     "https://www.goodreads.com/book/show/41580312-be-here-now": {
         "url": "https://www.goodreads.com/book/show/41580312-be-here-now",
         "title": "Be Here Now by Ram Dass",
-        "description": "Be Here Now book. Read 797 reviews from the world's largest community for readers. Describes one man's transformation upon his acceptance of the principl...",
+        "description": "Be Here Now book. Read 808 reviews from the world's largest community for readers. Describes one man's transformation upon his acceptance of the principl...",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535737556i/41580312._UY630_SR1200,630_.jpg"
     }
 }

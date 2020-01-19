@@ -74,6 +74,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [JavaScript promises cookbook](https://github.com/mattdesl/promise-cookbook)
 
 #### <a name="programming">Programming
+- [Algorithms Visualized](https://visualgo.net/en)
 - [JSON parser with JavaScript](https://lihautan.com/json-parser-with-javascript/)
 - [1500 coding projects ideas](https://www.linuxtrainingacademy.com/projects/)
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
@@ -101,6 +102,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 
 
 #### <a name="ai">AI and Machine Learning
+- [Fast.ai](https://www.fast.ai/)
 - [Testifying at the Senate about AI](https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/)
 - [DeepDreamer](https://deepdreamer.fq.nz/#requirements)
 - [aijs.rocks](https://aijs.rocks/) - A curated collection of inspirational AI-powered JavaScript apps
@@ -130,6 +132,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Wodking with GitHub actions](https://jeffrafter.com/working-with-github-actions/)
 
 #### <a name="example-projects">Example projects
+- [Google microservices demo](https://github.com/GoogleCloudPlatform/microservices-demo)
+- [Microservices demo](https://github.com/lucaschen/microservices-demo)
 - [Three.js examples](http://stemkoski.github.io/Three.js/index.html)
 - [Oak programming language](https://repl.it/@cmihai/Oak-Programming-Language)
 - [Very basic replica of stitchfix.com / krate.in](https://github.com/atulmy/crate)
@@ -143,6 +147,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+- [Carbon](https://carbon.now.sh/)
+- [Graph Visualization tool](http://graphviz.it/#/gallery/clust.gv)
+- [RunJS](https://runjs.dev/)
 - [Minimalistic jQuery](https://github.com/vladocar/nanoJS)
 - [Trillium](https://github.com/zadam/trilium)
 - [GreenSock](https://greensock.com/) - svg animation library
@@ -249,6 +256,10 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Build your own React.js](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 
 #### <a name="web-dev">Web Development
+- [Lighthouse](https://github.com/GoogleChrome/lighthouse)
+- [Google SEO guide]https://support.google.com/webmasters/answer/7451184)
+- [Google Search Console](https://search.google.com/search-console/about)
+- [Awesome list of SEO tools](https://github.com/teles/awesome-seo)
 - [SEO optimizer tool](https://www.seoptimer.com/)
 - [HTML head elements guide](https://htmlhead.dev/)
 - [CSS animation generator](https://animista.net/play/)
@@ -294,17 +305,17 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [DrawKit collection of SVG illustrations](https://www.drawkit.io/)
 - [FreePik free illustrations](https://www.freepik.com/free-vectors/illustrations)
 - [Undraw open source illustrations](https://undraw.co/)
-- [Introduction to Design Systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
 - [Free design & prototyping tool](https://www.figma.com/)
 
 #### <a name="design-resources">Design Resources
 - [Design Tips](https://mobile.twitter.com/i/moments/994601867987619840)
 - [Atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [Introduction to Design Systems](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
 - [UI / UX design guide](https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914) 
 
 
-#### <a name="fonts">Fonts
+#### <a name="fonts">Cool Fonts
 - [Raleway](https://fonts.google.com/specimen/Raleway)
 - [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
 - [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans)
@@ -315,6 +326,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Noto Sans SC](https://fonts.google.com/specimen/Noto+Sans+SC)
 
 #### <a name="cool-designs">Cool Designs
+- [Gatsby portfolio](https://github.com/christiandavid/gatsby-theme-byfolio)
 - [Awwwards](https://www.awwwards.com/)
 - [Mobile UI design examples](https://search.muz.li/inspiration/mobile-app-design-inspiration/)
 - [Mindfull Design](https://mindfuldesign.xyz/) - Book website
@@ -385,7 +397,6 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="websites-and-articles">Other websites and articles
 *[&#8593; top](#contents)*
 
-- [All pages lead to philoxophy](https://www.xefer.com/wikipedia)
 - [Bekk Christmas](https://bekk.christmas/)
 - [Parametric Press](https://parametric.press/issue-01/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
@@ -441,6 +452,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives
 	
 ## <a name="design">Cool Visualizations
+- [All pages lead to philoxophy](https://www.xefer.com/wikipedia)
+- [Algorithms Visualized](https://visualgo.net/en)
+- [Lenia continuous space cellular automata](https://github.com/Chakazul/Lenia)
 - [Music Visualizer](https://butterchurnviz.com/)
 - [Kepler.gl geospatial analysis tool](https://kepler.gl/)
 - [Music Visualization](https://www.youtube.com/watch?v=vKYRdmg7lzk)
@@ -482,7 +496,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Facebook F8 open source project and blog](https://makeitopen.com/)
 
 
-## <a name="books">Books
+## <a name="books">Books I Like
 *[&#8593; top](#contents)*
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Contemporary Calculus](http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html)

@@ -47,6 +47,7 @@
                 "title": "Programming",
                 "name": "programming",
                 "links": [
+                    "https://visualgo.net/en",
                     "https://lihautan.com/json-parser-with-javascript/",
                     "https://www.linuxtrainingacademy.com/projects/",
                     "https://tuhdo.github.io/os01/",
@@ -81,6 +82,7 @@
                 "title": "AI and Machine Learning",
                 "name": "ai",
                 "links": [
+                    "https://www.fast.ai/",
                     "https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/",
                     "https://deepdreamer.fq.nz/#requirements",
                     "https://aijs.rocks/",
@@ -122,6 +124,8 @@
                 "title": "Example projects",
                 "name": "example-projects",
                 "links": [
+                    "https://github.com/GoogleCloudPlatform/microservices-demo",
+                    "https://github.com/lucaschen/microservices-demo",
                     "http://stemkoski.github.io/Three.js/index.html",
                     "https://repl.it/@cmihai/Oak-Programming-Language",
                     "https://github.com/atulmy/crate",
@@ -138,6 +142,9 @@
                 "title": "Frameworks and tools",
                 "name": "frameworks-and-tools",
                 "links": [
+                    "https://carbon.now.sh/",
+                    "http://graphviz.it/#/gallery/clust.gv",
+                    "https://runjs.dev/",
                     "https://github.com/vladocar/nanoJS",
                     "https://github.com/zadam/trilium",
                     "https://greensock.com/",
@@ -264,6 +271,10 @@
                 "title": "Web Development",
                 "name": "web-dev",
                 "links": [
+                    "https://github.com/GoogleChrome/lighthouse",
+                    "- [Google SEO guide]https://support.google.com/webmasters/answer/7451184",
+                    "https://search.google.com/search-console/about",
+                    "https://github.com/teles/awesome-seo",
                     "https://www.seoptimer.com/",
                     "https://htmlhead.dev/",
                     "https://animista.net/play/"
@@ -320,7 +331,6 @@
                     "https://www.drawkit.io/",
                     "https://www.freepik.com/free-vectors/illustrations",
                     "https://undraw.co/",
-                    "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
                     "https://www.figma.com/"
                 ]
             },
@@ -331,11 +341,12 @@
                     "https://mobile.twitter.com/i/moments/994601867987619840",
                     "http://bradfrost.com/blog/post/atomic-web-design/",
                     "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886",
+                    "https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/",
                     "https://medium.com/swlh/ui-ux-design-guide-with-terms-explanations-tips-and-trends-754b9356d914"
                 ]
             },
             {
-                "title": "Fonts",
+                "title": "Cool Fonts",
                 "name": "fonts",
                 "links": [
                     "https://fonts.google.com/specimen/Raleway",
@@ -352,6 +363,7 @@
                 "title": "Cool Designs",
                 "name": "cool-designs",
                 "links": [
+                    "https://github.com/christiandavid/gatsby-theme-byfolio",
                     "https://www.awwwards.com/",
                     "https://search.muz.li/inspiration/mobile-app-design-inspiration/",
                     "https://mindfuldesign.xyz/",
@@ -433,7 +445,6 @@
         "title": "Other websites and articles",
         "name": "websites-and-articles",
         "links": [
-            "https://www.xefer.com/wikipedia",
             "https://bekk.christmas/",
             "https://parametric.press/issue-01/",
             "https://www.smashingmagazine.com/",
@@ -494,6 +505,9 @@
         "title": "Cool Visualizations",
         "name": "design",
         "links": [
+            "https://www.xefer.com/wikipedia",
+            "https://visualgo.net/en",
+            "https://github.com/Chakazul/Lenia",
             "https://butterchurnviz.com/",
             "https://kepler.gl/",
             "https://www.youtube.com/watch?v=vKYRdmg7lzk",
@@ -538,7 +552,7 @@
         ]
     },
     {
-        "title": "Books",
+        "title": "Books I Like",
         "name": "books",
         "links": [
             "https://eloquentjavascript.net/",
