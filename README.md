@@ -1,6 +1,7 @@
 # Cool links 💾📚📖
 
 [comment]: <> (TODO: split topics into multiple files)
+[comment]: <> (TODO: build awesome-lists query api)
 [comment]: <> (TODO: mark each link with tags)
 [comment]: <> (TODO: add quality projects from github starred repos)
 
@@ -43,6 +44,10 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Books](#books)
 
 ## <a name="other-lists"></a>Other awesome lists
+- [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [Awesome documentation tools](https://github.com/unicodeveloper/awesome-documentation-tools)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Creative Portfolios](https://creative-portfolios.now.sh/)
@@ -58,6 +63,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 *[&#8593; top](#contents)*
 
 #### <a name="theories-and-conceprs">Theories and concepts
+- [How Operating Systems Work](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
 - [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/)
 - [DAO](https://github.com/the-dao/whitepaper) - Decentralized Autonomous Organisation
 - [Markov chains explained visually](http://setosa.io/ev/markov-chains/)
@@ -74,6 +80,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [JavaScript promises cookbook](https://github.com/mattdesl/promise-cookbook)
 
 #### <a name="programming">Programming
+- [How I write backends](https://github.com/fpereiro/backendlore)
 - [Algorithms Visualized](https://visualgo.net/en)
 - [JSON parser with JavaScript](https://lihautan.com/json-parser-with-javascript/)
 - [1500 coding projects ideas](https://www.linuxtrainingacademy.com/projects/)
@@ -112,6 +119,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
 #### <a name="vcs">Version Control and Open Source ecosystem
+- [Git training kit](https://github.github.com/training-kit/)
 - [First contributions to Open Source](https://firstcontributions.github.io/)
 - [Git commit practises](https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/)
 - [How to write a Git commit message](https://chris.beams.io/posts/git-commit/)
@@ -247,6 +255,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Interactive data visualization](http://astrangertowords.com/)
 
 #### <a name="reactjs">React.js
+- [react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax)
 - [styled-components](https://www.styled-components.com/)
 - [react-anime](https://github.com/hyperfuse/react-anime) - simple animation library
 - [Shards](https://designrevision.com/downloads/shards-react/) - react ui toolkit / design system
@@ -256,6 +265,10 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Build your own React.js](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 
 #### <a name="web-dev">Web Development
+- [Enable CORS anywhere](https://cors-anywhere.herokuapp.com/)
+- [Programming Design Systems](https://programmingdesignsystems.com/)
+- [Awesome Webpack](https://github.com/webpack-contrib/awesome-webpack)
+- [Awesome Web Animations](https://github.com/sergey-pimenov/awesome-web-animation)
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [Google SEO guide]https://support.google.com/webmasters/answer/7451184)
 - [Google Search Console](https://search.google.com/search-console/about)
@@ -268,11 +281,13 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [custom random data](https://mockaroo.com/)
 - [random picture api](https://picsum.photos/)
 - [random user data api](https://randomuser.me/api/)
+- [Mirage mocking library](https://miragejs.com/)
 	
 ## <a name="graphic-design">Graphic Design
 *[&#8593; top](#contents)*
 
 #### <a name="free-design-assets">Free Design assets
+- [Svg backgrounds](https://www.heropatterns.com/)
 - [Icon monstr](https://iconmonstr.com/)
 - [Many pixels](https://www.manypixels.co/gallery/)
 - [Glaze](https://www.glazestock.com/)
@@ -325,7 +340,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Assistant](http://fonts.google.com/specimen/Assistant)
 - [Noto Sans SC](https://fonts.google.com/specimen/Noto+Sans+SC)
 
-#### <a name="cool-designs">Cool Designs
+#### <a name="cool-designs">Cool Designs and 
+- [Portfolio style](https://github.com/EvanBacon/Portfolio)
+- [JavaScript onScroll animation](https://codepen.io/lmgonzalves/pen/QPBPJe)
 - [Gatsby portfolio](https://github.com/christiandavid/gatsby-theme-byfolio)
 - [Awwwards](https://www.awwwards.com/)
 - [Mobile UI design examples](https://search.muz.li/inspiration/mobile-app-design-inspiration/)
@@ -373,6 +390,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 ## <a name="datasets-and-apis">Datasets and APIs
 *[&#8593; top](#contents)*
 
+- [Publis APIs](https://github.com/public-apis/public-apis)
 - [Free Public APIs](https://public-apis.xyz/)
 - [Enrom Email Dataset](http://www.cs.cmu.edu/~enron/)
 - [CodeSearchNey challange](https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/)
@@ -452,6 +470,10 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives
 	
 ## <a name="design">Cool Visualizations
+- [City Roads visualization](https://anvaka.github.io/city-roads)
+- [N-body wasm simulation](https://michaeljcole.github.io/n-body-wasm-canvas/)
+- [Inside Sound](https://experiments.withgoogle.com/webvr/inside-music/view/)
+- [Pixijs renders](https://mrdoob.com/)
 - [All pages lead to philoxophy](https://www.xefer.com/wikipedia)
 - [Algorithms Visualized](https://visualgo.net/en)
 - [Lenia continuous space cellular automata](https://github.com/Chakazul/Lenia)

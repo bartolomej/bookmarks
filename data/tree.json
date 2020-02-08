@@ -3,6 +3,10 @@
         "title": "Other awesome lists",
         "name": "other-lists",
         "links": [
+            "https://github.com/binhnguyennus/awesome-scalability",
+            "https://github.com/matiassingers/awesome-readme",
+            "https://github.com/unicodeveloper/awesome-documentation-tools",
+            "https://github.com/trimstray/the-book-of-secret-knowledge",
             "https://github.com/lorien/awesome-web-scraping",
             "https://github.com/sindresorhus/awesome",
             "https://creative-portfolios.now.sh/",
@@ -23,6 +27,7 @@
                 "title": "Theories and concepts",
                 "name": "theories-and-conceprs",
                 "links": [
+                    "https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f",
                     "https://plato.stanford.edu/entries/computational-mind/",
                     "https://github.com/the-dao/whitepaper",
                     "http://setosa.io/ev/markov-chains/",
@@ -47,6 +52,7 @@
                 "title": "Programming",
                 "name": "programming",
                 "links": [
+                    "https://github.com/fpereiro/backendlore",
                     "https://visualgo.net/en",
                     "https://lihautan.com/json-parser-with-javascript/",
                     "https://www.linuxtrainingacademy.com/projects/",
@@ -96,6 +102,7 @@
                 "title": "Version Control and Open Source ecosystem",
                 "name": "vcs",
                 "links": [
+                    "https://github.github.com/training-kit/",
                     "https://firstcontributions.github.io/",
                     "https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/",
                     "https://chris.beams.io/posts/git-commit/",
@@ -258,6 +265,7 @@
                 "title": "React.js",
                 "name": "reactjs",
                 "links": [
+                    "https://github.com/jscottsmith/react-scroll-parallax",
                     "https://www.styled-components.com/",
                     "https://github.com/hyperfuse/react-anime",
                     "https://designrevision.com/downloads/shards-react/",
@@ -271,6 +279,10 @@
                 "title": "Web Development",
                 "name": "web-dev",
                 "links": [
+                    "https://cors-anywhere.herokuapp.com/",
+                    "https://programmingdesignsystems.com/",
+                    "https://github.com/webpack-contrib/awesome-webpack",
+                    "https://github.com/sergey-pimenov/awesome-web-animation",
                     "https://github.com/GoogleChrome/lighthouse",
                     "- [Google SEO guide]https://support.google.com/webmasters/answer/7451184",
                     "https://search.google.com/search-console/about",
@@ -286,7 +298,8 @@
                 "links": [
                     "https://mockaroo.com/",
                     "https://picsum.photos/",
-                    "https://randomuser.me/api/"
+                    "https://randomuser.me/api/",
+                    "https://miragejs.com/"
                 ]
             }
         ]
@@ -299,6 +312,7 @@
                 "title": "Free Design assets",
                 "name": "free-design-assets",
                 "links": [
+                    "https://www.heropatterns.com/",
                     "https://iconmonstr.com/",
                     "https://www.manypixels.co/gallery/",
                     "https://www.glazestock.com/",
@@ -360,9 +374,11 @@
                 ]
             },
             {
-                "title": "Cool Designs",
+                "title": "Cool Designs and ",
                 "name": "cool-designs",
                 "links": [
+                    "https://github.com/EvanBacon/Portfolio",
+                    "https://codepen.io/lmgonzalves/pen/QPBPJe",
                     "https://github.com/christiandavid/gatsby-theme-byfolio",
                     "https://www.awwwards.com/",
                     "https://search.muz.li/inspiration/mobile-app-design-inspiration/",
@@ -419,6 +435,7 @@
         "title": "Datasets and APIs",
         "name": "datasets-and-apis",
         "links": [
+            "https://github.com/public-apis/public-apis",
             "https://public-apis.xyz/",
             "http://www.cs.cmu.edu/~enron/",
             "https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/",
@@ -505,6 +522,10 @@
         "title": "Cool Visualizations",
         "name": "design",
         "links": [
+            "https://anvaka.github.io/city-roads",
+            "https://michaeljcole.github.io/n-body-wasm-canvas/",
+            "https://experiments.withgoogle.com/webvr/inside-music/view/",
+            "https://mrdoob.com/",
             "https://www.xefer.com/wikipedia",
             "https://visualgo.net/en",
             "https://github.com/Chakazul/Lenia",
