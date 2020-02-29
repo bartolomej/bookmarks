@@ -80,6 +80,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [JavaScript promises cookbook](https://github.com/mattdesl/promise-cookbook)
 
 #### <a name="programming">Programming
+- [Unfur](https://dfir.blog/unfurl) - Url trees
 - [How I write backends](https://github.com/fpereiro/backendlore)
 - [Algorithms Visualized](https://visualgo.net/en)
 - [JSON parser with JavaScript](https://lihautan.com/json-parser-with-javascript/)
@@ -105,10 +106,12 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [People Projects And Patterns](http://wiki.c2.com/?PeopleProjectsAndPatterns)
 
 #### <a name="beautiful-codebases">Beautiful codebases
+- [Hekla news](https://github.com/birkir/hekla)
 - [Pug](https://github.com/pugjs/pug)
 
 
 #### <a name="ai">AI and Machine Learning
+- [Bring your paintings to animated life](https://ebsynth.com/)
 - [Fast.ai](https://www.fast.ai/)
 - [Testifying at the Senate about AI](https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/)
 - [DeepDreamer](https://deepdreamer.fq.nz/#requirements)
@@ -119,6 +122,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Convolutional ANN article](http://cs231n.github.io/convolutional-networks/)
 
 #### <a name="vcs">Version Control and Open Source ecosystem
+- [Git Command Explorer](https://gitexplorer.com/)
 - [Git training kit](https://github.github.com/training-kit/)
 - [First contributions to Open Source](https://firstcontributions.github.io/)
 - [Git commit practises](https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/)
@@ -155,6 +159,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Guardian repos](https://github.com/guardian/support-frontend)
 
 #### <a name="frameworks-and-tools">Frameworks and tools
+- [Sketchpad](https://sketch.io/sketchpad/)
 - [Carbon](https://carbon.now.sh/)
 - [Graph Visualization tool](http://graphviz.it/#/gallery/clust.gv)
 - [RunJS](https://runjs.dev/)
@@ -255,6 +260,9 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Interactive data visualization](http://astrangertowords.com/)
 
 #### <a name="reactjs">React.js
+- [React Native Guide](https://www.reactnative.guide/index.html)
+- [react-particle-image](https://github.com/malerba118/react-particle-image)
+- [Build your own React](https://pomb.us/build-your-own-react/)
 - [react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax)
 - [styled-components](https://www.styled-components.com/)
 - [react-anime](https://github.com/hyperfuse/react-anime) - simple animation library
@@ -265,6 +273,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Build your own React.js](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 
 #### <a name="web-dev">Web Development
+- [Learn Web Development](https://github.com/karlhorky/learn-to-program)
+- [Create app](https://createapp.dev/)
 - [Enable CORS anywhere](https://cors-anywhere.herokuapp.com/)
 - [Programming Design Systems](https://programmingdesignsystems.com/)
 - [Awesome Webpack](https://github.com/webpack-contrib/awesome-webpack)
@@ -287,6 +297,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 *[&#8593; top](#contents)*
 
 #### <a name="free-design-assets">Free Design assets
+- [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+- [Spark Yoj](https://github.com/sw-yx/spark-joy#graphics-and-svg-illustrations)
 - [Svg backgrounds](https://www.heropatterns.com/)
 - [Icon monstr](https://iconmonstr.com/)
 - [Many pixels](https://www.manypixels.co/gallery/)
@@ -340,7 +352,8 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Assistant](http://fonts.google.com/specimen/Assistant)
 - [Noto Sans SC](https://fonts.google.com/specimen/Noto+Sans+SC)
 
-#### <a name="cool-designs">Cool Designs and 
+#### <a name="cool-designs">Cool Designs and Ideas
+- [Mobile First Animation](https://github.com/aholachek/mobile-first-animation)
 - [Portfolio style](https://github.com/EvanBacon/Portfolio)
 - [JavaScript onScroll animation](https://codepen.io/lmgonzalves/pen/QPBPJe)
 - [Gatsby portfolio](https://github.com/christiandavid/gatsby-theme-byfolio)

@@ -52,6 +52,7 @@
                 "title": "Programming",
                 "name": "programming",
                 "links": [
+                    "https://dfir.blog/unfurl",
                     "https://github.com/fpereiro/backendlore",
                     "https://visualgo.net/en",
                     "https://lihautan.com/json-parser-with-javascript/",
@@ -81,6 +82,7 @@
                 "title": "Beautiful codebases",
                 "name": "beautiful-codebases",
                 "links": [
+                    "https://github.com/birkir/hekla",
                     "https://github.com/pugjs/pug"
                 ]
             },
@@ -88,6 +90,7 @@
                 "title": "AI and Machine Learning",
                 "name": "ai",
                 "links": [
+                    "https://ebsynth.com/",
                     "https://www.fast.ai/",
                     "https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/",
                     "https://deepdreamer.fq.nz/#requirements",
@@ -102,6 +105,7 @@
                 "title": "Version Control and Open Source ecosystem",
                 "name": "vcs",
                 "links": [
+                    "https://gitexplorer.com/",
                     "https://github.github.com/training-kit/",
                     "https://firstcontributions.github.io/",
                     "https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/",
@@ -149,6 +153,7 @@
                 "title": "Frameworks and tools",
                 "name": "frameworks-and-tools",
                 "links": [
+                    "https://sketch.io/sketchpad/",
                     "https://carbon.now.sh/",
                     "http://graphviz.it/#/gallery/clust.gv",
                     "https://runjs.dev/",
@@ -265,6 +270,9 @@
                 "title": "React.js",
                 "name": "reactjs",
                 "links": [
+                    "https://www.reactnative.guide/index.html",
+                    "https://github.com/malerba118/react-particle-image",
+                    "https://pomb.us/build-your-own-react/",
                     "https://github.com/jscottsmith/react-scroll-parallax",
                     "https://www.styled-components.com/",
                     "https://github.com/hyperfuse/react-anime",
@@ -279,6 +287,8 @@
                 "title": "Web Development",
                 "name": "web-dev",
                 "links": [
+                    "https://github.com/karlhorky/learn-to-program",
+                    "https://createapp.dev/",
                     "https://cors-anywhere.herokuapp.com/",
                     "https://programmingdesignsystems.com/",
                     "https://github.com/webpack-contrib/awesome-webpack",
@@ -312,6 +322,8 @@
                 "title": "Free Design assets",
                 "name": "free-design-assets",
                 "links": [
+                    "https://github.com/neutraltone/awesome-stock-resources",
+                    "https://github.com/sw-yx/spark-joy#graphics-and-svg-illustrations",
                     "https://www.heropatterns.com/",
                     "https://iconmonstr.com/",
                     "https://www.manypixels.co/gallery/",
@@ -374,9 +386,10 @@
                 ]
             },
             {
-                "title": "Cool Designs and ",
+                "title": "Cool Designs and Ideas",
                 "name": "cool-designs",
                 "links": [
+                    "https://github.com/aholachek/mobile-first-animation",
                     "https://github.com/EvanBacon/Portfolio",
                     "https://codepen.io/lmgonzalves/pen/QPBPJe",
                     "https://github.com/christiandavid/gatsby-theme-byfolio",
