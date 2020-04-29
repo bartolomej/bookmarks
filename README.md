@@ -15,7 +15,6 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 	- [Theories and Concepts](#theories-and-concepts)
     - [Programming Languages](#programming-languages)
 	- [Programming](#programming)
-	- [Beautiful codebases](#beautiful-codebases)
 	- [AI and Machine learning](#ai)
 	- [Version Control](#vcs)
 	- [Code practises, patterns, tutorials and tips](#practises)
@@ -105,11 +104,6 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Informal History Of Programming Ideas](http://wiki.c2.com/?InformalHistoryOfProgrammingIdeas)
 - [People Projects And Patterns](http://wiki.c2.com/?PeopleProjectsAndPatterns)
 
-#### <a name="beautiful-codebases">Beautiful codebases
-- [Hekla news](https://github.com/birkir/hekla)
-- [Pug](https://github.com/pugjs/pug)
-
-
 #### <a name="ai">AI and Machine Learning
 - [Bring your paintings to animated life](https://ebsynth.com/)
 - [Fast.ai](https://www.fast.ai/)
@@ -144,6 +138,11 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Wodking with GitHub actions](https://jeffrafter.com/working-with-github-actions/)
 
 #### <a name="example-projects">Example projects
+- [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) - backend and frontend app
+- [Ghost](https://github.com/TryGhost/Ghost)
+- [Hekla news](https://github.com/birkir/hekla)
+- [Odoo](https://github.com/odoo/odoo)
+- [Pug](https://github.com/pugjs/pug)
 - [Google microservices demo](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Microservices demo](https://github.com/lucaschen/microservices-demo)
 - [Three.js examples](http://stemkoski.github.io/Three.js/index.html)
@@ -297,6 +296,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 *[&#8593; top](#contents)*
 
 #### <a name="free-design-assets">Free Design assets
+- [Design Files](https://files.design/)
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [Spark Yoj](https://github.com/sw-yx/spark-joy#graphics-and-svg-illustrations)
 - [Svg backgrounds](https://www.heropatterns.com/)
@@ -353,6 +353,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Noto Sans SC](https://fonts.google.com/specimen/Noto+Sans+SC)
 
 #### <a name="cool-designs">Cool Designs and Ideas
+- [Payment service](https://useplink.com/en/)
 - [Mobile First Animation](https://github.com/aholachek/mobile-first-animation)
 - [Portfolio style](https://github.com/EvanBacon/Portfolio)
 - [JavaScript onScroll animation](https://codepen.io/lmgonzalves/pen/QPBPJe)
