@@ -1,4 +1,4 @@
-# Cool links 💾📚📖
+# My Bookmarks 💾📚📖
 
 [comment]: <> (TODO: split topics into multiple files)
 [comment]: <> (TODO: build awesome-lists query api)
