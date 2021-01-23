@@ -3,7 +3,7 @@ import './index.css';
 import styled from 'styled-components';
 import "styled-components/macro";
 import Card from "./components/Card";
-import Index from "./components/Index";
+import Index from "./components";
 import search from "./search";
 import githubLogo from './assets/github.png';
 import { ReactComponent as ArrowAsset } from "./assets/arrow.svg";
@@ -150,7 +150,7 @@ async function get (url) {
 }
 
 function apiUrl (file) {
-  return `https://raw.githubusercontent.com/bartolomej/cool-links/master/data/${file}`;
+  return `https://raw.githubusercontent.com/bartolomej/bookmarks/master/data/${file}`;
 }
 
 const ArrowSvg = styled(ArrowAsset)`
