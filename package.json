@@ -1,7 +1,6 @@
 {
-  "name": "cool-links-react",
+  "name": "bookmarks",
   "version": "0.1.0",
-  "homepage": "https://bartolomej.github.io/cool-links/",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
