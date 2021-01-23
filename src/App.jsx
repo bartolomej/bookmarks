@@ -68,7 +68,7 @@ export default function () {
         <img src={githubLogo} alt="GitHub logo"/>
       </GitHubLogo>
       <Header>
-        <h1>Cool links <span role="img" aria-label="Links emoji">💾📚📖</span></h1>
+        <h1>My Bookmarks <span role="img" aria-label="Links emoji">💾📚📖</span></h1>
         <p>Links of different interesting ideas, resources, blogs, articles, books etc.</p>
         <ArrowBtn href="#landing"><ArrowSvg/></ArrowBtn>
       </Header>
