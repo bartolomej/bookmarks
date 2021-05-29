@@ -489,6 +489,7 @@ Links of different interesting ideas, resources, blogs, articles, books etc.<br>
 - [Inside Sound](https://experiments.withgoogle.com/webvr/inside-music/view/)
 - [Pixijs renders](https://mrdoob.com/)
 - [All pages lead to philoxophy](https://www.xefer.com/wikipedia)
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
 - [Algorithms Visualized](https://visualgo.net/en)
 - [Lenia continuous space cellular automata](https://github.com/Chakazul/Lenia)
 - [Music Visualizer](https://butterchurnviz.com/)
